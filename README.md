@@ -8,17 +8,17 @@
 ## Apps
 
 - [zed](https://github.com/zed-industries/zed): A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [hummingbird](https://github.com/143mailliw/hummingbird): Modern music player written in Rust using gpui with a focus on design and performance.
-- [pgui](https://github.com/duanebester/pgui): A GUI to query & manage postgres databases.
-- [Loungy](https://github.com/MatthiasGrandl/loungy): App launcher in the vein of Spotlight, Alfred, Raycast.
+- [coop](https://github.com/lumehq/coop): A simple, fast, and reliable nostr client for secure messaging across all platforms.
 - [Fast Forward](https://github.com/gaauwe/fast-forward): A window switcher for macOS.
 - [gpui-calculator](https://github.com/kriskw1999/gpui-calculator): Beautifully designed calculator with both keys and mouse interaction.
-- [helix-gpui](https://github.com/polachok/helix-gpui): Helix gpui frontend.
-- [postman-gpui](https://github.com/847850277/postman-gpui): A simple graphical user interface application for making HTTP requests, inspired by Postman.
-- [gpui-todos](https://github.com/duanebester/gpui-todos): A todo app written in gpui.
 - [gpui-list](https://github.com/duanebester/gpui-list): Basic list examples in gpui.
-- [coop](https://github.com/lumehq/coop): A simple, fast, and reliable nostr client for secure messaging across all platforms.
+- [gpui-todos](https://github.com/duanebester/gpui-todos): A todo app written in gpui.
 - [gpui-video-player](https://github.com/cijiugechu/gpui-video-player): Video player for gpui
+- [helix-gpui](https://github.com/polachok/helix-gpui): Helix gpui frontend.
+- [hummingbird](https://github.com/143mailliw/hummingbird): Modern music player written in Rust using gpui with a focus on design and performance.
+- [Loungy](https://github.com/MatthiasGrandl/loungy): App launcher in the vein of Spotlight, Alfred, Raycast.
+- [pgui](https://github.com/duanebester/pgui): A GUI to query & manage postgres databases.
+- [postman-gpui](https://github.com/847850277/postman-gpui): A simple graphical user interface application for making HTTP requests, inspired by Postman.
 
 ## Libraries
 
