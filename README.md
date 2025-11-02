@@ -21,6 +21,7 @@
 - [pgui](https://github.com/duanebester/pgui): A GUI to query & manage postgres databases.
 - [postman-gpui](https://github.com/847850277/postman-gpui): A simple graphical user interface application for making HTTP requests, inspired by Postman.
 - [bmo](https://github.com/rubbieKelvin/bmo): Pomorodo timer written with rust & gpui.
+- [zlyph](https://github.com/douglance/zlyph): A minimal text editor built with GPUI.
 
 ## Libraries
 
