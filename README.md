@@ -20,6 +20,7 @@
 - [Loungy](https://github.com/MatthiasGrandl/loungy): App launcher in the vein of Spotlight, Alfred, Raycast.
 - [pgui](https://github.com/duanebester/pgui): A GUI to query & manage postgres databases.
 - [postman-gpui](https://github.com/847850277/postman-gpui): A simple graphical user interface application for making HTTP requests, inspired by Postman.
+- [bmo](https://github.com/rubbieKelvin/bmo): Pomorodo timer written with rust & gpui.
 
 ## Libraries
 
@@ -27,7 +28,7 @@
 - [gpui-form](https://github.com/stayhydated/gpui-form): A struct derive macro for deriving gpui-component... components on fields.
 - [plotters-gpui](https://github.com/JakkuSakura/plotters-gpui): gpui backend for plotters
 - [gpui-router](https://github.com/justjavac/gpui-router): A router for GPUI App.
-- [adabraka-ui](https://github.com/Augani/adabraka-ui): UI components for building beautiful desktop applications 
+- [adabraka-ui](https://github.com/Augani/adabraka-ui): UI components for building beautiful desktop applications
 
 ## Tooling
 
