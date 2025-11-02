@@ -29,6 +29,7 @@
 - [plotters-gpui](https://github.com/JakkuSakura/plotters-gpui): gpui backend for plotters
 - [gpui-router](https://github.com/justjavac/gpui-router): A router for GPUI App.
 - [adabraka-ui](https://github.com/Augani/adabraka-ui): UI components for building beautiful desktop applications
+- [gpui-video-player](https://github.com/cijiugechu/gpui-video-player): Video player for gpui.
 
 ## Tooling
 
