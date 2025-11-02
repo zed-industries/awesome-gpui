@@ -15,7 +15,6 @@
 - [gpui-calculator](https://github.com/kriskw1999/gpui-calculator): Beautifully designed calculator with both keys and mouse interaction.
 - [gpui-list](https://github.com/duanebester/gpui-list): Basic list examples in gpui.
 - [gpui-todos](https://github.com/duanebester/gpui-todos): A todo app written in gpui.
-- [gpui-video-player](https://github.com/cijiugechu/gpui-video-player): Video player for gpui
 - [helix-gpui](https://github.com/polachok/helix-gpui): Helix gpui frontend.
 - [hummingbird](https://github.com/143mailliw/hummingbird): Modern music player written in Rust using gpui with a focus on design and performance.
 - [Loungy](https://github.com/MatthiasGrandl/loungy): App launcher in the vein of Spotlight, Alfred, Raycast.
