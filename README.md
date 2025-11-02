@@ -8,30 +8,30 @@
 ## Apps
 
 - [zed](https://github.com/zed-industries/zed): A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [bmo](https://github.com/rubbieKelvin/bmo): Pomorodo timer written with rust & gpui.
 - [coop](https://github.com/lumehq/coop): A simple, fast, and reliable nostr client for secure messaging across all platforms.
 - [Fast Forward](https://github.com/gaauwe/fast-forward): A window switcher for macOS.
+- [gpui-base64](https://github.com/badgooooor/gpui-base64): Base64 encoder/decoder example with gpui and gpui-component.
 - [gpui-calculator](https://github.com/kriskw1999/gpui-calculator): Beautifully designed calculator with both keys and mouse interaction.
 - [gpui-list](https://github.com/duanebester/gpui-list): Basic list examples in gpui.
 - [gpui-todos](https://github.com/duanebester/gpui-todos): A todo app written in gpui.
-- [gpui-base64](https://github.com/badgooooor/gpui-base64): Base64 encoder/decoder example with gpui and gpui-component.
 - [gpui-video-player](https://github.com/cijiugechu/gpui-video-player): Video player for gpui
 - [helix-gpui](https://github.com/polachok/helix-gpui): Helix gpui frontend.
 - [hummingbird](https://github.com/143mailliw/hummingbird): Modern music player written in Rust using gpui with a focus on design and performance.
 - [Loungy](https://github.com/MatthiasGrandl/loungy): App launcher in the vein of Spotlight, Alfred, Raycast.
 - [pgui](https://github.com/duanebester/pgui): A GUI to query & manage postgres databases.
 - [postman-gpui](https://github.com/847850277/postman-gpui): A simple graphical user interface application for making HTTP requests, inspired by Postman.
-- [bmo](https://github.com/rubbieKelvin/bmo): Pomorodo timer written with rust & gpui.
 - [zlyph](https://github.com/douglance/zlyph): A minimal text editor built with GPUI.
 
 ## Libraries
 
+- [adabraka-ui](https://github.com/Augani/adabraka-ui): UI components for building beautiful desktop applications
 - [gpui-component](https://github.com/longbridge/gpui-component): UI components for building fantastic desktop applications using gpui.
 - [gpui-form](https://github.com/stayhydated/gpui-form): A struct derive macro for deriving gpui-component... components on fields.
-- [plotters-gpui](https://github.com/JakkuSakura/plotters-gpui): gpui backend for plotters
-- [gpui-router](https://github.com/justjavac/gpui-router): A router for GPUI App.
-- [adabraka-ui](https://github.com/Augani/adabraka-ui): UI components for building beautiful desktop applications
-- [gpui-video-player](https://github.com/cijiugechu/gpui-video-player): Video player for gpui.
 - [gpui-nav](https://github.com/benodiwal/gpui-nav): Easy navigation library for GPUI applications.
+- [gpui-router](https://github.com/justjavac/gpui-router): A router for GPUI App.
+- [gpui-video-player](https://github.com/cijiugechu/gpui-video-player): Video player for gpui.
+- [plotters-gpui](https://github.com/JakkuSakura/plotters-gpui): gpui backend for plotters
 
 ## Tooling
 
