@@ -31,6 +31,7 @@
 - [gpui-router](https://github.com/justjavac/gpui-router): A router for GPUI App.
 - [adabraka-ui](https://github.com/Augani/adabraka-ui): UI components for building beautiful desktop applications
 - [gpui-video-player](https://github.com/cijiugechu/gpui-video-player): Video player for gpui.
+- [gpui-nav](https://github.com/benodiwal/gpui-nav): Easy navigation library for GPUI applications.
 
 ## Tooling
 
