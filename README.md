@@ -1,6 +1,6 @@
 # awesome-gpui
 
- A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, designed to support a wide variety of applications.
+A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, designed to support a wide variety of applications.
 
 - [website](https://www.gpui.rs)
 - [crates.io](https://crates.io/crates/gpui)
@@ -21,6 +21,7 @@
 - [pgui](https://github.com/duanebester/pgui): A GUI to query & manage postgres databases.
 - [postman-gpui](https://github.com/847850277/postman-gpui): A simple graphical user interface application for making HTTP requests, inspired by Postman.
 - [zlyph](https://github.com/douglance/zlyph): A minimal text editor built with GPUI.
+- [reminder](https://github.com/LeadcodeDev/remindr): An open-source and self-hostable alternative to Notion.
 
 ## Libraries
 
