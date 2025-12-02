@@ -22,6 +22,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [postman-gpui](https://github.com/847850277/postman-gpui): A simple graphical user interface application for making HTTP requests, inspired by Postman.
 - [reminder](https://github.com/LeadcodeDev/remindr): An open-source and self-hostable alternative to Notion.
 - [zlyph](https://github.com/douglance/zlyph): A minimal text editor built with GPUI.
+- [vleer](https://github.com/vleerapp/vleer): Music, but without the subscription. Built on top of the OpenMusic API for a new streaming standard.
 
 ## Libraries
 
