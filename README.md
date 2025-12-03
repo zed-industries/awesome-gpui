@@ -21,21 +21,21 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [pgui](https://github.com/duanebester/pgui): A GUI to query & manage postgres databases.
 - [postman-gpui](https://github.com/847850277/postman-gpui): A simple graphical user interface application for making HTTP requests, inspired by Postman.
 - [reminder](https://github.com/LeadcodeDev/remindr): An open-source and self-hostable alternative to Notion.
-- [zlyph](https://github.com/douglance/zlyph): A minimal text editor built with GPUI.
 - [vleer](https://github.com/vleerapp/vleer): Music, but without the subscription. Built on top of the OpenMusic API for a new streaming standard.
+- [zlyph](https://github.com/douglance/zlyph): A minimal text editor built with GPUI.
 
 ## Libraries
 
 - [adabraka-ui](https://github.com/Augani/adabraka-ui): UI components for building beautiful desktop applications
 - [gpui-component](https://github.com/longbridge/gpui-component): UI components for building fantastic desktop applications using gpui.
+- [gpui-d3rs](https://github.com/pierreaubert/sotf/tree/master/gpui-d3rs): a low level plotting library 100% in rust with the familiar [d3js](https://d3js.org/) components.
 - [gpui-form](https://github.com/stayhydated/gpui-form): A struct derive macro for deriving gpui-component... components on fields.
 - [gpui-nav](https://github.com/benodiwal/gpui-nav): Easy navigation library for GPUI applications.
+- [gpui-px](https://github.com/pierreaubert/sotf/tree/master/gpui-px): a high level plotting library 100% in rust inspired by [plotly express](https://plotly.com/python/plotly-express/) and using d3rs.
 - [gpui-router](https://github.com/justjavac/gpui-router): A router for GPUI App.
 - [gpui-storybook](https://github.com/stayhydated/gpui-storybook): Storybook-like library for GPUI applications.
 - [gpui-video-player](https://github.com/cijiugechu/gpui-video-player): Video player for gpui.
 - [plotters-gpui](https://github.com/JakkuSakura/plotters-gpui): gpui backend for plotters
-- [gpui-d3rs](https://github.com/pierreaubert/sotf/tree/master/gpui-d3rs): a low level plotting library 100% in rust with the familiar [d3js](https://d3js.org/) components.
-- [gpui-px](https://github.com/pierreaubert/sotf/tree/master/gpui-px): a high level plotting library 100% in rust inspired by [plotly express](https://plotly.com/python/plotly-express/) and using d3rs.
 
 
 ## Tooling
