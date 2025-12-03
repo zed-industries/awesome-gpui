@@ -30,6 +30,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [gpui-form](https://github.com/stayhydated/gpui-form): A struct derive macro for deriving gpui-component... components on fields.
 - [gpui-nav](https://github.com/benodiwal/gpui-nav): Easy navigation library for GPUI applications.
 - [gpui-router](https://github.com/justjavac/gpui-router): A router for GPUI App.
+- [gpui-storybook](https://github.com/stayhydated/gpui-storybook): Storybook-like library for GPUI applications.
 - [gpui-video-player](https://github.com/cijiugechu/gpui-video-player): Video player for gpui.
 - [plotters-gpui](https://github.com/JakkuSakura/plotters-gpui): gpui backend for plotters
 
