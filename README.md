@@ -41,6 +41,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 ## Tooling
 
 - [create-gpui-app](https://github.com/zed-industries/create-gpui-app): Create a new gpui app in a single command.
+- [Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native): The next-generation game engine that you deserve implemented in rust on top of GPUI
 
 ## Resources
 
