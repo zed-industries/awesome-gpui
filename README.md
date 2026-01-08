@@ -37,7 +37,6 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [gpui-video-player](https://github.com/cijiugechu/gpui-video-player): Video player for gpui.
 - [plotters-gpui](https://github.com/JakkuSakura/plotters-gpui): gpui backend for plotters
 
-
 ## Tooling
 
 - [create-gpui-app](https://github.com/zed-industries/create-gpui-app): Create a new gpui app in a single command.
