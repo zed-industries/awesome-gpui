@@ -18,6 +18,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [helix-gpui](https://github.com/polachok/helix-gpui): Helix gpui frontend.
 - [hummingbird](https://github.com/143mailliw/hummingbird): Modern music player written in Rust using gpui with a focus on design and performance.
 - [Loungy](https://github.com/MatthiasGrandl/loungy): App launcher in the vein of Spotlight, Alfred, Raycast.
+- [nohrs](https://github.com/noh-rs/nohrs): A fast, flexible, and extensible file explorer for macOS, built with Rust and gpui as a modern alternative to Finder.
 - [pgui](https://github.com/duanebester/pgui): A GUI to query & manage postgres databases.
 - [postman-gpui](https://github.com/847850277/postman-gpui): A simple graphical user interface application for making HTTP requests, inspired by Postman.
 - [reminder](https://github.com/LeadcodeDev/remindr): An open-source and self-hostable alternative to Notion.
