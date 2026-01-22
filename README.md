@@ -37,6 +37,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [gpui-px](https://github.com/pierreaubert/sotf/tree/master/gpui-px): a high level plotting library 100% in rust inspired by [plotly express](https://plotly.com/python/plotly-express/) and using d3rs.
 - [gpui-router](https://github.com/justjavac/gpui-router): A router for GPUI App.
 - [gpui-storybook](https://github.com/stayhydated/gpui-storybook): Storybook-like library for GPUI applications.
+- [gpui-symbols](https://github.com/AprilNEA/gpui-symbols): Native SF Symbols for GPUI with type-safe Icon component.
 - [gpui-video-player](https://github.com/cijiugechu/gpui-video-player): Video player for gpui.
 - [plotters-gpui](https://github.com/JakkuSakura/plotters-gpui): gpui backend for plotters
 
