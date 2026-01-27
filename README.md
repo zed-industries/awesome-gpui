@@ -24,9 +24,9 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [reminder](https://github.com/LeadcodeDev/remindr): An open-source and self-hostable alternative to Notion.
 - [setu](https://github.com/bajrangCoder/setu): A minimal, native API testing application built with GPUI.
 - [vleer](https://github.com/vleerapp/vleer): Music, but without the subscription. Built on top of the OpenMusic API for a new streaming standard.
+- [WSL2-HyperV-Firewall-Manager](https://github.com/ssut/WSL2-HyperV-Firewall-Manager): A WSL2 Hyper-V Firewall Management GUI for mirrored WSL2 networking built with Rust and GPUI.
 - [zedis](https://github.com/vicanso/zedis): A blazing-fast, native Redis GUI built with Rust and GPUI.
 - [zlyph](https://github.com/douglance/zlyph): A minimal text editor built with GPUI.
-- [WSL2-HyperV-Firewall-Manager](https://github.com/ssut/WSL2-HyperV-Firewall-Manager): A WSL2 Hyper-V Firewall Management GUI for mirrored WSL2 networking built with Rust and GPUI.
 
 ## Libraries
 
