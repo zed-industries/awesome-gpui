@@ -23,6 +23,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [postman-gpui](https://github.com/847850277/postman-gpui): A simple graphical user interface application for making HTTP requests, inspired by Postman.
 - [reminder](https://github.com/LeadcodeDev/remindr): An open-source and self-hostable alternative to Notion.
 - [setu](https://github.com/bajrangCoder/setu): A minimal, native API testing application built with GPUI.
+- [sukusho](https://github.com/ssut/sukusho): A powerful screenshot manager for Windows.
 - [vleer](https://github.com/vleerapp/vleer): Music, but without the subscription. Built on top of the OpenMusic API for a new streaming standard.
 - [WSL2-HyperV-Firewall-Manager](https://github.com/ssut/WSL2-HyperV-Firewall-Manager): A WSL2 Hyper-V Firewall Management GUI for mirrored WSL2 networking built with Rust and GPUI.
 - [zedis](https://github.com/vicanso/zedis): A blazing-fast, native Redis GUI built with Rust and GPUI.
