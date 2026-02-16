@@ -28,6 +28,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [WSL2-HyperV-Firewall-Manager](https://github.com/ssut/WSL2-HyperV-Firewall-Manager): A WSL2 Hyper-V Firewall Management GUI for mirrored WSL2 networking built with Rust and GPUI.
 - [zedis](https://github.com/vicanso/zedis): A blazing-fast, native Redis GUI built with Rust and GPUI.
 - [zlyph](https://github.com/douglance/zlyph): A minimal text editor built with GPUI.
+- [zqlz](https://github.com/samurmaykrr/zqlz): A database IDE built with Rust and GPUI, supporting SQLite, PostgreSQL, MySQL, and Redis.
 
 ## Libraries
 
