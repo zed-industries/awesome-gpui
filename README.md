@@ -44,6 +44,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [gpui-symbols](https://github.com/AprilNEA/gpui-symbols): Native SF Symbols for GPUI with type-safe Icon component.
 - [gpui-video-player](https://github.com/cijiugechu/gpui-video-player): Video player for gpui.
 - [plotters-gpui](https://github.com/JakkuSakura/plotters-gpui): gpui backend for plotters
+- [gpui-hooks](https://github.com/leset0ng/gpui-hooks): React-style hooks for GPUI framework.
 
 ## Tooling
 
