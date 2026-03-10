@@ -17,6 +17,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [gpui-list](https://github.com/duanebester/gpui-list): Basic list examples in gpui.
 - [gpui-todos](https://github.com/duanebester/gpui-todos): A todo app written in gpui.
 - [helix-gpui](https://github.com/polachok/helix-gpui): Helix gpui frontend.
+- [hunk](https://github.com/niteshbalusu11/hunk): A cross platform and super fast diff viewer and Codex orchestrator.
 - [hummingbird](https://github.com/143mailliw/hummingbird): Modern music player written in Rust using gpui with a focus on design and performance.
 - [Loungy](https://github.com/MatthiasGrandl/loungy): App launcher in the vein of Spotlight, Alfred, Raycast.
 - [nohrs](https://github.com/noh-rs/nohrs): A fast, flexible, and extensible file explorer for macOS, built with Rust and gpui as a modern alternative to Finder.
