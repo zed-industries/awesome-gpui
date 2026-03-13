@@ -8,6 +8,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 ## Apps
 
 - [zed](https://github.com/zed-industries/zed): A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [bandmeter](https://github.com/emamoah/bandmeter): Per-program network usage monitor for Linux.
 - [bmo](https://github.com/rubbieKelvin/bmo): Pomorodo timer written with rust & gpui.
 - [coop](https://github.com/lumehq/coop): A simple, fast, and reliable nostr client for secure messaging across all platforms.
 - [Fast Forward](https://github.com/gaauwe/fast-forward): A window switcher for macOS.
