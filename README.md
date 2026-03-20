@@ -11,6 +11,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [bandmeter](https://github.com/emamoah/bandmeter): Per-program network usage monitor for Linux.
 - [bmo](https://github.com/rubbieKelvin/bmo): Pomorodo timer written with rust & gpui.
 - [coop](https://github.com/lumehq/coop): A simple, fast, and reliable nostr client for secure messaging across all platforms.
+- [clp](https://github.com/lostf1sh/clp): A minimal, GPU-accelerated Wayland clipboard manager with image support and pinned entries.
 - [Fast Forward](https://github.com/gaauwe/fast-forward): A window switcher for macOS.
 - [Fulgur](https://github.com/fulgur-app/Fulgur): A lightning-fast, multiplatform, fully themed text & code editor with secured file sync between devices.
 - [GitComet](https://github.com/Auto-Explore/GitComet): GitComet is fastest open source user interface for GIT workflows.
