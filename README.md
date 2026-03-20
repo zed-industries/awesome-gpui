@@ -27,6 +27,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [pgui](https://github.com/duanebester/pgui): A GUI to query & manage postgres databases.
 - [postman-gpui](https://github.com/847850277/postman-gpui): A simple graphical user interface application for making HTTP requests, inspired by Postman.
 - [reminder](https://github.com/LeadcodeDev/remindr): An open-source and self-hostable alternative to Notion.
+- [ropy](https://github.com/StudentWeis/ropy): A cross-platform native clipboard manager in pure Rust.
 - [setu](https://github.com/bajrangCoder/setu): A minimal, native API testing application built with GPUI.
 - [sukusho](https://github.com/ssut/sukusho): A powerful screenshot manager for Windows.
 - [termy](https://github.com/lassejlv/termy): A Lightweight & GPU-rendered terminal emulator, written in Rust.
