@@ -13,6 +13,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [coop](https://github.com/lumehq/coop): A simple, fast, and reliable nostr client for secure messaging across all platforms.
 - [Fast Forward](https://github.com/gaauwe/fast-forward): A window switcher for macOS.
 - [Fulgur](https://github.com/fulgur-app/Fulgur): A lightning-fast, multiplatform, fully themed text & code editor with secured file sync between devices.
+- [GitComet](https://github.com/Auto-Explore/GitComet): GitComet is fastest open source user interface for GIT workflows.
 - [gpui-base64](https://github.com/badgooooor/gpui-base64): Base64 encoder/decoder example with gpui and gpui-component.
 - [gpui-calculator](https://github.com/kriskw1999/gpui-calculator): Beautifully designed calculator with both keys and mouse interaction.
 - [gpui-list](https://github.com/duanebester/gpui-list): Basic list examples in gpui.
