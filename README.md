@@ -7,35 +7,49 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 
 ## Apps
 
+### Developer Tools
+
 - [zed](https://github.com/zed-industries/zed): A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [bandmeter](https://github.com/emamoah/bandmeter): Per-program network usage monitor for Linux.
-- [bmo](https://github.com/rubbieKelvin/bmo): Pomorodo timer written with rust & gpui.
-- [clp](https://github.com/lostf1sh/clp): A minimal, GPU-accelerated Wayland clipboard manager with image support and pinned entries.
-- [coop](https://github.com/lumehq/coop): A simple, fast, and reliable nostr client for secure messaging across all platforms.
-- [Fast Forward](https://github.com/gaauwe/fast-forward): A window switcher for macOS.
 - [Fulgur](https://github.com/fulgur-app/Fulgur): A lightning-fast, multiplatform, fully themed text & code editor with secured file sync between devices.
 - [GitComet](https://github.com/Auto-Explore/GitComet): GitComet is fastest open source user interface for GIT workflows.
-- [gpui-base64](https://github.com/badgooooor/gpui-base64): Base64 encoder/decoder example with gpui and gpui-component.
-- [gpui-calculator](https://github.com/kriskw1999/gpui-calculator): Beautifully designed calculator with both keys and mouse interaction.
-- [gpui-list](https://github.com/duanebester/gpui-list): Basic list examples in gpui.
-- [gpui-todos](https://github.com/duanebester/gpui-todos): A todo app written in gpui.
 - [helix-gpui](https://github.com/polachok/helix-gpui): Helix gpui frontend.
-- [hummingbird](https://github.com/143mailliw/hummingbird): Modern music player written in Rust using gpui with a focus on design and performance.
 - [hunk](https://github.com/niteshbalusu11/hunk): A cross platform and super fast diff viewer and Codex orchestrator.
-- [Loungy](https://github.com/MatthiasGrandl/loungy): App launcher in the vein of Spotlight, Alfred, Raycast.
-- [nohrs](https://github.com/noh-rs/nohrs): A fast, flexible, and extensible file explorer for macOS, built with Rust and gpui as a modern alternative to Finder.
 - [pgui](https://github.com/duanebester/pgui): A GUI to query & manage postgres databases.
 - [postman-gpui](https://github.com/847850277/postman-gpui): A simple graphical user interface application for making HTTP requests, inspired by Postman.
-- [reminder](https://github.com/LeadcodeDev/remindr): An open-source and self-hostable alternative to Notion.
-- [ropy](https://github.com/StudentWeis/ropy): A cross-platform native clipboard manager in pure Rust.
 - [setu](https://github.com/bajrangCoder/setu): A minimal, native API testing application built with GPUI.
-- [sukusho](https://github.com/ssut/sukusho): A powerful screenshot manager for Windows.
 - [termy](https://github.com/lassejlv/termy): A Lightweight & GPU-rendered terminal emulator, written in Rust.
-- [vleer](https://github.com/vleerapp/vleer): Music, but without the subscription. Built on top of the OpenMusic API for a new streaming standard.
-- [WSL2-HyperV-Firewall-Manager](https://github.com/ssut/WSL2-HyperV-Firewall-Manager): A WSL2 Hyper-V Firewall Management GUI for mirrored WSL2 networking built with Rust and GPUI.
 - [zedis](https://github.com/vicanso/zedis): A blazing-fast, native Redis GUI built with Rust and GPUI.
 - [zlyph](https://github.com/douglance/zlyph): A minimal text editor built with GPUI.
 - [zqlz](https://github.com/samurmaykrr/zqlz): A database IDE built with Rust and GPUI, supporting SQLite, PostgreSQL, MySQL, and Redis.
+
+### Productivity
+
+- [bmo](https://github.com/rubbieKelvin/bmo): Pomorodo timer written with rust & gpui.
+- [coop](https://github.com/lumehq/coop): A simple, fast, and reliable nostr client for secure messaging across all platforms.
+- [Fast Forward](https://github.com/gaauwe/fast-forward): A window switcher for macOS.
+- [gpui-todos](https://github.com/duanebester/gpui-todos): A todo app written in gpui.
+- [Loungy](https://github.com/MatthiasGrandl/loungy): App launcher in the vein of Spotlight, Alfred, Raycast.
+- [nohrs](https://github.com/noh-rs/nohrs): A fast, flexible, and extensible file explorer for macOS, built with Rust and gpui as a modern alternative to Finder.
+- [reminder](https://github.com/LeadcodeDev/remindr): An open-source and self-hostable alternative to Notion.
+
+### Media
+
+- [hummingbird](https://github.com/143mailliw/hummingbird): Modern music player written in Rust using gpui with a focus on design and performance.
+- [sukusho](https://github.com/ssut/sukusho): A powerful screenshot manager for Windows.
+- [vleer](https://github.com/vleerapp/vleer): Music, but without the subscription. Built on top of the OpenMusic API for a new streaming standard.
+
+### System Utilities
+
+- [bandmeter](https://github.com/emamoah/bandmeter): Per-program network usage monitor for Linux.
+- [clp](https://github.com/lostf1sh/clp): A minimal, GPU-accelerated Wayland clipboard manager with image support and pinned entries.
+- [ropy](https://github.com/StudentWeis/ropy): A cross-platform native clipboard manager in pure Rust.
+- [WSL2-HyperV-Firewall-Manager](https://github.com/ssut/WSL2-HyperV-Firewall-Manager): A WSL2 Hyper-V Firewall Management GUI for mirrored WSL2 networking built with Rust and GPUI.
+
+### Demos & Examples
+
+- [gpui-base64](https://github.com/badgooooor/gpui-base64): Base64 encoder/decoder example with gpui and gpui-component.
+- [gpui-calculator](https://github.com/kriskw1999/gpui-calculator): Beautifully designed calculator with both keys and mouse interaction.
+- [gpui-list](https://github.com/duanebester/gpui-list): Basic list examples in gpui.
 
 ## Libraries
 
