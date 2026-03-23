@@ -43,6 +43,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [ferrum-flow](https://github.com/tu6ge/ferrum-flow): A high-performance, extensible node-based editor framework
 - [gpui-component](https://github.com/longbridge/gpui-component): UI components for building fantastic desktop applications using gpui.
 - [gpui-d3rs](https://github.com/pierreaubert/sotf/tree/master/gpui-d3rs): a low level plotting library 100% in rust with the familiar [d3js](https://d3js.org/) components.
+- [gpui-flow](https://github.com/pacifio/gpui-flow): Visual node editor react flow for GPUI.
 - [gpui-form](https://github.com/stayhydated/gpui-form): A struct derive macro for deriving gpui-component... components on fields.
 - [gpui-hooks](https://github.com/leset0ng/gpui-hooks): React-style hooks for GPUI framework.
 - [gpui-nav](https://github.com/benodiwal/gpui-nav): Easy navigation library for GPUI applications.
