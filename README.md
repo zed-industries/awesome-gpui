@@ -39,8 +39,8 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 
 ## Libraries
 
-- [adabraka-ui](https://github.com/Augani/adabraka-ui): UI components for building beautiful desktop applications
-- [ferrum-flow](https://github.com/tu6ge/ferrum-flow): A high-performance, extensible node-based editor framework
+- [adabraka-ui](https://github.com/Augani/adabraka-ui): UI components for building beautiful desktop applications.
+- [ferrum-flow](https://github.com/tu6ge/ferrum-flow): A high-performance, extensible node-based editor framework.
 - [gpui-component](https://github.com/longbridge/gpui-component): UI components for building fantastic desktop applications using gpui.
 - [gpui-d3rs](https://github.com/pierreaubert/sotf/tree/master/gpui-d3rs): a low level plotting library 100% in rust with the familiar [d3js](https://d3js.org/) components.
 - [gpui-flow](https://github.com/pacifio/gpui-flow): Visual node editor react flow for GPUI.
@@ -52,12 +52,12 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [gpui-storybook](https://github.com/stayhydated/gpui-storybook): Storybook-like library for GPUI applications.
 - [gpui-symbols](https://github.com/AprilNEA/gpui-symbols): Native SF Symbols for GPUI with type-safe Icon component.
 - [gpui-video-player](https://github.com/cijiugechu/gpui-video-player): Video player for gpui.
-- [plotters-gpui](https://github.com/JakkuSakura/plotters-gpui): gpui backend for plotters
+- [plotters-gpui](https://github.com/JakkuSakura/plotters-gpui): gpui backend for plotters.
 
 ## Tooling
 
 - [create-gpui-app](https://github.com/zed-industries/create-gpui-app): Create a new gpui app in a single command.
-- [Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native): The next-generation game engine that you deserve implemented in rust on top of GPUI
+- [Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native): The next-generation game engine that you deserve implemented in rust on top of GPUI.
 - [React Native GPUI](https://github.com/rngpui/react-native-gpui): An out-of-tree platform for React Native desktop applications, implementing RN Fabric architecture with Rust and GPUI.
 
 ## Resources
