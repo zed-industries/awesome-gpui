@@ -65,6 +65,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [gpui-router](https://github.com/justjavac/gpui-router): A router for GPUI App.
 - [gpui-storybook](https://github.com/stayhydated/gpui-storybook): Storybook-like library for GPUI applications.
 - [gpui-symbols](https://github.com/AprilNEA/gpui-symbols): Native SF Symbols for GPUI with type-safe Icon component.
+- [gpui-tea](https://github.com/inkwadra/gpui-tea): Runtime primitives for building Elm-style GPUI applications.
 - [gpui-video-player](https://github.com/cijiugechu/gpui-video-player): Video player for gpui.
 - [plotters-gpui](https://github.com/JakkuSakura/plotters-gpui): gpui backend for plotters.
 
