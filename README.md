@@ -10,6 +10,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 ### Developer Tools
 
 - [zed](https://github.com/zed-industries/zed): A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [Arbor](https://github.com/penso/arbor): Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs.
 - [Fulgur](https://github.com/fulgur-app/Fulgur): A lightning-fast, multiplatform, fully themed text & code editor with secured file sync between devices.
 - [GitComet](https://github.com/Auto-Explore/GitComet): GitComet is fastest open source user interface for GIT workflows.
 - [helix-gpui](https://github.com/polachok/helix-gpui): Helix gpui frontend.
