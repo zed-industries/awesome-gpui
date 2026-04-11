@@ -22,6 +22,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [zedis](https://github.com/vicanso/zedis): A blazing-fast, native Redis GUI built with Rust and GPUI.
 - [zlyph](https://github.com/douglance/zlyph): A minimal text editor built with GPUI.
 - [zqlz](https://github.com/samurmaykrr/zqlz): A database IDE built with Rust and GPUI, supporting SQLite, PostgreSQL, MySQL, and Redis.
+- [onetcli](https://github.com/feigeCode/onetcli): A GPU-accelerated, cross-platform desktop client for PostgreSQL, MySQL, SQLite, SQL Server, Oracle, ClickHouse, DuckDB, Redis, MongoDB, SSH, SFTP, serial, terminals, and AI in one place.
 - [mobie-studio](https://github.com/bayazidsustami/mobie-studio): AI-powered desktop application for automated mobile testing, built with Rust and GPUI.
 
 ### Productivity
