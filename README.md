@@ -11,10 +11,13 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 
 - [zed](https://github.com/zed-industries/zed): A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Arbor](https://github.com/penso/arbor): Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs.
+- [DBFlux](https://github.com/0xErwin1/dbflux): A keyboard-first, multi-engine database client for SQLite, PostgreSQL, MySQL, MongoDB, Redis, and DynamoDB with integrated MCP governance for AI agents.
 - [Fulgur](https://github.com/fulgur-app/Fulgur): A lightning-fast, multiplatform, fully themed text & code editor with secured file sync between devices.
 - [GitComet](https://github.com/Auto-Explore/GitComet): GitComet is fastest open source user interface for GIT workflows.
 - [helix-gpui](https://github.com/polachok/helix-gpui): Helix gpui frontend.
 - [hunk](https://github.com/niteshbalusu11/hunk): A cross platform and super fast diff viewer and Codex orchestrator.
+- [mobie-studio](https://github.com/bayazidsustami/mobie-studio): AI-powered desktop application for automated mobile testing, built with Rust and GPUI.
+- [onetcli](https://github.com/feigeCode/onetcli): A GPU-accelerated, cross-platform desktop client for PostgreSQL, MySQL, SQLite, SQL Server, Oracle, ClickHouse, DuckDB, Redis, MongoDB, SSH, SFTP, serial, terminals, and AI in one place.
 - [pgui](https://github.com/duanebester/pgui): A GUI to query & manage postgres databases.
 - [postman-gpui](https://github.com/847850277/postman-gpui): A simple graphical user interface application for making HTTP requests, inspired by Postman.
 - [setu](https://github.com/bajrangCoder/setu): A minimal, native API testing application built with GPUI.
@@ -22,9 +25,6 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [zedis](https://github.com/vicanso/zedis): A blazing-fast, native Redis GUI built with Rust and GPUI.
 - [zlyph](https://github.com/douglance/zlyph): A minimal text editor built with GPUI.
 - [zqlz](https://github.com/samurmaykrr/zqlz): A database IDE built with Rust and GPUI, supporting SQLite, PostgreSQL, MySQL, and Redis.
-- [DBFlux](https://github.com/0xErwin1/dbflux): A keyboard-first, multi-engine database client for SQLite, PostgreSQL, MySQL, MongoDB, Redis, and DynamoDB with integrated MCP governance for AI agents.
-- [onetcli](https://github.com/feigeCode/onetcli): A GPU-accelerated, cross-platform desktop client for PostgreSQL, MySQL, SQLite, SQL Server, Oracle, ClickHouse, DuckDB, Redis, MongoDB, SSH, SFTP, serial, terminals, and AI in one place.
-- [mobie-studio](https://github.com/bayazidsustami/mobie-studio): AI-powered desktop application for automated mobile testing, built with Rust and GPUI.
 
 ### Productivity
 
