@@ -46,6 +46,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 
 - [bandmeter](https://github.com/emamoah/bandmeter): Per-program network usage monitor for Linux.
 - [clp](https://github.com/lostf1sh/clp): A minimal, GPU-accelerated Wayland clipboard manager with image support and pinned entries.
+- [omarchist](https://github.com/tahayvr/omarchist): A full Rust rewrite of the Omarchy control center.
 - [ropy](https://github.com/StudentWeis/ropy): A cross-platform native clipboard manager in pure Rust.
 - [WSL2-HyperV-Firewall-Manager](https://github.com/ssut/WSL2-HyperV-Firewall-Manager): A WSL2 Hyper-V Firewall Management GUI for mirrored WSL2 networking built with Rust and GPUI.
 
