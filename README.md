@@ -35,6 +35,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [Loungy](https://github.com/MatthiasGrandl/loungy): App launcher in the vein of Spotlight, Alfred, Raycast.
 - [nohrs](https://github.com/noh-rs/nohrs): A fast, flexible, and extensible file explorer for macOS, built with Rust and gpui as a modern alternative to Finder.
 - [reminder](https://github.com/LeadcodeDev/remindr): An open-source and self-hostable alternative to Notion.
+- [Vellum](https://github.com/wzzc-dev/vellum): A WYSIWYG desktop Markdown editor built with Rust and GPUI.
 
 ### Media
 
