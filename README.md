@@ -17,7 +17,6 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [helix-gpui](https://github.com/polachok/helix-gpui): Helix gpui frontend.
 - [hunk](https://github.com/niteshbalusu11/hunk): A cross platform and super fast diff viewer and Codex orchestrator.
 - [mobie-studio](https://github.com/bayazidsustami/mobie-studio): AI-powered desktop application for automated mobile testing, built with Rust and GPUI.
-- [Monocurl](https://github.com/monocurl/monocurl/): An environment for programmatically animating images, videos, and slideshows in the Monocurl language.
 - [onetcli](https://github.com/feigeCode/onetcli): A GPU-accelerated, cross-platform desktop client for PostgreSQL, MySQL, SQLite, SQL Server, Oracle, ClickHouse, DuckDB, Redis, MongoDB, SSH, SFTP, serial, terminals, and AI in one place.
 - [pgui](https://github.com/duanebester/pgui): A GUI to query & manage postgres databases.
 - [postman-gpui](https://github.com/847850277/postman-gpui): A simple graphical user interface application for making HTTP requests, inspired by Postman.
@@ -41,6 +40,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 ### Media
 
 - [hummingbird](https://github.com/143mailliw/hummingbird): Modern music player written in Rust using gpui with a focus on design and performance.
+- [Monocurl](https://github.com/monocurl/monocurl/): An environment for programmatically animating images, videos, and slideshows in the Monocurl language.
 - [sukusho](https://github.com/ssut/sukusho): A powerful screenshot manager for Windows.
 - [vleer](https://github.com/vleerapp/vleer): Music, but without the subscription. Built on top of the OpenMusic API for a new streaming standard.
 
