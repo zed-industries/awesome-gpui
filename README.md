@@ -16,6 +16,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [GitComet](https://github.com/Auto-Explore/GitComet): GitComet is fastest open source user interface for GIT workflows.
 - [helix-gpui](https://github.com/polachok/helix-gpui): Helix gpui frontend.
 - [hunk](https://github.com/niteshbalusu11/hunk): A cross platform and super fast diff viewer and Codex orchestrator.
+- [Lumi](https://github.com/CES-Ltd/Lumi): A Unified Cowork & Code Agent to control - Cursor, Claude, Crush/ OpenCode , Hermes, Codex
 - [mobie-studio](https://github.com/bayazidsustami/mobie-studio): AI-powered desktop application for automated mobile testing, built with Rust and GPUI.
 - [onetcli](https://github.com/feigeCode/onetcli): A GPU-accelerated, cross-platform desktop client for PostgreSQL, MySQL, SQLite, SQL Server, Oracle, ClickHouse, DuckDB, Redis, MongoDB, SSH, SFTP, serial, terminals, and AI in one place.
 - [pgui](https://github.com/duanebester/pgui): A GUI to query & manage postgres databases.
