@@ -25,6 +25,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [zedis](https://github.com/vicanso/zedis): A blazing-fast, native Redis GUI built with Rust and GPUI.
 - [zlyph](https://github.com/douglance/zlyph): A minimal text editor built with GPUI.
 - [zqlz](https://github.com/samurmaykrr/zqlz): A database IDE built with Rust and GPUI, supporting SQLite, PostgreSQL, MySQL, and Redis.
+- [Lumi](https://github.com/CES-Ltd/Lumi): A Unified Cowork & Code Agent to control - Cursor, Claude, Crush/ OpenCode , Hermes, Codex
 
 ### Productivity
 
