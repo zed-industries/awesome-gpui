@@ -44,6 +44,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [Monocurl](https://github.com/monocurl/monocurl/): An environment for programmatically animating images, videos, and slideshows in the Monocurl language.
 - [sukusho](https://github.com/ssut/sukusho): A powerful screenshot manager for Windows.
 - [vleer](https://github.com/vleerapp/vleer): Music, but without the subscription. Built on top of the OpenMusic API for a new streaming standard.
+- [Futureboard Studio](https://github.com/futureboard/Futureboard): An open-source digital audio workstation with Native GPUI, React WebUI, Rust DSP, and native plugin hosting.
 
 ### System Utilities
 
