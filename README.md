@@ -82,7 +82,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [create-gpui-app](https://github.com/zed-industries/create-gpui-app): Create a new gpui app in a single command.
 - [Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native): The next-generation game engine that you deserve implemented in rust on top of GPUI.
 - [React Native GPUI](https://github.com/rngpui/react-native-gpui): An out-of-tree platform for React Native desktop applications, implementing RN Fabric architecture with Rust and GPUI.
-- [Crepuscularity](https://github.com/semitechnological/crepuscularity): Write React JSX or a simple DSL, and get GPUI, with batteries included (define reusable componentry, hot reloading). Use that same code to build Ratatuis, websites, web extensions and SwiftUI (Jetpack WIP).
+- [Crepuscularity](https://github.com/tschk/crepuscularity): Write React JSX or a simple DSL, and get GPUI, with batteries included (define reusable componentry, hot reloading). Use that same code to build Ratatuis, websites, web extensions and SwiftUI (Jetpack WIP).
 
 ## Resources
 
