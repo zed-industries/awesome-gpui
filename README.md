@@ -32,6 +32,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 
 - [bmo](https://github.com/rubbieKelvin/bmo): Pomorodo timer written with rust & gpui.
 - [coop](https://github.com/lumehq/coop): A simple, fast, and reliable nostr client for secure messaging across all platforms.
+- [Oxide](https://github.com/niklabh/oxide): A binary-first browser that runs WebAssembly modules instead of HTML/CSS/JS, built with GPUI.
 - [Fast Forward](https://github.com/gaauwe/fast-forward): A window switcher for macOS.
 - [gpui-todos](https://github.com/duanebester/gpui-todos): A todo app written in gpui.
 - [Loungy](https://github.com/MatthiasGrandl/loungy): App launcher in the vein of Spotlight, Alfred, Raycast.
