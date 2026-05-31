@@ -32,21 +32,21 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 
 - [bmo](https://github.com/rubbieKelvin/bmo): Pomorodo timer written with rust & gpui.
 - [coop](https://github.com/lumehq/coop): A simple, fast, and reliable nostr client for secure messaging across all platforms.
-- [Oxide](https://github.com/niklabh/oxide): A binary-first browser that runs WebAssembly modules instead of HTML/CSS/JS, built with GPUI.
 - [Fast Forward](https://github.com/gaauwe/fast-forward): A window switcher for macOS.
 - [gpui-todos](https://github.com/duanebester/gpui-todos): A todo app written in gpui.
 - [Loungy](https://github.com/MatthiasGrandl/loungy): App launcher in the vein of Spotlight, Alfred, Raycast.
 - [nohrs](https://github.com/noh-rs/nohrs): A fast, flexible, and extensible file explorer for macOS, built with Rust and gpui as a modern alternative to Finder.
+- [Oxide](https://github.com/niklabh/oxide): A binary-first browser that runs WebAssembly modules instead of HTML/CSS/JS, built with GPUI.
 - [reminder](https://github.com/LeadcodeDev/remindr): An open-source and self-hostable alternative to Notion.
 - [Vellum](https://github.com/wzzc-dev/vellum): A WYSIWYG desktop Markdown editor built with Rust and GPUI.
 
 ### Media
 
+- [Futureboard Studio](https://github.com/futureboard/Futureboard): An open-source digital audio workstation with Native GPUI, React WebUI, Rust DSP, and native plugin hosting.
 - [hummingbird](https://github.com/143mailliw/hummingbird): Modern music player written in Rust using gpui with a focus on design and performance.
 - [Monocurl](https://github.com/monocurl/monocurl/): An environment for programmatically animating images, videos, and slideshows in the Monocurl language.
 - [sukusho](https://github.com/ssut/sukusho): A powerful screenshot manager for Windows.
 - [vleer](https://github.com/vleerapp/vleer): Music, but without the subscription. Built on top of the OpenMusic API for a new streaming standard.
-- [Futureboard Studio](https://github.com/futureboard/Futureboard): An open-source digital audio workstation with Native GPUI, React WebUI, Rust DSP, and native plugin hosting.
 
 ### System Utilities
 
@@ -83,11 +83,11 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 ## Tooling
 
 - [create-gpui-app](https://github.com/zed-industries/create-gpui-app): Create a new gpui app in a single command.
+- [Crepuscularity](https://github.com/tschk/crepuscularity): One UI codebase for desktop, web, mobile, terminal, browser extensions, and embedded devices. Write React JSX or our lightweight DSL, get GPUI, Ratatui, SwiftUI, LVGL, and more. Batteries included.
 - [Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native): The next-generation game engine that you deserve implemented in rust on top of GPUI.
 - [React Native GPUI](https://github.com/rngpui/react-native-gpui): An out-of-tree platform for React Native desktop applications, implementing RN Fabric architecture with Rust and GPUI.
-- [Crepuscularity](https://github.com/tschk/crepuscularity): One UI codebase for desktop, web, mobile, terminal, browser extensions, and embedded devices. Write React JSX or our lightweight DSL, get GPUI, Ratatui, SwiftUI, LVGL, and more. Batteries included.
 
 ## Resources
 
-- [gpui-book](https://github.com/MatinAniss/gpui-book): A book teaching you the concepts you need to create your own gpui application.
 - [Duane Bester - Rust Streams](https://www.youtube.com/playlist?list=PLzIkykhdNahwxfVbxgZR69TQSsJc-6Rqq): YouTube streams covering gpui app development.
+- [gpui-book](https://github.com/MatinAniss/gpui-book): A book teaching you the concepts you need to create your own gpui application.
