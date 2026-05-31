@@ -11,6 +11,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 
 - [zed](https://github.com/zed-industries/zed): A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Arbor](https://github.com/penso/arbor): Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs.
+- [Baudrun](https://github.com/packetThrower/Baudrun): A cross-platform serial terminal for network engineers, with saved profiles, multi-window, auto-reconnect, and XMODEM/YMODEM file transfer.
 - [DBFlux](https://github.com/0xErwin1/dbflux): A keyboard-first, multi-engine database client for SQLite, PostgreSQL, MySQL, MongoDB, Redis, and DynamoDB with integrated MCP governance for AI agents.
 - [Fulgur](https://github.com/fulgur-app/Fulgur): A lightning-fast, multiplatform, fully themed text & code editor with secured file sync between devices.
 - [GitComet](https://github.com/Auto-Explore/GitComet): GitComet is fastest open source user interface for GIT workflows.
