@@ -83,6 +83,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [gpui-tea](https://github.com/inkwadra/gpui-tea): Runtime primitives for building Elm-style GPUI applications.
 - [gpui-video-player](https://github.com/cijiugechu/gpui-video-player): Video player for gpui.
 - [plotters-gpui](https://github.com/JakkuSakura/plotters-gpui): gpui backend for plotters.
+- [guise](https://wess.io/guise): A nice set of components for gpui.
 
 ## Tooling
 
