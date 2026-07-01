@@ -46,6 +46,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [Futureboard Studio](https://github.com/futureboard/Futureboard): An open-source digital audio workstation with Native GPUI, React WebUI, Rust DSP, and native plugin hosting.
 - [hummingbird](https://github.com/143mailliw/hummingbird): Modern music player written in Rust using gpui with a focus on design and performance.
 - [Monocurl](https://github.com/monocurl/monocurl/): An environment for programmatically animating images, videos, and slideshows in the Monocurl language.
+- [Pawse](https://github.com/popovpsk/pawse): A cross-platform music player with bit-perfect/exclusive output and a customizable UI.
 - [sukusho](https://github.com/ssut/sukusho): A powerful screenshot manager for Windows.
 - [vleer](https://github.com/vleerapp/vleer): Music, but without the subscription. Built on top of the OpenMusic API for a new streaming standard.
 
