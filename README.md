@@ -40,6 +40,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [Oxide](https://github.com/niklabh/oxide): A binary-first browser that runs WebAssembly modules instead of HTML/CSS/JS, built with GPUI.
 - [reminder](https://github.com/LeadcodeDev/remindr): An open-source and self-hostable alternative to Notion.
 - [Vellum](https://github.com/wzzc-dev/vellum): A WYSIWYG desktop Markdown editor built with Rust and GPUI.
+- [Zorite](https://github.com/packetThrower/zorite): A Markdown daily journal with WYSIWYG and raw-Markdown editing — wiki-linked pages, embedded PDFs, Mermaid diagrams, whiteboards, and LaTeX math, on macOS, Windows, and Linux.
 
 ### Media
 
@@ -76,14 +77,17 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [gpui-form](https://github.com/stayhydated/gpui-form): A struct derive macro for deriving gpui-component... components on fields.
 - [gpui-hooks](https://github.com/leset0ng/gpui-hooks): React-style hooks for GPUI framework.
 - [gpui-nav](https://github.com/benodiwal/gpui-nav): Easy navigation library for GPUI applications.
+- [gpui-pdf](https://github.com/packetThrower/zorite/tree/main/crates/gpui-pdf): Page-virtualized PDF viewing built on the pure-Rust hayro rasterizer — zoom, navigation, full-text search, and bounded memory, with no native dependencies.
 - [gpui-px](https://github.com/pierreaubert/sotf/tree/master/gpui-px): a high level plotting library 100% in rust inspired by [plotly express](https://plotly.com/python/plotly-express/) and using d3rs.
 - [gpui-router](https://github.com/justjavac/gpui-router): A router for GPUI App.
 - [gpui-storybook](https://github.com/stayhydated/gpui-storybook): Storybook-like library for GPUI applications.
 - [gpui-symbols](https://github.com/AprilNEA/gpui-symbols): Native SF Symbols for GPUI with type-safe Icon component.
 - [gpui-tea](https://github.com/inkwadra/gpui-tea): Runtime primitives for building Elm-style GPUI applications.
 - [gpui-video-player](https://github.com/cijiugechu/gpui-video-player): Video player for gpui.
+- [gpui-whiteboard](https://github.com/packetThrower/zorite/tree/main/crates/gpui-whiteboard): An infinite, pan-and-zoom whiteboard canvas with shapes, arrows, freehand ink, text, and images, plus a built-in toolbar, templates, and undo/redo.
 - [guise](https://wess.io/guise): A nice set of components for gpui.
 - [plotters-gpui](https://github.com/JakkuSakura/plotters-gpui): gpui backend for plotters.
+- [ratex-gpui](https://github.com/packetThrower/zorite/tree/main/crates/ratex-gpui): A LaTeX math renderer and a structural, MathQuill-style formula editor for GPUI, built on the RaTeX engine.
 
 ## Tooling
 
