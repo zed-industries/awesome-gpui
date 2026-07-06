@@ -70,6 +70,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 ## Libraries
 
 - [adabraka-ui](https://github.com/Augani/adabraka-ui): UI components for building beautiful desktop applications.
+- [declarative-gpui](https://github.com/DevPlus31/declarative-gpui): A declarative ui! macro with Tailwind-style tokens, real Rust control flow, and zero runtime overhead.
 - [ferrum-flow](https://github.com/tu6ge/ferrum-flow): A high-performance, extensible node-based editor framework.
 - [gpui-component](https://github.com/longbridge/gpui-component): UI components for building fantastic desktop applications using gpui.
 - [gpui-d3rs](https://github.com/pierreaubert/sotf/tree/master/gpui-d3rs): a low level plotting library 100% in rust with the familiar [d3js](https://d3js.org/) components.
