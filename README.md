@@ -9,7 +9,6 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 
 ### Developer Tools
 
-- [zed](https://github.com/zed-industries/zed): A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Arbor](https://github.com/penso/arbor): Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs.
 - [based](https://github.com/pavi2410/based): A native database client built for teams and AI agents — connections and queries live in your repo, git-friendly and version-controlled.
 - [Baudrun](https://github.com/packetThrower/Baudrun): A cross-platform serial terminal for network engineers, with saved profiles, multi-window, auto-reconnect, and XMODEM/YMODEM file transfer.
@@ -26,6 +25,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [postman-gpui](https://github.com/847850277/postman-gpui): A simple graphical user interface application for making HTTP requests, inspired by Postman.
 - [setu](https://github.com/bajrangCoder/setu): A minimal, native API testing application built with GPUI.
 - [termy](https://github.com/lassejlv/termy): A Lightweight & GPU-rendered terminal emulator, written in Rust.
+- [zed](https://github.com/zed-industries/zed): A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [zedis](https://github.com/vicanso/zedis): A blazing-fast, native Redis GUI built with Rust and GPUI.
 - [zlyph](https://github.com/douglance/zlyph): A minimal text editor built with GPUI.
 - [zqlz](https://github.com/samurmaykrr/zqlz): A database IDE built with Rust and GPUI, supporting SQLite, PostgreSQL, MySQL, and Redis.
