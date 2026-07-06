@@ -25,6 +25,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [postman-gpui](https://github.com/847850277/postman-gpui): A simple graphical user interface application for making HTTP requests, inspired by Postman.
 - [setu](https://github.com/bajrangCoder/setu): A minimal, native API testing application built with GPUI.
 - [termy](https://github.com/lassejlv/termy): A Lightweight & GPU-rendered terminal emulator, written in Rust.
+- [tty7](https://github.com/l0ng-ai/tty7): A GPU-rendered, daemon-backed terminal in pure Rust — a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux needed), with an enhanced prompt, tabs, splits, a command palette, and native builds for macOS, Windows, and Linux.
 - [zed](https://github.com/zed-industries/zed): A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [zedis](https://github.com/vicanso/zedis): A blazing-fast, native Redis GUI built with Rust and GPUI.
 - [zlyph](https://github.com/douglance/zlyph): A minimal text editor built with GPUI.
