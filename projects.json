@@ -3,491 +3,444 @@
   "projects": [
     {
       "name": "Arbor",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "penso/arbor",
       "description": "Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs."
     },
     {
       "name": "based",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "pavi2410/based",
       "description": "A native database client built for teams and AI agents — connections and queries live in your repo, git-friendly and version-controlled."
     },
     {
       "name": "Baudrun",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "packetThrower/Baudrun",
       "description": "A cross-platform serial terminal for network engineers, with saved profiles, multi-window, auto-reconnect, and XMODEM/YMODEM file transfer."
     },
     {
       "name": "Codux",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "duxweb/codux",
       "description": "A native AI coding terminal built with Rust and GPUI, spanning desktop, mobile, and headless hosts."
     },
     {
       "name": "DBFlux",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "0xErwin1/dbflux",
       "description": "A keyboard-first, multi-engine database client for SQLite, PostgreSQL, MySQL, MongoDB, Redis, and DynamoDB with integrated MCP governance for AI agents."
     },
     {
       "name": "Fulgur",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "fulgur-app/Fulgur",
       "description": "A lightning-fast, multiplatform, fully themed text & code editor with secured file sync between devices."
     },
     {
       "name": "GitComet",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "Auto-Explore/GitComet",
       "description": "GitComet is fastest open source user interface for GIT workflows."
     },
     {
       "name": "helix-gpui",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "polachok/helix-gpui",
       "description": "Helix gpui frontend."
     },
     {
       "name": "hunk",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "niteshbalusu11/hunk",
       "description": "A cross platform and super fast diff viewer and Codex orchestrator."
     },
     {
       "name": "Lumi",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "CES-Ltd/Lumi",
       "description": "A Unified Cowork & Code Agent to control - Cursor, Claude, Crush/ OpenCode , Hermes, Codex"
     },
     {
       "name": "mobie-studio",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "bayazidsustami/mobie-studio",
       "description": "AI-powered desktop application for automated mobile testing, built with Rust and GPUI."
     },
     {
       "name": "onetcli",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "feigeCode/onetcli",
       "description": "A GPU-accelerated, cross-platform desktop client for PostgreSQL, MySQL, SQLite, SQL Server, Oracle, ClickHouse, DuckDB, Redis, MongoDB, SSH, SFTP, serial, terminals, and AI in one place."
     },
     {
       "name": "pgui",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "duanebester/pgui",
       "description": "A GUI to query & manage postgres databases."
     },
     {
       "name": "postman-gpui",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "847850277/postman-gpui",
       "description": "A simple graphical user interface application for making HTTP requests, inspired by Postman."
     },
     {
       "name": "setu",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "bajrangCoder/setu",
       "description": "A minimal, native API testing application built with GPUI."
     },
     {
       "name": "termy",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "lassejlv/termy",
       "description": "A Lightweight & GPU-rendered terminal emulator, written in Rust."
     },
     {
       "name": "tty7",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "l0ng-ai/tty7",
       "description": "A GPU-rendered, daemon-backed terminal in pure Rust — a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux needed), with an enhanced prompt, tabs, splits, a command palette, and native builds for macOS, Windows, and Linux."
     },
     {
       "name": "zed",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "zed-industries/zed",
       "description": "A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
     },
     {
       "name": "zedis",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "vicanso/zedis",
       "description": "A blazing-fast, native Redis GUI built with Rust and GPUI."
     },
     {
       "name": "zlyph",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "douglance/zlyph",
       "description": "A minimal text editor built with GPUI."
     },
     {
       "name": "zqlz",
-      "kind": "app",
-      "category": "Developer Tools",
+      "section": "developer-tools",
       "repository": "samurmaykrr/zqlz",
       "description": "A database IDE built with Rust and GPUI, supporting SQLite, PostgreSQL, MySQL, and Redis."
     },
     {
       "name": "bmo",
-      "kind": "app",
-      "category": "Productivity",
+      "section": "productivity",
       "repository": "rubbieKelvin/bmo",
       "description": "Pomorodo timer written with rust & gpui."
     },
     {
       "name": "coop",
-      "kind": "app",
-      "category": "Productivity",
+      "section": "productivity",
       "repository": "lumehq/coop",
       "description": "A simple, fast, and reliable nostr client for secure messaging across all platforms."
     },
     {
       "name": "Fast Forward",
-      "kind": "app",
-      "category": "Productivity",
+      "section": "productivity",
       "repository": "gaauwe/fast-forward",
       "description": "A window switcher for macOS."
     },
     {
       "name": "gpui-todos",
-      "kind": "app",
-      "category": "Productivity",
+      "section": "productivity",
       "repository": "duanebester/gpui-todos",
       "description": "A todo app written in gpui."
     },
     {
       "name": "Loungy",
-      "kind": "app",
-      "category": "Productivity",
+      "section": "productivity",
       "repository": "MatthiasGrandl/loungy",
       "description": "App launcher in the vein of Spotlight, Alfred, Raycast."
     },
     {
       "name": "nohrs",
-      "kind": "app",
-      "category": "Productivity",
+      "section": "productivity",
       "repository": "noh-rs/nohrs",
       "description": "A fast, flexible, and extensible file explorer for macOS, built with Rust and gpui as a modern alternative to Finder."
     },
     {
       "name": "Oxide",
-      "kind": "app",
-      "category": "Productivity",
+      "section": "productivity",
       "repository": "niklabh/oxide",
       "description": "A binary-first browser that runs WebAssembly modules instead of HTML/CSS/JS, built with GPUI."
     },
     {
       "name": "reminder",
-      "kind": "app",
-      "category": "Productivity",
+      "section": "productivity",
       "repository": "LeadcodeDev/remindr",
       "description": "An open-source and self-hostable alternative to Notion."
     },
     {
       "name": "Vellum",
-      "kind": "app",
-      "category": "Productivity",
+      "section": "productivity",
       "repository": "wzzc-dev/vellum",
       "description": "A WYSIWYG desktop Markdown editor built with Rust and GPUI."
     },
     {
       "name": "Zorite",
-      "kind": "app",
-      "category": "Productivity",
+      "section": "productivity",
       "repository": "packetThrower/zorite",
       "description": "A Markdown daily journal with WYSIWYG and raw-Markdown editing — wiki-linked pages, embedded PDFs, Mermaid diagrams, whiteboards, and LaTeX math, on macOS, Windows, and Linux."
     },
     {
       "name": "Futureboard Studio",
-      "kind": "app",
-      "category": "Media",
+      "section": "media",
       "repository": "futureboard/Futureboard",
       "description": "An open-source digital audio workstation with Native GPUI, React WebUI, Rust DSP, and native plugin hosting."
     },
     {
       "name": "hummingbird",
-      "kind": "app",
-      "category": "Media",
+      "section": "media",
       "repository": "143mailliw/hummingbird",
       "description": "Modern music player written in Rust using gpui with a focus on design and performance."
     },
     {
       "name": "Monocurl",
-      "kind": "app",
-      "category": "Media",
+      "section": "media",
       "repository": "monocurl/monocurl",
       "description": "An environment for programmatically animating images, videos, and slideshows in the Monocurl language."
     },
     {
       "name": "Pawse",
-      "kind": "app",
-      "category": "Media",
+      "section": "media",
       "repository": "popovpsk/pawse",
       "description": "A cross-platform music player with bit-perfect/exclusive output and a customizable UI."
     },
     {
       "name": "sukusho",
-      "kind": "app",
-      "category": "Media",
+      "section": "media",
       "repository": "ssut/sukusho",
       "description": "A powerful screenshot manager for Windows."
     },
     {
       "name": "vleer",
-      "kind": "app",
-      "category": "Media",
+      "section": "media",
       "repository": "vleerapp/vleer",
       "description": "Music, but without the subscription. Built on top of the OpenMusic API for a new streaming standard."
     },
     {
       "name": "bandmeter",
-      "kind": "app",
-      "category": "System Utilities",
+      "section": "system-utilities",
       "repository": "emamoah/bandmeter",
       "description": "Per-program network usage monitor for Linux."
     },
     {
       "name": "clp",
-      "kind": "app",
-      "category": "System Utilities",
+      "section": "system-utilities",
       "repository": "lostf1sh/clp",
       "description": "A minimal, GPU-accelerated Wayland clipboard manager with image support and pinned entries."
     },
     {
       "name": "omarchist",
-      "kind": "app",
-      "category": "System Utilities",
+      "section": "system-utilities",
       "repository": "tahayvr/omarchist",
       "description": "A full Rust rewrite of the Omarchy control center."
     },
     {
       "name": "OpenLogi",
-      "kind": "app",
-      "category": "System Utilities",
+      "section": "system-utilities",
       "repository": "AprilNEA/OpenLogi",
       "description": "A native, local-first alternative to Logitech Options+ — remap buttons, DPI, and SmartShift over HID++ with no account or telemetry."
     },
     {
       "name": "picoforge",
-      "kind": "app",
-      "category": "System Utilities",
+      "section": "system-utilities",
       "repository": "librekeys/picoforge",
       "description": "A commissioning tool for pico-fido firmware based hardware keys."
     },
     {
       "name": "ropy",
-      "kind": "app",
-      "category": "System Utilities",
+      "section": "system-utilities",
       "repository": "StudentWeis/ropy",
       "description": "A cross-platform native clipboard manager in pure Rust."
     },
     {
       "name": "WSL2-HyperV-Firewall-Manager",
-      "kind": "app",
-      "category": "System Utilities",
+      "section": "system-utilities",
       "repository": "ssut/WSL2-HyperV-Firewall-Manager",
       "description": "A WSL2 Hyper-V Firewall Management GUI for mirrored WSL2 networking built with Rust and GPUI."
     },
     {
       "name": "gpui-base64",
-      "kind": "app",
-      "category": "Demos & Examples",
+      "section": "demos-and-examples",
       "repository": "badgooooor/gpui-base64",
       "description": "Base64 encoder/decoder example with gpui and gpui-component."
     },
     {
       "name": "gpui-calculator",
-      "kind": "app",
-      "category": "Demos & Examples",
+      "section": "demos-and-examples",
       "repository": "kriskw1999/gpui-calculator",
       "description": "Beautifully designed calculator with both keys and mouse interaction."
     },
     {
       "name": "gpui-list",
-      "kind": "app",
-      "category": "Demos & Examples",
+      "section": "demos-and-examples",
       "repository": "duanebester/gpui-list",
       "description": "Basic list examples in gpui."
     },
     {
       "name": "adabraka-ui",
-      "kind": "library",
+      "section": "libraries",
       "repository": "Augani/adabraka-ui",
       "description": "UI components for building beautiful desktop applications."
     },
     {
       "name": "declarative-gpui",
-      "kind": "library",
+      "section": "libraries",
       "repository": "DevPlus31/declarative-gpui",
       "description": "A declarative ui! macro with Tailwind-style tokens, real Rust control flow, and zero runtime overhead."
     },
     {
       "name": "ferrum-flow",
-      "kind": "library",
+      "section": "libraries",
       "repository": "tu6ge/ferrum-flow",
       "description": "A high-performance, extensible node-based editor framework."
     },
     {
       "name": "gpui-component",
-      "kind": "library",
+      "section": "libraries",
       "repository": "longbridge/gpui-component",
       "description": "UI components for building fantastic desktop applications using gpui."
     },
     {
       "name": "gpui-d3rs",
-      "kind": "library",
+      "section": "libraries",
       "repository": "pierreaubert/sotf",
       "path": "gpui-d3rs",
       "description": "a low level plotting library 100% in rust with the familiar [d3js](https://d3js.org/) components."
     },
     {
       "name": "gpui-flow",
-      "kind": "library",
+      "section": "libraries",
       "repository": "pacifio/gpui-flow",
       "description": "Visual node editor react flow for GPUI."
     },
     {
       "name": "gpui-form",
-      "kind": "library",
+      "section": "libraries",
       "repository": "stayhydated/gpui-form",
       "description": "A struct derive macro for deriving gpui-component... components on fields."
     },
     {
       "name": "gpui-hooks",
-      "kind": "library",
+      "section": "libraries",
       "repository": "leset0ng/gpui-hooks",
       "description": "React-style hooks for GPUI framework."
     },
     {
       "name": "gpui-nav",
-      "kind": "library",
+      "section": "libraries",
       "repository": "benodiwal/gpui-nav",
       "description": "Easy navigation library for GPUI applications."
     },
     {
       "name": "gpui-pdf",
-      "kind": "library",
+      "section": "libraries",
       "repository": "packetThrower/zorite",
       "path": "crates/gpui-pdf",
       "description": "Page-virtualized PDF viewing built on the pure-Rust hayro rasterizer — zoom, navigation, full-text search, and bounded memory, with no native dependencies."
     },
     {
       "name": "gpui-px",
-      "kind": "library",
+      "section": "libraries",
       "repository": "pierreaubert/sotf",
       "path": "gpui-px",
       "description": "a high level plotting library 100% in rust inspired by [plotly express](https://plotly.com/python/plotly-express/) and using d3rs."
     },
     {
       "name": "gpui-router",
-      "kind": "library",
+      "section": "libraries",
       "repository": "justjavac/gpui-router",
       "description": "A router for GPUI App."
     },
     {
       "name": "gpui-storybook",
-      "kind": "library",
+      "section": "libraries",
       "repository": "stayhydated/gpui-storybook",
       "description": "Storybook-like library for GPUI applications."
     },
     {
       "name": "gpui-symbols",
-      "kind": "library",
+      "section": "libraries",
       "repository": "AprilNEA/gpui-symbols",
       "description": "Native SF Symbols for GPUI with type-safe Icon component."
     },
     {
       "name": "gpui-tea",
-      "kind": "library",
+      "section": "libraries",
       "repository": "inkwadra/gpui-tea",
       "description": "Runtime primitives for building Elm-style GPUI applications."
     },
     {
       "name": "gpui-video-player",
-      "kind": "library",
+      "section": "libraries",
       "repository": "cijiugechu/gpui-video-player",
       "description": "Video player for gpui."
     },
     {
       "name": "gpui-whiteboard",
-      "kind": "library",
+      "section": "libraries",
       "repository": "packetThrower/zorite",
       "path": "crates/gpui-whiteboard",
       "description": "An infinite, pan-and-zoom whiteboard canvas with shapes, arrows, freehand ink, text, and images, plus a built-in toolbar, templates, and undo/redo."
     },
     {
       "name": "guise",
-      "kind": "library",
+      "section": "libraries",
       "url": "https://wess.io/guise",
       "description": "A nice set of components for gpui."
     },
     {
       "name": "plotters-gpui",
-      "kind": "library",
+      "section": "libraries",
       "repository": "JakkuSakura/plotters-gpui",
       "description": "gpui backend for plotters."
     },
     {
       "name": "ratex-gpui",
-      "kind": "library",
+      "section": "libraries",
       "repository": "packetThrower/zorite",
       "path": "crates/ratex-gpui",
       "description": "A LaTeX math renderer and a structural, MathQuill-style formula editor for GPUI, built on the RaTeX engine."
     },
     {
       "name": "create-gpui-app",
-      "kind": "tooling",
+      "section": "tooling",
       "repository": "zed-industries/create-gpui-app",
       "description": "Create a new gpui app in a single command."
     },
     {
       "name": "Crepuscularity",
-      "kind": "tooling",
+      "section": "tooling",
       "repository": "tschk/crepuscularity",
       "description": "One UI codebase for desktop, web, mobile, terminal, browser extensions, and embedded devices. Write React JSX or our lightweight DSL, get GPUI, Ratatui, SwiftUI, LVGL, and more. Batteries included."
     },
     {
       "name": "Pulsar-Native",
-      "kind": "tooling",
+      "section": "tooling",
       "repository": "Far-Beyond-Pulsar/Pulsar-Native",
       "description": "The next-generation game engine that you deserve implemented in rust on top of GPUI."
     },
     {
       "name": "React Native GPUI",
-      "kind": "tooling",
+      "section": "tooling",
       "repository": "rngpui/react-native-gpui",
       "description": "An out-of-tree platform for React Native desktop applications, implementing RN Fabric architecture with Rust and GPUI."
     },
     {
       "name": "Duane Bester - Rust Streams",
-      "kind": "resource",
+      "section": "resources",
       "url": "https://www.youtube.com/playlist?list=PLzIkykhdNahwxfVbxgZR69TQSsJc-6Rqq",
       "description": "YouTube streams covering gpui app development."
     },
     {
       "name": "gpui-book",
-      "kind": "resource",
+      "section": "resources",
       "repository": "MatinAniss/gpui-book",
       "description": "A book teaching you the concepts you need to create your own gpui application."
     }

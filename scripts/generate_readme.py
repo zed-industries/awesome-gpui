@@ -22,12 +22,17 @@ TEMPLATE_PATH = ROOT / "README.template.md"
 README_PATH = ROOT / "README.md"
 PLACEHOLDER = "<!-- PROJECTS -->"
 API_ROOT = "https://api.github.com"
-APP_CATEGORIES = [
-    "Developer Tools",
-    "Productivity",
-    "Media",
-    "System Utilities",
-    "Demos & Examples",
+APP_SECTIONS = [
+    ("developer-tools", "Developer Tools"),
+    ("productivity", "Productivity"),
+    ("media", "Media"),
+    ("system-utilities", "System Utilities"),
+    ("demos-and-examples", "Demos & Examples"),
+]
+TOP_LEVEL_SECTIONS = [
+    ("libraries", "Libraries"),
+    ("tooling", "Tooling"),
+    ("resources", "Resources"),
 ]
 
 
@@ -119,20 +124,14 @@ def render_table(projects: list[dict[str, Any]], results: dict[int, dict[str, An
 
 def render_catalog(projects: list[dict[str, Any]], results: dict[int, dict[str, Any]]) -> str:
     sections: list[str] = []
-    apps = [project for project in projects if project["kind"] == "app"]
     sections.append("## Apps")
-    categories = APP_CATEGORIES + [
-        category
-        for category in dict.fromkeys(project.get("category") for project in apps)
-        if category and category not in APP_CATEGORIES
-    ]
-    for category in categories:
-        entries = [project for project in apps if project.get("category") == category]
+    for section, heading in APP_SECTIONS:
+        entries = [project for project in projects if project["section"] == section]
         if entries:
-            sections.extend([f"### {category}", render_table(entries, results)])
+            sections.extend([f"### {heading}", render_table(entries, results)])
 
-    for kind, heading in (("library", "Libraries"), ("tooling", "Tooling"), ("resource", "Resources")):
-        entries = [project for project in projects if project["kind"] == kind]
+    for section, heading in TOP_LEVEL_SECTIONS:
+        entries = [project for project in projects if project["section"] == section]
         if entries:
             sections.extend([f"## {heading}", render_table(entries, results)])
 

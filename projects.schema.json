@@ -21,19 +21,24 @@
     "project": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["name", "kind", "description"],
+      "required": ["name", "section", "description"],
       "properties": {
         "name": {
           "type": "string",
           "minLength": 1
         },
-        "kind": {
+        "section": {
           "type": "string",
-          "enum": ["app", "library", "tooling", "resource"]
-        },
-        "category": {
-          "type": "string",
-          "minLength": 1
+          "enum": [
+            "developer-tools",
+            "productivity",
+            "media",
+            "system-utilities",
+            "demos-and-examples",
+            "libraries",
+            "tooling",
+            "resources"
+          ]
         },
         "description": {
           "type": "string",
@@ -77,19 +82,6 @@
           },
           "then": {
             "required": ["repository"]
-          }
-        },
-        {
-          "if": {
-            "properties": {
-              "kind": {
-                "const": "app"
-              }
-            },
-            "required": ["kind"]
-          },
-          "then": {
-            "required": ["category"]
           }
         }
       ]
