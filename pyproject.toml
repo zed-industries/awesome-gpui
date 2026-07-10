@@ -5,3 +5,8 @@ requires-python = ">=3.11"
 dependencies = [
     "python-dotenv>=1.2.2",
 ]
+
+[dependency-groups]
+dev = [
+    "check-jsonschema>=0.37.4",
+]

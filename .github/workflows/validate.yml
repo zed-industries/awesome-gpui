@@ -1,0 +1,36 @@
+name: Validate
+
+on:
+  pull_request:
+    paths:
+      - projects.json
+      - projects.schema.json
+      - pyproject.toml
+      - uv.lock
+      - .github/workflows/validate.yml
+  push:
+    branches:
+      - main
+    paths:
+      - projects.json
+      - projects.schema.json
+      - pyproject.toml
+      - uv.lock
+      - .github/workflows/validate.yml
+
+permissions:
+  contents: read
+
+jobs:
+  projects:
+    name: Validate projects.json
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+
+      - name: Validate project data
+        run: uv run check-jsonschema --schemafile projects.schema.json projects.json

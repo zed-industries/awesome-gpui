@@ -10,6 +10,8 @@ on:
     paths:
       - projects.json
       - projects.schema.json
+      - pyproject.toml
+      - uv.lock
       - README.template.md
       - scripts/generate_readme.py
       - .github/workflows/update-readme.yml
@@ -26,6 +28,9 @@ jobs:
 
       - name: Install uv
         uses: astral-sh/setup-uv@v6
+
+      - name: Validate project data
+        run: uv run check-jsonschema --schemafile projects.schema.json projects.json
 
       - name: Generate README
         env:
