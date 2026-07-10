@@ -15,7 +15,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | [Arbor](https://github.com/penso/arbor) | Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs. | 782 | 🟢 Active · 2026-06-12 |
 | [based](https://github.com/pavi2410/based) | A native database client built for teams and AI agents — connections and queries live in your repo, git-friendly and version-controlled. | 32 | 🟢 Active · 2026-06-21 |
 | [Baudrun](https://github.com/packetThrower/Baudrun) | A cross-platform serial terminal for network engineers, with saved profiles, multi-window, auto-reconnect, and XMODEM/YMODEM file transfer. | 19 | 🟢 Active · 2026-07-09 |
-| [Codux](https://github.com/duxweb/codux) | A native AI coding terminal built with Rust and GPUI, spanning desktop, mobile, and headless hosts. | 225 | 🟢 Active · 2026-07-09 |
+| [Codux](https://github.com/duxweb/codux) | A native AI coding terminal built with Rust and GPUI, spanning desktop, mobile, and headless hosts. | 226 | 🟢 Active · 2026-07-09 |
 | [DBFlux](https://github.com/0xErwin1/dbflux) | A keyboard-first, multi-engine database client for SQLite, PostgreSQL, MySQL, MongoDB, Redis, and DynamoDB with integrated MCP governance for AI agents. | 101 | 🟢 Active · 2026-07-10 |
 | [Fulgur](https://github.com/fulgur-app/Fulgur) | A lightning-fast, multiplatform, fully themed text & code editor with secured file sync between devices. | 30 | 🟢 Active · 2026-07-09 |
 | [GitComet](https://github.com/Auto-Explore/GitComet) | GitComet is fastest open source user interface for GIT workflows. | 596 | 🟢 Active · 2026-07-09 |
