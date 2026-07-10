@@ -7,6 +7,7 @@ on:
       - projects.schema.json
       - pyproject.toml
       - uv.lock
+      - scripts/sort_projects.py
       - .github/workflows/validate.yml
   push:
     branches:
@@ -16,6 +17,7 @@ on:
       - projects.schema.json
       - pyproject.toml
       - uv.lock
+      - scripts/sort_projects.py
       - .github/workflows/validate.yml
 
 permissions:
@@ -34,3 +36,6 @@ jobs:
 
       - name: Validate project data
         run: uv run check-jsonschema --schemafile projects.schema.json projects.json
+
+      - name: Check project ordering
+        run: uv run scripts/sort_projects.py --check
