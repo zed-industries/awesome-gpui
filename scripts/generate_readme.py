@@ -51,19 +51,18 @@ def parse_date(value: str | None) -> datetime | None:
         return None
 
 
-def activity_details(date: datetime | None, archived: bool = False) -> tuple[str, str]:
-    last_commit = date.date().isoformat() if date is not None else "N/A"
+def activity_status(date: datetime | None, archived: bool = False) -> str:
     if archived:
-        return "📦", last_commit
+        return "📦"
     if date is None:
-        return "❓", last_commit
+        return "❓"
 
     days = max(0, (datetime.now(timezone.utc) - date).days)
     if days <= 90:
-        return "🟢", last_commit
+        return "🟢"
     if days <= 365:
-        return "🟡", last_commit
-    return "⚪", last_commit
+        return "🟡"
+    return "⚪"
 
 
 def compact_stars(value: int | None) -> str:
@@ -102,8 +101,8 @@ def repository_link(project: dict[str, Any], metadata: dict[str, Any] | None) ->
 
 def render_table(projects: list[dict[str, Any]], results: dict[int, dict[str, Any]]) -> str:
     lines = [
-        "| Image | Project | Description | Stars | Status | Last Commit |",
-        "| --- | --- | --- | ---: | :---: | --- |",
+        "| Image | Project | Description | Stars | Status |",
+        "| --- | --- | --- | ---: | :---: |",
     ]
     for project in projects:
         result = results[id(project)]
@@ -114,7 +113,7 @@ def render_table(projects: list[dict[str, Any]], results: dict[int, dict[str, An
         image_cell = f'<img src="{escape(image, quote=True)}" alt="" height="64">' if image else ""
         lines.append(
             f"| {image_cell} | [{name}]({link}) | {description} | {result['stars']} | "
-            f"{result['status']} | {result['last_commit']} |"
+            f"{result['status']} |"
         )
     return "\n".join(lines)
 
@@ -137,9 +136,9 @@ def render_catalog(
     sections = [
         "**Key:**\n\n"
         "- 🔥 1,000+ stars\n"
-        "- 🟢 active (≤90 days)\n"
-        "- 🟡 quiet (91–365 days)\n"
-        "- ⚪ dormant (>365 days)\n"
+        "- 🟢 active: latest commit within 90 days\n"
+        "- 🟡 quiet: latest commit 91–365 days ago\n"
+        "- ⚪ dormant: latest commit more than 365 days ago\n"
         "- 📦 archived\n"
         "- ❓ unavailable"
     ]
@@ -178,7 +177,6 @@ def collect_metadata(projects: list[dict[str, Any]], token: str | None) -> dict[
                 "metadata": None,
                 "stars": "N/A",
                 "status": "N/A",
-                "last_commit": "N/A",
             }
             continue
 
@@ -188,7 +186,6 @@ def collect_metadata(projects: list[dict[str, Any]], token: str | None) -> dict[
                 "metadata": None,
                 "stars": "—",
                 "status": "❓",
-                "last_commit": "N/A",
             }
             continue
 
@@ -211,12 +208,10 @@ def collect_metadata(projects: list[dict[str, Any]], token: str | None) -> dict[
                 date = None
                 errors.add(f"{repository}/{project['path']}: {error}")
 
-        status, last_commit = activity_details(date, bool(metadata.get("archived")))
         results[id(project)] = {
             "metadata": metadata,
             "stars": star_display(metadata.get("stargazers_count")),
-            "status": status,
-            "last_commit": last_commit,
+            "status": activity_status(date, bool(metadata.get("archived"))),
         }
 
     for error in sorted(errors):
