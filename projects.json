@@ -73,6 +73,14 @@
       "description": "A cross platform and super fast diff viewer and Codex orchestrator."
     },
     {
+      "name": "lgtm",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/ellie/lgtm",
+      "image": "https://raw.githubusercontent.com/ellie/lgtm/main/screenies/lgtm.jpeg",
+      "description": "A fast, native code review app built with Rust and GPUI."
+    },
+    {
       "name": "Lumi",
       "category": "Apps",
       "subcategory": "Developer Tools",
