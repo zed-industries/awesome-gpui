@@ -140,6 +140,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "repository": "zed-industries/zed",
+      "image": "https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.png",
       "description": "A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
     },
     {
