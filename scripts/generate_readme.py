@@ -51,19 +51,19 @@ def parse_date(value: str | None) -> datetime | None:
         return None
 
 
-def activity_label(date: datetime | None, archived: bool = False) -> str:
+def activity_details(date: datetime | None, archived: bool = False) -> tuple[str, str]:
+    last_commit = date.date().isoformat() if date is not None else "N/A"
     if archived:
-        return "📦 Archived"
+        return "📦", last_commit
     if date is None:
-        return "❓ Unavailable"
+        return "❓", last_commit
 
     days = max(0, (datetime.now(timezone.utc) - date).days)
-    formatted = date.date().isoformat()
     if days <= 90:
-        return f"🟢 Active · {formatted}"
+        return "🟢", last_commit
     if days <= 365:
-        return f"🟡 Quiet · {formatted}"
-    return f"⚪ Dormant · {formatted}"
+        return "🟡", last_commit
+    return "⚪", last_commit
 
 
 def compact_stars(value: int | None) -> str:
@@ -102,8 +102,8 @@ def repository_link(project: dict[str, Any], metadata: dict[str, Any] | None) ->
 
 def render_table(projects: list[dict[str, Any]], results: dict[int, dict[str, Any]]) -> str:
     lines = [
-        "| Image | Project | Description | Stars | Activity |",
-        "| --- | --- | --- | ---: | --- |",
+        "| Image | Project | Description | Stars | Status | Last Commit |",
+        "| --- | --- | --- | ---: | :---: | --- |",
     ]
     for project in projects:
         result = results[id(project)]
@@ -113,7 +113,8 @@ def render_table(projects: list[dict[str, Any]], results: dict[int, dict[str, An
         image = project.get("image")
         image_cell = f'<img src="{escape(image, quote=True)}" alt="" height="64">' if image else ""
         lines.append(
-            f"| {image_cell} | [{name}]({link}) | {description} | {result['stars']} | {result['activity']} |"
+            f"| {image_cell} | [{name}]({link}) | {description} | {result['stars']} | "
+            f"{result['status']} | {result['last_commit']} |"
         )
     return "\n".join(lines)
 
@@ -133,7 +134,11 @@ def render_catalog(
     catalog: dict[str, dict[str | None, list[dict[str, Any]]]],
     results: dict[int, dict[str, Any]],
 ) -> str:
-    sections = ["🔥 Projects with at least 1,000 GitHub stars"]
+    sections = [
+        "**Key:** 🔥 1,000+ stars · 🟢 active (≤90 days) · "
+        "🟡 quiet (91–365 days) · ⚪ dormant (>365 days) · "
+        "📦 archived · ❓ unavailable"
+    ]
     for category, subcategories in catalog.items():
         sections.append(f"## {category}")
         if None in subcategories:
@@ -165,12 +170,22 @@ def collect_metadata(projects: list[dict[str, Any]], token: str | None) -> dict[
     for project in projects:
         repository = project.get("repository")
         if repository is None:
-            results[id(project)] = {"metadata": None, "stars": "N/A", "activity": "N/A"}
+            results[id(project)] = {
+                "metadata": None,
+                "stars": "N/A",
+                "status": "N/A",
+                "last_commit": "N/A",
+            }
             continue
 
         metadata = repositories.get(repository)
         if metadata is None:
-            results[id(project)] = {"metadata": None, "stars": "—", "activity": "❓ Unavailable"}
+            results[id(project)] = {
+                "metadata": None,
+                "stars": "—",
+                "status": "❓",
+                "last_commit": "N/A",
+            }
             continue
 
         date = parse_date(metadata.get("pushed_at"))
@@ -192,10 +207,12 @@ def collect_metadata(projects: list[dict[str, Any]], token: str | None) -> dict[
                 date = None
                 errors.add(f"{repository}/{project['path']}: {error}")
 
+        status, last_commit = activity_details(date, bool(metadata.get("archived")))
         results[id(project)] = {
             "metadata": metadata,
             "stars": star_display(metadata.get("stargazers_count")),
-            "activity": activity_label(date, bool(metadata.get("archived"))),
+            "status": status,
+            "last_commit": last_commit,
         }
 
     for error in sorted(errors):
