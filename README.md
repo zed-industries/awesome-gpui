@@ -6,7 +6,14 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [crates.io](https://crates.io/crates/gpui)
 
 <!-- This file is generated from README.template.md and projects.json. -->
-**Key:** 🔥 1,000+ stars · 🟢 active (≤90 days) · 🟡 quiet (91–365 days) · ⚪ dormant (>365 days) · 📦 archived · ❓ unavailable
+**Key:**
+
+- 🔥 1,000+ stars
+- 🟢 active (≤90 days)
+- 🟡 quiet (91–365 days)
+- ⚪ dormant (>365 days)
+- 📦 archived
+- ❓ unavailable
 
 ## Apps
 

@@ -135,9 +135,13 @@ def render_catalog(
     results: dict[int, dict[str, Any]],
 ) -> str:
     sections = [
-        "**Key:** 🔥 1,000+ stars · 🟢 active (≤90 days) · "
-        "🟡 quiet (91–365 days) · ⚪ dormant (>365 days) · "
-        "📦 archived · ❓ unavailable"
+        "**Key:**\n\n"
+        "- 🔥 1,000+ stars\n"
+        "- 🟢 active (≤90 days)\n"
+        "- 🟡 quiet (91–365 days)\n"
+        "- ⚪ dormant (>365 days)\n"
+        "- 📦 archived\n"
+        "- ❓ unavailable"
     ]
     for category, subcategories in catalog.items():
         sections.append(f"## {category}")
