@@ -22,18 +22,6 @@ TEMPLATE_PATH = ROOT / "README.template.md"
 README_PATH = ROOT / "README.md"
 PLACEHOLDER = "<!-- PROJECTS -->"
 API_ROOT = "https://api.github.com"
-APP_SECTIONS = [
-    ("developer-tools", "Developer Tools"),
-    ("productivity", "Productivity"),
-    ("media", "Media"),
-    ("system-utilities", "System Utilities"),
-    ("demos-and-examples", "Demos & Examples"),
-]
-TOP_LEVEL_SECTIONS = [
-    ("libraries", "Libraries"),
-    ("tooling", "Tooling"),
-    ("resources", "Resources"),
-]
 
 
 
@@ -122,18 +110,31 @@ def render_table(projects: list[dict[str, Any]], results: dict[int, dict[str, An
     return "\n".join(lines)
 
 
-def render_catalog(projects: list[dict[str, Any]], results: dict[int, dict[str, Any]]) -> str:
-    sections: list[str] = []
-    sections.append("## Apps")
-    for section, heading in APP_SECTIONS:
-        entries = [project for project in projects if project["section"] == section]
-        if entries:
-            sections.extend([f"### {heading}", render_table(entries, results)])
+def group_projects(
+    projects: list[dict[str, Any]],
+) -> dict[str, dict[str | None, list[dict[str, Any]]]]:
+    catalog: dict[str, dict[str | None, list[dict[str, Any]]]] = {}
+    for project in projects:
+        category = project["category"]
+        subcategory = project.get("subcategory")
+        catalog.setdefault(category, {}).setdefault(subcategory, []).append(project)
+    return catalog
 
-    for section, heading in TOP_LEVEL_SECTIONS:
-        entries = [project for project in projects if project["section"] == section]
-        if entries:
-            sections.extend([f"## {heading}", render_table(entries, results)])
+
+def render_catalog(
+    catalog: dict[str, dict[str | None, list[dict[str, Any]]]],
+    results: dict[int, dict[str, Any]],
+) -> str:
+    sections: list[str] = []
+    for category, subcategories in catalog.items():
+        sections.append(f"## {category}")
+        if None in subcategories:
+            sections.append(render_table(subcategories[None], results))
+            continue
+
+        for subcategory, entries in subcategories.items():
+            if subcategory is not None:
+                sections.extend([f"### {subcategory}", render_table(entries, results)])
 
     return "\n\n".join(sections)
 
@@ -207,8 +208,9 @@ def main() -> int:
     if template.count(PLACEHOLDER) != 1:
         raise ValueError(f"{TEMPLATE_PATH.name} must contain exactly one {PLACEHOLDER} marker")
 
+    catalog = group_projects(projects)
     results = collect_metadata(projects, token)
-    generated = template.replace(PLACEHOLDER, render_catalog(projects, results)).rstrip() + "\n"
+    generated = template.replace(PLACEHOLDER, render_catalog(catalog, results)).rstrip() + "\n"
 
     if args.check:
         current = README_PATH.read_text(encoding="utf-8") if README_PATH.exists() else ""
