@@ -1,0 +1,98 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/zed-industries/awesome-gpui/blob/main/schemas/projects.schema.json",
+  "title": "Awesome GPUI projects",
+  "description": "Schema for projects and resources listed by awesome-gpui.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["projects"],
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "projects": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/project"
+      }
+    }
+  },
+  "$defs": {
+    "project": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "kind", "description"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "kind": {
+          "type": "string",
+          "enum": ["app", "library", "tooling", "resource"]
+        },
+        "category": {
+          "type": "string",
+          "minLength": 1
+        },
+        "description": {
+          "type": "string",
+          "minLength": 1
+        },
+        "repository": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$",
+          "description": "GitHub repository in owner/name form."
+        },
+        "path": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Optional path to a project within a monorepo."
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://",
+          "description": "Canonical URL for an entry not represented by a GitHub repository."
+        }
+      },
+      "oneOf": [
+        {
+          "required": ["repository"],
+          "not": {
+            "required": ["url"]
+          }
+        },
+        {
+          "required": ["url"],
+          "not": {
+            "required": ["repository"]
+          }
+        }
+      ],
+      "allOf": [
+        {
+          "if": {
+            "required": ["path"]
+          },
+          "then": {
+            "required": ["repository"]
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "kind": {
+                "const": "app"
+              }
+            },
+            "required": ["kind"]
+          },
+          "then": {
+            "required": ["category"]
+          }
+        }
+      ]
+    }
+  }
+}
