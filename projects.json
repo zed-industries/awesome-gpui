@@ -6,6 +6,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "repository": "penso/arbor",
+      "image": "https://raw.githubusercontent.com/penso/arbor/main/assets/screenshot.png",
       "description": "Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs."
     },
     {
@@ -20,6 +21,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "repository": "packetThrower/Baudrun",
+      "image": "https://raw.githubusercontent.com/packetThrower/Baudrun/main/build/appicon.png",
       "description": "A cross-platform serial terminal for network engineers, with saved profiles, multi-window, auto-reconnect, and XMODEM/YMODEM file transfer."
     },
     {
@@ -27,6 +29,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "repository": "duxweb/codux",
+      "image": "https://raw.githubusercontent.com/duxweb/codux/main/docs/images/icon.png",
       "description": "A native AI coding terminal built with Rust and GPUI, spanning desktop, mobile, and headless hosts."
     },
     {
@@ -34,6 +37,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "repository": "0xErwin1/dbflux",
+      "image": "https://raw.githubusercontent.com/0xErwin1/dbflux/main/resources/dbflux.png",
       "description": "A keyboard-first, multi-engine database client for SQLite, PostgreSQL, MySQL, MongoDB, Redis, and DynamoDB with integrated MCP governance for AI agents."
     },
     {
@@ -41,6 +45,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "repository": "fulgur-app/Fulgur",
+      "image": "https://raw.githubusercontent.com/fulgur-app/Fulgur/main/assets/icon_square.webp",
       "description": "A lightning-fast, multiplatform, fully themed text & code editor with secured file sync between devices."
     },
     {
@@ -48,6 +53,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "repository": "Auto-Explore/GitComet",
+      "image": "https://raw.githubusercontent.com/Auto-Explore/GitComet/main/assets/gitcomet_logo.svg",
       "description": "GitComet is fastest open source user interface for GIT workflows."
     },
     {
@@ -55,6 +61,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "repository": "polachok/helix-gpui",
+      "image": "https://github.com/polachok/helix-gpui/assets/94035/0d5dbed5-77d9-4da0-88e0-6a0632cb6070",
       "description": "Helix gpui frontend."
     },
     {
@@ -62,6 +69,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "repository": "niteshbalusu11/hunk",
+      "image": "https://github.com/user-attachments/assets/7d7284e1-3f2f-4bae-ae6b-bb51eea9e06b",
       "description": "A cross platform and super fast diff viewer and Codex orchestrator."
     },
     {
@@ -69,6 +77,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "repository": "CES-Ltd/Lumi",
+      "image": "https://raw.githubusercontent.com/CES-Ltd/Lumi/main/apps/lumi-gpui/docs/media/01-chat.png",
       "description": "A Unified Cowork & Code Agent to control - Cursor, Claude, Crush/ OpenCode , Hermes, Codex"
     },
     {
@@ -83,6 +92,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "repository": "feigeCode/onetcli",
+      "image": "https://raw.githubusercontent.com/feigeCode/onetcli/dev/logo.svg",
       "description": "A GPU-accelerated, cross-platform desktop client for PostgreSQL, MySQL, SQLite, SQL Server, Oracle, ClickHouse, DuckDB, Redis, MongoDB, SSH, SFTP, serial, terminals, and AI in one place."
     },
     {
@@ -90,6 +100,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "repository": "duanebester/pgui",
+      "image": "https://raw.githubusercontent.com/duanebester/pgui/main/assets/screenshots/pgui-dual.png",
       "description": "A GUI to query & manage postgres databases."
     },
     {
@@ -97,6 +108,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "repository": "847850277/postman-gpui",
+      "image": "https://raw.githubusercontent.com/847850277/postman-gpui/main/image.png",
       "description": "A simple graphical user interface application for making HTTP requests, inspired by Postman."
     },
     {
@@ -104,6 +116,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "repository": "bajrangCoder/setu",
+      "image": "https://raw.githubusercontent.com/bajrangCoder/setu/main/assets/demo.png",
       "description": "A minimal, native API testing application built with GPUI."
     },
     {
@@ -111,6 +124,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "repository": "lassejlv/termy",
+      "image": "https://raw.githubusercontent.com/lassejlv/termy/main/assets/termy-landing.png",
       "description": "A Lightweight & GPU-rendered terminal emulator, written in Rust."
     },
     {
@@ -118,6 +132,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "repository": "l0ng-ai/tty7",
+      "image": "https://raw.githubusercontent.com/l0ng-ai/tty7/main/assets/app-icon.svg",
       "description": "A GPU-rendered, daemon-backed terminal in pure Rust — a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux needed), with an enhanced prompt, tabs, splits, a command palette, and native builds for macOS, Windows, and Linux."
     },
     {
@@ -146,6 +161,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "repository": "samurmaykrr/zqlz",
+      "image": "https://raw.githubusercontent.com/samurmaykrr/zqlz/main/ss.png",
       "description": "A database IDE built with Rust and GPUI, supporting SQLite, PostgreSQL, MySQL, and Redis."
     },
     {
@@ -153,6 +169,7 @@
       "category": "Apps",
       "subcategory": "Productivity",
       "repository": "rubbieKelvin/bmo",
+      "image": "https://raw.githubusercontent.com/rubbieKelvin/bmo/master/.screenshots/bmo.png",
       "description": "Pomorodo timer written with rust & gpui."
     },
     {
@@ -160,6 +177,7 @@
       "category": "Apps",
       "subcategory": "Productivity",
       "repository": "lumehq/coop",
+      "image": "https://raw.githubusercontent.com/lumehq/coop/master/docs/coop.png",
       "description": "A simple, fast, and reliable nostr client for secure messaging across all platforms."
     },
     {
@@ -167,6 +185,7 @@
       "category": "Apps",
       "subcategory": "Productivity",
       "repository": "gaauwe/fast-forward",
+      "image": "https://raw.githubusercontent.com/gaauwe/fast-forward/develop/assets/app_icon.png",
       "description": "A window switcher for macOS."
     },
     {
@@ -174,6 +193,7 @@
       "category": "Apps",
       "subcategory": "Productivity",
       "repository": "duanebester/gpui-todos",
+      "image": "https://raw.githubusercontent.com/duanebester/gpui-todos/main/screengrab.png",
       "description": "A todo app written in gpui."
     },
     {
@@ -181,6 +201,7 @@
       "category": "Apps",
       "subcategory": "Productivity",
       "repository": "MatthiasGrandl/loungy",
+      "image": "https://raw.githubusercontent.com/MatthiasGrandl/Loungy/main/icons/icon_512x512@2x@2x.png",
       "description": "App launcher in the vein of Spotlight, Alfred, Raycast."
     },
     {
@@ -188,6 +209,7 @@
       "category": "Apps",
       "subcategory": "Productivity",
       "repository": "noh-rs/nohrs",
+      "image": "https://raw.githubusercontent.com/noh-rs/nohrs/develop/assets/doc/icon.png",
       "description": "A fast, flexible, and extensible file explorer for macOS, built with Rust and gpui as a modern alternative to Finder."
     },
     {
@@ -195,6 +217,7 @@
       "category": "Apps",
       "subcategory": "Productivity",
       "repository": "niklabh/oxide",
+      "image": "https://raw.githubusercontent.com/niklabh/oxide/main/screens/oxide.png",
       "description": "A binary-first browser that runs WebAssembly modules instead of HTML/CSS/JS, built with GPUI."
     },
     {
@@ -202,6 +225,7 @@
       "category": "Apps",
       "subcategory": "Productivity",
       "repository": "LeadcodeDev/remindr",
+      "image": "https://github.com/user-attachments/assets/457064ea-9f84-4099-b20c-8be5f2dfe9d6",
       "description": "An open-source and self-hostable alternative to Notion."
     },
     {
@@ -209,6 +233,7 @@
       "category": "Apps",
       "subcategory": "Productivity",
       "repository": "wzzc-dev/vellum",
+      "image": "https://raw.githubusercontent.com/wzzc-dev/vellum/master/docs/vellum-screenshot.png",
       "description": "A WYSIWYG desktop Markdown editor built with Rust and GPUI."
     },
     {
@@ -216,6 +241,7 @@
       "category": "Apps",
       "subcategory": "Productivity",
       "repository": "packetThrower/zorite",
+      "image": "https://raw.githubusercontent.com/packetThrower/zorite/main/resources/icons/icon.png",
       "description": "A Markdown daily journal with WYSIWYG and raw-Markdown editing — wiki-linked pages, embedded PDFs, Mermaid diagrams, whiteboards, and LaTeX math, on macOS, Windows, and Linux."
     },
     {
@@ -223,6 +249,7 @@
       "category": "Apps",
       "subcategory": "Media",
       "repository": "futureboard/Futureboard",
+      "image": "https://raw.githubusercontent.com/futureboard/Futureboard/main/packages/assets/banner.png",
       "description": "An open-source digital audio workstation with Native GPUI, React WebUI, Rust DSP, and native plugin hosting."
     },
     {
@@ -230,6 +257,7 @@
       "category": "Apps",
       "subcategory": "Media",
       "repository": "143mailliw/hummingbird",
+      "image": "https://raw.githubusercontent.com/hummingbird-player/hummingbird/master/docs/screenshot.png",
       "description": "Modern music player written in Rust using gpui with a focus on design and performance."
     },
     {
@@ -237,6 +265,7 @@
       "category": "Apps",
       "subcategory": "Media",
       "repository": "monocurl/monocurl",
+      "image": "https://raw.githubusercontent.com/monocurl/monocurl/main/.github/assets/monocurl-editor.webp",
       "description": "An environment for programmatically animating images, videos, and slideshows in the Monocurl language."
     },
     {
@@ -244,6 +273,7 @@
       "category": "Apps",
       "subcategory": "Media",
       "repository": "popovpsk/pawse",
+      "image": "https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/icon.png",
       "description": "A cross-platform music player with bit-perfect/exclusive output and a customizable UI."
     },
     {
@@ -251,6 +281,7 @@
       "category": "Apps",
       "subcategory": "Media",
       "repository": "ssut/sukusho",
+      "image": "https://raw.githubusercontent.com/ssut/sukusho/main/docs/screenshot.webp",
       "description": "A powerful screenshot manager for Windows."
     },
     {
@@ -258,6 +289,7 @@
       "category": "Apps",
       "subcategory": "Media",
       "repository": "vleerapp/vleer",
+      "image": "https://raw.githubusercontent.com/vleerapp/vleer/main/assets/images/icon.png",
       "description": "Music, but without the subscription. Built on top of the OpenMusic API for a new streaming standard."
     },
     {
@@ -265,6 +297,7 @@
       "category": "Apps",
       "subcategory": "System Utilities",
       "repository": "emamoah/bandmeter",
+      "image": "https://raw.githubusercontent.com/emamoah/bandmeter/main/doc/images/bandmeter-gui.png",
       "description": "Per-program network usage monitor for Linux."
     },
     {
@@ -279,6 +312,7 @@
       "category": "Apps",
       "subcategory": "System Utilities",
       "repository": "tahayvr/omarchist",
+      "image": "https://raw.githubusercontent.com/tahayvr/omarchist/main/assets/logo/omarchist.png",
       "description": "A full Rust rewrite of the Omarchy control center."
     },
     {
@@ -286,6 +320,7 @@
       "category": "Apps",
       "subcategory": "System Utilities",
       "repository": "AprilNEA/OpenLogi",
+      "image": "https://assets.openlogi.org/brand/openlogi-icon.png",
       "description": "A native, local-first alternative to Logitech Options+ — remap buttons, DPI, and SmartShift over HID++ with no account or telemetry."
     },
     {
@@ -293,6 +328,7 @@
       "category": "Apps",
       "subcategory": "System Utilities",
       "repository": "librekeys/picoforge",
+      "image": "https://raw.githubusercontent.com/librekeys/picoforge/main/static/appIcons/in.suyogtandel.picoforge.svg",
       "description": "A commissioning tool for pico-fido firmware based hardware keys."
     },
     {
@@ -300,6 +336,7 @@
       "category": "Apps",
       "subcategory": "System Utilities",
       "repository": "StudentWeis/ropy",
+      "image": "https://raw.githubusercontent.com/StudentWeis/ropy/main/assets/logo.png",
       "description": "A cross-platform native clipboard manager in pure Rust."
     },
     {
@@ -307,6 +344,7 @@
       "category": "Apps",
       "subcategory": "System Utilities",
       "repository": "ssut/WSL2-HyperV-Firewall-Manager",
+      "image": "https://raw.githubusercontent.com/ssut/WSL2-HyperV-Firewall-Manager/main/assets/icon.png",
       "description": "A WSL2 Hyper-V Firewall Management GUI for mirrored WSL2 networking built with Rust and GPUI."
     },
     {
@@ -321,6 +359,7 @@
       "category": "Apps",
       "subcategory": "Demos & Examples",
       "repository": "kriskw1999/gpui-calculator",
+      "image": "https://github.com/kriskw1999/gpui-calculator/assets/71312948/585d96cf-3976-4356-9eac-42939c1d2031",
       "description": "Beautifully designed calculator with both keys and mouse interaction."
     },
     {
@@ -328,30 +367,35 @@
       "category": "Apps",
       "subcategory": "Demos & Examples",
       "repository": "duanebester/gpui-list",
+      "image": "https://raw.githubusercontent.com/duanebester/gpui-list/main/resources/SimpleList.png",
       "description": "Basic list examples in gpui."
     },
     {
       "name": "adabraka-ui",
       "category": "Libraries",
       "repository": "Augani/adabraka-ui",
+      "image": "https://raw.githubusercontent.com/Augani/adabraka-ui/main/docs/assets/images/music-player.png",
       "description": "UI components for building beautiful desktop applications."
     },
     {
       "name": "declarative-gpui",
       "category": "Libraries",
       "repository": "DevPlus31/declarative-gpui",
+      "image": "https://raw.githubusercontent.com/DevPlus31/declarative-gpui/main/examples/screenshots/card.png",
       "description": "A declarative ui! macro with Tailwind-style tokens, real Rust control flow, and zero runtime overhead."
     },
     {
       "name": "ferrum-flow",
       "category": "Libraries",
       "repository": "tu6ge/ferrum-flow",
+      "image": "https://github.com/user-attachments/assets/99063140-6b80-4a3d-913e-2b14f424cfb7",
       "description": "A high-performance, extensible node-based editor framework."
     },
     {
       "name": "gpui-component",
       "category": "Libraries",
       "repository": "longbridge/gpui-component",
+      "image": "https://github.com/user-attachments/assets/e1ecb9c3-2dd3-431e-bd97-5a819c30e551",
       "description": "UI components for building fantastic desktop applications using gpui."
     },
     {
@@ -365,6 +409,7 @@
       "name": "gpui-flow",
       "category": "Libraries",
       "repository": "pacifio/gpui-flow",
+      "image": "https://raw.githubusercontent.com/pacifio/gpui-flow/main/media/mindmap.png",
       "description": "Visual node editor react flow for GPUI."
     },
     {
@@ -427,6 +472,7 @@
       "name": "gpui-video-player",
       "category": "Libraries",
       "repository": "cijiugechu/gpui-video-player",
+      "image": "https://raw.githubusercontent.com/cijiugechu/gpui-video-player/main/assets/screenshot.png",
       "description": "Video player for gpui."
     },
     {
@@ -446,6 +492,7 @@
       "name": "plotters-gpui",
       "category": "Libraries",
       "repository": "JakkuSakura/plotters-gpui",
+      "image": "https://github.com/user-attachments/assets/58104fbd-35e7-40a1-be8d-ad18945acacb",
       "description": "gpui backend for plotters."
     },
     {
@@ -471,6 +518,7 @@
       "name": "Pulsar-Native",
       "category": "Tooling",
       "repository": "Far-Beyond-Pulsar/Pulsar-Native",
+      "image": "https://github.com/user-attachments/assets/e36bfc3b-f5e8-437e-a50a-967ee254a0eb",
       "description": "The next-generation game engine that you deserve implemented in rust on top of GPUI."
     },
     {

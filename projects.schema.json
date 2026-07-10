@@ -45,6 +45,12 @@
           "type": "string",
           "minLength": 1
         },
+        "image": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://",
+          "description": "Optional image displayed alongside the project."
+        },
         "repository": {
           "type": "string",
           "pattern": "^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$",

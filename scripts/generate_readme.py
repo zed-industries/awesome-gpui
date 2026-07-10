@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S uv run --script
 """Generate README.md from projects.json and current GitHub metadata."""
 
 from __future__ import annotations
@@ -8,6 +8,7 @@ import json
 import os
 import sys
 from datetime import datetime, timezone
+from html import escape
 from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError, URLError
@@ -96,16 +97,18 @@ def repository_link(project: dict[str, Any], metadata: dict[str, Any] | None) ->
 
 def render_table(projects: list[dict[str, Any]], results: dict[int, dict[str, Any]]) -> str:
     lines = [
-        "| Project | Description | Stars | Activity |",
-        "| --- | --- | ---: | --- |",
+        "| Image | Project | Description | Stars | Activity |",
+        "| --- | --- | --- | ---: | --- |",
     ]
     for project in projects:
         result = results[id(project)]
         link = repository_link(project, result.get("metadata"))
         name = escape_cell(project["name"])
         description = escape_cell(project["description"])
+        image = project.get("image")
+        image_cell = f'<img src="{escape(image, quote=True)}" alt="" height="64">' if image else ""
         lines.append(
-            f"| [{name}]({link}) | {description} | {result['stars']} | {result['activity']} |"
+            f"| {image_cell} | [{name}]({link}) | {description} | {result['stars']} | {result['activity']} |"
         )
     return "\n".join(lines)
 

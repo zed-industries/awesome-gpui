@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S uv run --script
 """Sort projects.json using category order defined by its JSON Schema."""
 
 from __future__ import annotations
