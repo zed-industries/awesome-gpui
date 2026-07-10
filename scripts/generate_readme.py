@@ -79,6 +79,11 @@ def compact_stars(value: int | None) -> str:
     return f"{number:.{precision}f}".rstrip("0").rstrip(".") + suffix
 
 
+def star_display(value: int | None) -> str:
+    stars = compact_stars(value)
+    return f"{stars} 🔥" if value is not None and value >= 1_000 else stars
+
+
 def escape_cell(value: str) -> str:
     return value.replace("\\", "\\\\").replace("|", "\\|").replace("\n", " ")
 
@@ -128,7 +133,7 @@ def render_catalog(
     catalog: dict[str, dict[str | None, list[dict[str, Any]]]],
     results: dict[int, dict[str, Any]],
 ) -> str:
-    sections: list[str] = []
+    sections = ["🔥 Projects with at least 1,000 GitHub stars"]
     for category, subcategories in catalog.items():
         sections.append(f"## {category}")
         if None in subcategories:
@@ -189,7 +194,7 @@ def collect_metadata(projects: list[dict[str, Any]], token: str | None) -> dict[
 
         results[id(project)] = {
             "metadata": metadata,
-            "stars": compact_stars(metadata.get("stargazers_count")),
+            "stars": star_display(metadata.get("stargazers_count")),
             "activity": activity_label(date, bool(metadata.get("archived"))),
         }
 

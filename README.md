@@ -6,6 +6,8 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [crates.io](https://crates.io/crates/gpui)
 
 <!-- This file is generated from README.template.md and projects.json. -->
+🔥 Projects with at least 1,000 GitHub stars
+
 ## Apps
 
 ### Developer Tools
@@ -29,8 +31,8 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | <img src="https://raw.githubusercontent.com/bajrangCoder/setu/main/assets/demo.png" alt="" height="64"> | [setu](https://github.com/bajrangCoder/setu) | A minimal, native API testing application built with GPUI. | 45 | 🟢 Active · 2026-06-04 |
 | <img src="https://raw.githubusercontent.com/lassejlv/termy/main/assets/termy-landing.png" alt="" height="64"> | [termy](https://github.com/lassejlv/termy) | A Lightweight & GPU-rendered terminal emulator, written in Rust. | 267 | 🟢 Active · 2026-07-08 |
 | <img src="https://raw.githubusercontent.com/l0ng-ai/tty7/main/assets/app-icon.svg" alt="" height="64"> | [tty7](https://github.com/l0ng-ai/tty7) | A GPU-rendered, daemon-backed terminal in pure Rust — a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux needed), with an enhanced prompt, tabs, splits, a command palette, and native builds for macOS, Windows, and Linux. | 63 | 🟢 Active · 2026-07-10 |
-|  | [zed](https://github.com/zed-industries/zed) | A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | 86.7k | 🟢 Active · 2026-07-10 |
-|  | [zedis](https://github.com/vicanso/zedis) | A blazing-fast, native Redis GUI built with Rust and GPUI. | 1.9k | 🟢 Active · 2026-07-09 |
+|  | [zed](https://github.com/zed-industries/zed) | A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | 86.7k 🔥 | 🟢 Active · 2026-07-10 |
+|  | [zedis](https://github.com/vicanso/zedis) | A blazing-fast, native Redis GUI built with Rust and GPUI. | 1.9k 🔥 | 🟢 Active · 2026-07-09 |
 |  | [zlyph](https://github.com/douglance/zlyph) | A minimal text editor built with GPUI. | 13 | 🟡 Quiet · 2025-12-31 |
 | <img src="https://raw.githubusercontent.com/samurmaykrr/zqlz/main/ss.png" alt="" height="64"> | [zqlz](https://github.com/samurmaykrr/zqlz) | A database IDE built with Rust and GPUI, supporting SQLite, PostgreSQL, MySQL, and Redis. | 179 | 🟢 Active · 2026-05-21 |
 
@@ -42,7 +44,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | <img src="https://raw.githubusercontent.com/lumehq/coop/master/docs/coop.png" alt="" height="64"> | [coop](https://github.com/lumehq/coop) | A simple, fast, and reliable nostr client for secure messaging across all platforms. | 197 | 🟡 Quiet · 2026-01-11 |
 | <img src="https://raw.githubusercontent.com/gaauwe/fast-forward/develop/assets/app_icon.png" alt="" height="64"> | [Fast Forward](https://github.com/gaauwe/fast-forward) | A window switcher for macOS. | 375 | 🟡 Quiet · 2025-12-07 |
 | <img src="https://raw.githubusercontent.com/duanebester/gpui-todos/main/screengrab.png" alt="" height="64"> | [gpui-todos](https://github.com/duanebester/gpui-todos) | A todo app written in gpui. | 71 | 🟡 Quiet · 2025-11-26 |
-| <img src="https://raw.githubusercontent.com/MatthiasGrandl/Loungy/main/icons/icon_512x512@2x@2x.png" alt="" height="64"> | [Loungy](https://github.com/MatthiasGrandl/Loungy) | App launcher in the vein of Spotlight, Alfred, Raycast. | 1.7k | 🟡 Quiet · 2025-10-05 |
+| <img src="https://raw.githubusercontent.com/MatthiasGrandl/Loungy/main/icons/icon_512x512@2x@2x.png" alt="" height="64"> | [Loungy](https://github.com/MatthiasGrandl/Loungy) | App launcher in the vein of Spotlight, Alfred, Raycast. | 1.7k 🔥 | 🟡 Quiet · 2025-10-05 |
 | <img src="https://raw.githubusercontent.com/noh-rs/nohrs/develop/assets/doc/icon.png" alt="" height="64"> | [nohrs](https://github.com/noh-rs/nohrs) | A fast, flexible, and extensible file explorer for macOS, built with Rust and gpui as a modern alternative to Finder. | 134 | 🟢 Active · 2026-07-03 |
 | <img src="https://raw.githubusercontent.com/niklabh/oxide/main/screens/oxide.png" alt="" height="64"> | [Oxide](https://github.com/niklabh/oxide) | A binary-first browser that runs WebAssembly modules instead of HTML/CSS/JS, built with GPUI. | 26 | 🟢 Active · 2026-06-11 |
 | <img src="https://github.com/user-attachments/assets/457064ea-9f84-4099-b20c-8be5f2dfe9d6" alt="" height="64"> | [reminder](https://github.com/LeadcodeDev/remindr) | An open-source and self-hostable alternative to Notion. | 29 | 🟡 Quiet · 2026-01-31 |
@@ -67,7 +69,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | <img src="https://raw.githubusercontent.com/emamoah/bandmeter/main/doc/images/bandmeter-gui.png" alt="" height="64"> | [bandmeter](https://github.com/emamoah/bandmeter) | Per-program network usage monitor for Linux. | 17 | 🟡 Quiet · 2026-03-28 |
 |  | [clp](https://github.com/lostf1sh/clp) | A minimal, GPU-accelerated Wayland clipboard manager with image support and pinned entries. | 8 | 🟡 Quiet · 2026-03-20 |
 | <img src="https://raw.githubusercontent.com/tahayvr/omarchist/main/assets/logo/omarchist.png" alt="" height="64"> | [omarchist](https://github.com/tahayvr/omarchist) | A full Rust rewrite of the Omarchy control center. | 706 | 🟢 Active · 2026-04-22 |
-| <img src="https://assets.openlogi.org/brand/openlogi-icon.png" alt="" height="64"> | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | A native, local-first alternative to Logitech Options+ — remap buttons, DPI, and SmartShift over HID++ with no account or telemetry. | 5.6k | 🟢 Active · 2026-07-05 |
+| <img src="https://assets.openlogi.org/brand/openlogi-icon.png" alt="" height="64"> | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | A native, local-first alternative to Logitech Options+ — remap buttons, DPI, and SmartShift over HID++ with no account or telemetry. | 5.6k 🔥 | 🟢 Active · 2026-07-05 |
 | <img src="https://raw.githubusercontent.com/librekeys/picoforge/main/static/appIcons/in.suyogtandel.picoforge.svg" alt="" height="64"> | [picoforge](https://github.com/librekeys/picoforge) | A commissioning tool for pico-fido firmware based hardware keys. | 279 | 🟢 Active · 2026-07-09 |
 | <img src="https://raw.githubusercontent.com/StudentWeis/ropy/main/assets/logo.png" alt="" height="64"> | [ropy](https://github.com/StudentWeis/ropy) | A cross-platform native clipboard manager in pure Rust. | 158 | 🟢 Active · 2026-07-06 |
 | <img src="https://raw.githubusercontent.com/ssut/WSL2-HyperV-Firewall-Manager/main/assets/icon.png" alt="" height="64"> | [WSL2-HyperV-Firewall-Manager](https://github.com/ssut/WSL2-HyperV-Firewall-Manager) | A WSL2 Hyper-V Firewall Management GUI for mirrored WSL2 networking built with Rust and GPUI. | 19 | 🟡 Quiet · 2026-01-27 |
@@ -87,7 +89,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | <img src="https://raw.githubusercontent.com/Augani/adabraka-ui/main/docs/assets/images/music-player.png" alt="" height="64"> | [adabraka-ui](https://github.com/Augani/adabraka-ui) | UI components for building beautiful desktop applications. | 440 | 🟡 Quiet · 2026-02-19 |
 | <img src="https://raw.githubusercontent.com/DevPlus31/declarative-gpui/main/examples/screenshots/card.png" alt="" height="64"> | [declarative-gpui](https://github.com/DevPlus31/declarative-gpui) | A declarative ui! macro with Tailwind-style tokens, real Rust control flow, and zero runtime overhead. | 2 | 🟢 Active · 2026-07-04 |
 | <img src="https://github.com/user-attachments/assets/99063140-6b80-4a3d-913e-2b14f424cfb7" alt="" height="64"> | [ferrum-flow](https://github.com/tu6ge/ferrum-flow) | A high-performance, extensible node-based editor framework. | 63 | 🟢 Active · 2026-06-07 |
-| <img src="https://github.com/user-attachments/assets/e1ecb9c3-2dd3-431e-bd97-5a819c30e551" alt="" height="64"> | [gpui-component](https://github.com/longbridge/gpui-component) | UI components for building fantastic desktop applications using gpui. | 12k | 🟢 Active · 2026-07-09 |
+| <img src="https://github.com/user-attachments/assets/e1ecb9c3-2dd3-431e-bd97-5a819c30e551" alt="" height="64"> | [gpui-component](https://github.com/longbridge/gpui-component) | UI components for building fantastic desktop applications using gpui. | 12k 🔥 | 🟢 Active · 2026-07-09 |
 |  | [gpui-d3rs](https://github.com/pierreaubert/sotf/tree/master/gpui-d3rs) | a low level plotting library 100% in rust with the familiar [d3js](https://d3js.org/) components. | 48 | 🟡 Quiet · 2026-01-13 |
 | <img src="https://raw.githubusercontent.com/pacifio/gpui-flow/main/media/mindmap.png" alt="" height="64"> | [gpui-flow](https://github.com/pacifio/gpui-flow) | Visual node editor react flow for GPUI. | 22 | 🟡 Quiet · 2026-03-23 |
 |  | [gpui-form](https://github.com/stayhydated/gpui-form) | A struct derive macro for deriving gpui-component... components on fields. | 21 | 🟢 Active · 2026-07-09 |
