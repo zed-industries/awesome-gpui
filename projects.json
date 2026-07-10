@@ -486,7 +486,7 @@
     {
       "name": "guise",
       "category": "Libraries",
-      "url": "https://wess.io/guise",
+      "url": "https://github.com/wess/guise",
       "description": "A nice set of components for gpui."
     },
     {
