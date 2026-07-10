@@ -14,6 +14,8 @@ from urllib.error import HTTPError, URLError
 from urllib.parse import quote, urlencode
 from urllib.request import Request, urlopen
 
+from dotenv import load_dotenv
+
 ROOT = Path(__file__).resolve().parent.parent
 PROJECTS_PATH = ROOT / "projects.json"
 TEMPLATE_PATH = ROOT / "README.template.md"
@@ -28,26 +30,6 @@ APP_CATEGORIES = [
     "Demos & Examples",
 ]
 
-
-def load_dotenv(path: Path) -> None:
-    """Load missing environment variables from a simple .env file."""
-    if not path.exists():
-        return
-
-    for raw_line in path.read_text(encoding="utf-8").splitlines():
-        line = raw_line.strip()
-        if not line or line.startswith("#") or "=" not in line:
-            continue
-        if line.startswith("export "):
-            line = line[7:].lstrip()
-        key, value = line.split("=", 1)
-        key = key.strip()
-        value = value.strip()
-        if not key:
-            continue
-        if len(value) >= 2 and value[0] == value[-1] and value[0] in "\"'":
-            value = value[1:-1]
-        os.environ.setdefault(key, value)
 
 
 def github_get(path: str, token: str | None, params: dict[str, str] | None = None) -> Any:
