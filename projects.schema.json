@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/zed-industries/awesome-gpui/blob/main/schemas/projects.schema.json",
+  "$id": "https://github.com/zed-industries/awesome-gpui/blob/main/projects.schema.json",
   "title": "Awesome GPUI projects",
   "description": "Schema for projects and resources listed by awesome-gpui.",
   "type": "object",

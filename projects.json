@@ -1,5 +1,5 @@
 {
-  "$schema": "./schemas/projects.schema.json",
+  "$schema": "./projects.schema.json",
   "projects": [
     {
       "name": "Arbor",

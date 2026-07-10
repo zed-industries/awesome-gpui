@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - projects.json
+      - projects.schema.json
       - README.template.md
       - scripts/generate_readme.py
       - .github/workflows/update-readme.yml
