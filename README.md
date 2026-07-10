@@ -48,7 +48,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | Image | Project | Description | Stars | Status |
 | --- | --- | --- | ---: | :---: |
 | <img src="https://raw.githubusercontent.com/rubbieKelvin/bmo/master/.screenshots/bmo.png" alt="" height="64"> | [bmo](https://github.com/rubbieKelvin/bmo) | Pomorodo timer written with rust & gpui. | 39 | 🟢 |
-| <img src="https://raw.githubusercontent.com/lumehq/coop/master/docs/coop.png" alt="" height="64"> | [coop](https://github.com/lumehq/coop) | A simple, fast, and reliable nostr client for secure messaging across all platforms. | 197 | 🟡 |
+| <img src="https://raw.githubusercontent.com/lumehq/coop/master/docs/coop.png" alt="" height="64"> | [coop](https://github.com/lumehq/coop) | A simple, fast, and reliable nostr client for secure messaging across all platforms. | 198 | 🟡 |
 | <img src="https://raw.githubusercontent.com/gaauwe/fast-forward/develop/assets/app_icon.png" alt="" height="64"> | [Fast Forward](https://github.com/gaauwe/fast-forward) | A window switcher for macOS. | 375 | 🟡 |
 | <img src="https://raw.githubusercontent.com/duanebester/gpui-todos/main/screengrab.png" alt="" height="64"> | [gpui-todos](https://github.com/duanebester/gpui-todos) | A todo app written in gpui. | 71 | 🟡 |
 | <img src="https://raw.githubusercontent.com/MatthiasGrandl/Loungy/main/icons/icon_512x512@2x@2x.png" alt="" height="64"> | [Loungy](https://github.com/MatthiasGrandl/Loungy) | App launcher in the vein of Spotlight, Alfred, Raycast. | 1.7k 🔥 | 🟡 |
@@ -110,7 +110,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 |  | [gpui-tea](https://github.com/inkwadra/gpui-tea) | Runtime primitives for building Elm-style GPUI applications. | 6 | 🟡 |
 | <img src="https://raw.githubusercontent.com/cijiugechu/gpui-video-player/main/assets/screenshot.png" alt="" height="64"> | [gpui-video-player](https://github.com/cijiugechu/gpui-video-player) | Video player for gpui. | 80 | 🟢 |
 |  | [gpui-whiteboard](https://github.com/packetThrower/zorite/tree/main/crates/gpui-whiteboard) | An infinite, pan-and-zoom whiteboard canvas with shapes, arrows, freehand ink, text, and images, plus a built-in toolbar, templates, and undo/redo. | 4 | 🟢 |
-|  | [guise](https://github.com/wess/guise) | A nice set of components for gpui. | N/A | N/A |
+|  | [guise](https://github.com/wess/guise) | A nice set of components for gpui. | 9 | 🟢 |
 | <img src="https://github.com/user-attachments/assets/58104fbd-35e7-40a1-be8d-ad18945acacb" alt="" height="64"> | [plotters-gpui](https://github.com/JakkuSakura/plotters-gpui) | gpui backend for plotters. | 52 | ⚪ |
 |  | [ratex-gpui](https://github.com/packetThrower/zorite/tree/main/crates/ratex-gpui) | A LaTeX math renderer and a structural, MathQuill-style formula editor for GPUI, built on the RaTeX engine. | 4 | 🟢 |
 

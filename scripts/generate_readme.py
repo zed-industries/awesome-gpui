@@ -12,7 +12,7 @@ from html import escape
 from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError, URLError
-from urllib.parse import quote, urlencode
+from urllib.parse import unquote, urlencode, urlparse
 from urllib.request import Request, urlopen
 
 from dotenv import load_dotenv
@@ -87,16 +87,21 @@ def escape_cell(value: str) -> str:
     return value.replace("\\", "\\\\").replace("|", "\\|").replace("\n", " ")
 
 
-def repository_link(project: dict[str, Any], metadata: dict[str, Any] | None) -> str:
-    if "url" in project:
-        return project["url"]
-    repository = project["repository"]
-    base = str(metadata.get("html_url") or f"https://github.com/{repository}") if metadata else f"https://github.com/{repository}"
-    if project.get("path"):
-        branch = metadata.get("default_branch", "main") if metadata else "main"
-        path = quote(project["path"], safe="/")
-        return f"{base}/tree/{quote(branch, safe='')}/{path}"
-    return base
+def github_target(url: str) -> tuple[str, str | None] | None:
+    parsed = urlparse(url)
+    if parsed.hostname is None or parsed.hostname.lower() not in {"github.com", "www.github.com"}:
+        return None
+
+    parts = [unquote(part) for part in parsed.path.split("/") if part]
+    if len(parts) < 2:
+        return None
+
+    owner, repository_name = parts[0], parts[1].removesuffix(".git")
+    if not owner or not repository_name:
+        return None
+
+    path = "/".join(parts[4:]) if len(parts) >= 5 and parts[2] == "tree" else None
+    return f"{owner}/{repository_name}", path
 
 
 def render_table(projects: list[dict[str, Any]], results: dict[int, dict[str, Any]]) -> str:
@@ -106,7 +111,7 @@ def render_table(projects: list[dict[str, Any]], results: dict[int, dict[str, An
     ]
     for project in projects:
         result = results[id(project)]
-        link = repository_link(project, result.get("metadata"))
+        link = project["url"]
         name = escape_cell(project["name"])
         description = escape_cell(project["description"])
         image = project.get("image")
@@ -156,12 +161,15 @@ def render_catalog(
 
 
 def collect_metadata(projects: list[dict[str, Any]], token: str | None) -> dict[int, dict[str, Any]]:
+    targets = {id(project): github_target(project["url"]) for project in projects}
     repositories: dict[str, dict[str, Any] | None] = {}
     errors: set[str] = set()
 
-    for project in projects:
-        repository = project.get("repository")
-        if not repository or repository in repositories:
+    for target in targets.values():
+        if target is None:
+            continue
+        repository, _ = target
+        if repository in repositories:
             continue
         try:
             repositories[repository] = github_get(f"/repos/{repository}", token)
@@ -171,8 +179,8 @@ def collect_metadata(projects: list[dict[str, Any]], token: str | None) -> dict[
 
     results: dict[int, dict[str, Any]] = {}
     for project in projects:
-        repository = project.get("repository")
-        if repository is None:
+        target = targets[id(project)]
+        if target is None:
             results[id(project)] = {
                 "metadata": None,
                 "stars": "N/A",
@@ -180,6 +188,7 @@ def collect_metadata(projects: list[dict[str, Any]], token: str | None) -> dict[
             }
             continue
 
+        repository, path = target
         metadata = repositories.get(repository)
         if metadata is None:
             results[id(project)] = {
@@ -190,12 +199,12 @@ def collect_metadata(projects: list[dict[str, Any]], token: str | None) -> dict[
             continue
 
         date = parse_date(metadata.get("pushed_at"))
-        if project.get("path"):
+        if path:
             try:
                 commits = github_get(
                     f"/repos/{repository}/commits",
                     token,
-                    {"path": project["path"], "per_page": "1"},
+                    {"path": path, "per_page": "1"},
                 )
                 if commits:
                     commit = commits[0].get("commit", {})
@@ -206,7 +215,7 @@ def collect_metadata(projects: list[dict[str, Any]], token: str | None) -> dict[
                     date = None
             except (HTTPError, URLError, TimeoutError, OSError, ValueError) as error:
                 date = None
-                errors.add(f"{repository}/{project['path']}: {error}")
+                errors.add(f"{repository}/{path}: {error}")
 
         results[id(project)] = {
             "metadata": metadata,

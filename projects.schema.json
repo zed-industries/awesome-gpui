@@ -21,7 +21,7 @@
     "project": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["name", "category", "description"],
+      "required": ["name", "category", "url", "description"],
       "properties": {
         "name": {
           "type": "string",
@@ -51,46 +51,14 @@
           "pattern": "^https://",
           "description": "Optional image displayed alongside the project."
         },
-        "repository": {
-          "type": "string",
-          "pattern": "^[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+$",
-          "description": "GitHub repository in owner/name form."
-        },
-        "path": {
-          "type": "string",
-          "minLength": 1,
-          "description": "Optional path to a project within a monorepo."
-        },
         "url": {
           "type": "string",
           "format": "uri",
           "pattern": "^https://",
-          "description": "Canonical URL for an entry not represented by a GitHub repository."
+          "description": "Canonical project URL. GitHub URLs are used to fetch stars and activity."
         }
       },
-      "oneOf": [
-        {
-          "required": ["repository"],
-          "not": {
-            "required": ["url"]
-          }
-        },
-        {
-          "required": ["url"],
-          "not": {
-            "required": ["repository"]
-          }
-        }
-      ],
       "allOf": [
-        {
-          "if": {
-            "required": ["path"]
-          },
-          "then": {
-            "required": ["repository"]
-          }
-        },
         {
           "if": {
             "properties": {
