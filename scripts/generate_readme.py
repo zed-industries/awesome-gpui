@@ -58,9 +58,9 @@ def activity_status(date: datetime | None, archived: bool = False) -> str:
         return "❓"
 
     days = max(0, (datetime.now(timezone.utc) - date).days)
-    if days <= 90:
+    if days <= 30:
         return "🟢"
-    if days <= 365:
+    if days <= 90:
         return "🟡"
     return "⚪"
 
@@ -141,9 +141,9 @@ def render_catalog(
     sections = [
         "**Key:**\n\n"
         "- 🔥 1,000+ stars\n"
-        "- 🟢 active: latest commit within 90 days\n"
-        "- 🟡 quiet: latest commit 91–365 days ago\n"
-        "- ⚪ dormant: latest commit more than 365 days ago\n"
+        "- 🟢 active: latest commit within 30 days\n"
+        "- 🟡 quiet: latest commit 31–90 days ago\n"
+        "- ⚪ dormant: latest commit more than 90 days ago\n"
         "- 📦 archived\n"
         "- ❓ unavailable"
     ]
