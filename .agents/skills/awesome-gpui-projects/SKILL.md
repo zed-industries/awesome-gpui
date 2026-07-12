@@ -5,7 +5,7 @@ description: Add or update projects in awesome-gpui, including categories, URLs,
 
 # Awesome GPUI Projects
 
-Edit `projects.json`; do not hand-edit `README.md`.
+Edit `projects.json`; never include `README.md` changes in a pull request.
 
 For each project:
 
@@ -25,4 +25,4 @@ uv run scripts/sort_projects.py --check
 uv run scripts/generate_readme.py
 ```
 
-Review the diffs for `projects.json` and `README.md`. Confirm sorting changed only placement, GitHub redirects use canonical URLs, and generated metadata changes are expected. Never commit `.env` or generated Python bytecode.
+Review the generated `README.md` locally, confirm metadata changes are expected, then run `git restore README.md` before committing. The post-merge workflow updates it. Confirm sorting changed only placement and GitHub redirects use canonical URLs. Never commit `.env` or generated Python bytecode.
