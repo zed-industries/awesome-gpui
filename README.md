@@ -111,7 +111,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 |  | [gpui-tea](https://github.com/inkwadra/gpui-tea) | Runtime primitives for building Elm-style GPUI applications. | 7 | ⚪ |
 | <img src="https://raw.githubusercontent.com/cijiugechu/gpui-video-player/main/assets/screenshot.png" alt="" height="64"> | [gpui-video-player](https://github.com/cijiugechu/gpui-video-player) | Video player for gpui. | 80 | 🟢 |
 |  | [gpui-whiteboard](https://github.com/packetThrower/zorite/tree/main/crates/gpui-whiteboard) | An infinite, pan-and-zoom whiteboard canvas with shapes, arrows, freehand ink, text, and images, plus a built-in toolbar, templates, and undo/redo. | 8 | 🟢 |
-|  | [guise](https://github.com/wess/guise) | A nice set of components for gpui. | 10 | 🟢 |
+|  | [guise](https://github.com/wess/guise) | A Mantine-inspired component library with theming, sizing tokens, and a large set of ready-made components. | 10 | 🟢 |
 | <img src="https://github.com/user-attachments/assets/58104fbd-35e7-40a1-be8d-ad18945acacb" alt="" height="64"> | [plotters-gpui](https://github.com/JakkuSakura/plotters-gpui) | gpui backend for plotters. | 52 | ⚪ |
 |  | [ratex-gpui](https://github.com/packetThrower/zorite/tree/main/crates/ratex-gpui) | A LaTeX math renderer and a structural, MathQuill-style formula editor for GPUI, built on the RaTeX engine. | 8 | 🟢 |
 
