@@ -491,7 +491,7 @@
       "name": "guise",
       "category": "Libraries",
       "url": "https://github.com/wess/guise",
-      "description": "A nice set of components for gpui."
+      "description": "A Mantine-inspired component library with theming, sizing tokens, and a large set of ready-made components."
     },
     {
       "name": "plotters-gpui",
