@@ -524,6 +524,7 @@
       "name": "Crepuscularity",
       "category": "Tooling",
       "url": "https://github.com/tschk/crepuscularity",
+      "image": "https://raw.githubusercontent.com/tschk/crepuscularity/master/docs-site/static/favicon.svg",
       "description": "One UI codebase for desktop, web, mobile, terminal, browser extensions, and embedded devices. Write React JSX or our lightweight DSL, get GPUI, Ratatui, SwiftUI, LVGL, and more. Batteries included."
     },
     {
