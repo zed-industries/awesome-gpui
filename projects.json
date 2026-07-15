@@ -65,6 +65,13 @@
       "description": "Helix gpui frontend."
     },
     {
+      "name": "Herdr GUI",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/undivisible/herdr-gui",
+      "description": "A GUI surface for herdr.dev + more. Built with Crepuscularity + GPUI."
+    },
+    {
       "name": "hunk",
       "category": "Apps",
       "subcategory": "Developer Tools",
