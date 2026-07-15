@@ -29,8 +29,9 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | <img src="https://raw.githubusercontent.com/fulgur-app/Fulgur/main/assets/icon_square.webp" alt="" height="64"> | [Fulgur](https://github.com/fulgur-app/Fulgur) | A lightning-fast, multiplatform, fully themed text & code editor with secured file sync between devices. | 33 | 🟢 |
 | <img src="https://raw.githubusercontent.com/Auto-Explore/GitComet/main/assets/gitcomet_logo.svg" alt="" height="64"> | [GitComet](https://github.com/Auto-Explore/GitComet) | GitComet is fastest open source user interface for GIT workflows. | 603 | 🟢 |
 | <img src="https://github.com/polachok/helix-gpui/assets/94035/0d5dbed5-77d9-4da0-88e0-6a0632cb6070" alt="" height="64"> | [helix-gpui](https://github.com/polachok/helix-gpui) | Helix gpui frontend. | 540 | ⚪ |
+|  | [Herdr GUI](https://github.com/undivisible/herdr-gui) | A GUI surface for herdr.dev + more. Built with Crepuscularity + GPUI. | 2 | 🟢 |
 | <img src="https://github.com/user-attachments/assets/7d7284e1-3f2f-4bae-ae6b-bb51eea9e06b" alt="" height="64"> | [hunk](https://github.com/smolcars/hunk) | A cross platform and super fast diff viewer and Codex orchestrator. | 60 | 🟡 |
-| <img src="https://raw.githubusercontent.com/ellie/lgtm/main/screenies/lgtm.jpeg" alt="" height="64"> | [lgtm](https://github.com/ellie/lgtm) | A fast, native code review app built with Rust and GPUI. | 70 | 🟢 |
+| <img src="https://raw.githubusercontent.com/ellie/lgtm/main/screenies/lgtm.jpeg" alt="" height="64"> | [lgtm](https://github.com/ellie/lgtm) | A fast, native code review app built with Rust and GPUI. | 74 | 🟢 |
 | <img src="https://raw.githubusercontent.com/CES-Ltd/Lumi/main/apps/lumi-gpui/docs/media/01-chat.png" alt="" height="64"> | [Lumi](https://github.com/CES-Ltd/Lumi) | A Unified Cowork & Code Agent to control - Cursor, Claude, Crush/ OpenCode , Hermes, Codex | 25 | 🟡 |
 |  | [mobie-studio](https://github.com/bayazidsustami/mobie-studio) | AI-powered desktop application for automated mobile testing, built with Rust and GPUI. | 7 | 🟡 |
 | <img src="https://raw.githubusercontent.com/feigeCode/onetcli/dev/logo.svg" alt="" height="64"> | [onetcli](https://github.com/feigeCode/onetcli) | A GPU-accelerated, cross-platform desktop client for PostgreSQL, MySQL, SQLite, SQL Server, Oracle, ClickHouse, DuckDB, Redis, MongoDB, SSH, SFTP, serial, terminals, and AI in one place. | 519 | 🟢 |
@@ -38,7 +39,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | <img src="https://raw.githubusercontent.com/847850277/postman-gpui/main/image.png" alt="" height="64"> | [postman-gpui](https://github.com/847850277/postman-gpui) | A simple graphical user interface application for making HTTP requests, inspired by Postman. | 50 | ⚪ |
 | <img src="https://rabbitty.app/assets/logo.png" alt="" height="64"> | [Rabbitty](https://rabbitty.app) | A keyboard-driven terminal that runs the AI CLIs you already use, tracking each agent across git worktrees and telling you which one needs you. | N/A | N/A |
 | <img src="https://raw.githubusercontent.com/bajrangCoder/setu/main/assets/demo.png" alt="" height="64"> | [setu](https://github.com/bajrangCoder/setu) | A minimal, native API testing application built with GPUI. | 46 | 🟡 |
-| <img src="https://raw.githubusercontent.com/lassejlv/termy/main/assets/termy-landing.png" alt="" height="64"> | [termy](https://github.com/lassejlv/termy) | A Lightweight & GPU-rendered terminal emulator, written in Rust. | 328 | 🟢 |
+| <img src="https://raw.githubusercontent.com/lassejlv/termy/main/assets/termy-landing.png" alt="" height="64"> | [termy](https://github.com/lassejlv/termy) | A Lightweight & GPU-rendered terminal emulator, written in Rust. | 330 | 🟢 |
 | <img src="https://raw.githubusercontent.com/l0ng-ai/tty7/main/assets/app-icon.svg" alt="" height="64"> | [tty7](https://github.com/l0ng-ai/tty7) | A GPU-rendered, daemon-backed terminal in pure Rust — a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux needed), with an enhanced prompt, tabs, splits, a command palette, and native builds for macOS, Windows, and Linux. | 71 | 🟢 |
 | <img src="https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.png" alt="" height="64"> | [zed](https://github.com/zed-industries/zed) | A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | 87k 🔥 | 🟢 |
 |  | [zedis](https://github.com/vicanso/zedis) | A blazing-fast, native Redis GUI built with Rust and GPUI. | 1.9k 🔥 | 🟢 |
@@ -69,7 +70,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | <img src="https://raw.githubusercontent.com/monocurl/monocurl/main/.github/assets/monocurl-editor.webp" alt="" height="64"> | [Monocurl](https://github.com/monocurl/monocurl) | An environment for programmatically animating images, videos, and slideshows in the Monocurl language. | 294 | 🟢 |
 | <img src="https://raw.githubusercontent.com/popovpsk/pawse/main/.docs/screenshots/icon.png" alt="" height="64"> | [Pawse](https://github.com/popovpsk/pawse) | A cross-platform music player with bit-perfect/exclusive output and a customizable UI. | 4 | 🟢 |
 | <img src="https://raw.githubusercontent.com/ssut/sukusho/main/docs/screenshot.webp" alt="" height="64"> | [sukusho](https://github.com/ssut/sukusho) | A powerful screenshot manager for Windows. | 12 | ⚪ |
-| <img src="https://raw.githubusercontent.com/vleerapp/vleer/main/assets/images/icon.png" alt="" height="64"> | [vleer](https://github.com/vleerapp/vleer) | Music, but without the subscription. Built on top of the OpenMusic API for a new streaming standard. | 198 | 🟢 |
+| <img src="https://raw.githubusercontent.com/vleerapp/vleer/main/assets/images/icon.png" alt="" height="64"> | [vleer](https://github.com/vleerapp/vleer) | Music, but without the subscription. Built on top of the OpenMusic API for a new streaming standard. | 199 | 🟢 |
 
 ### System Utilities
 
@@ -130,4 +131,4 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | Image | Project | Description | Stars | Status |
 | --- | --- | --- | ---: | :---: |
 |  | [Duane Bester - Rust Streams](https://www.youtube.com/playlist?list=PLzIkykhdNahwxfVbxgZR69TQSsJc-6Rqq) | YouTube streams covering gpui app development. | N/A | N/A |
-|  | [gpui-book](https://github.com/MatinAniss/gpui-book) | A book teaching you the concepts you need to create your own gpui application. | 253 | ⚪ |
+|  | [gpui-book](https://github.com/MatinAniss/gpui-book) | A book teaching you the concepts you need to create your own gpui application. | 254 | ⚪ |
