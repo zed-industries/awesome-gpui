@@ -69,7 +69,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "url": "https://github.com/undivisible/herdr-gui",
-      "description": "A GUI surface for herdr.dev + more. Built with Crepuscularity + GPUI."
+      "description": "A GUI surface for [herdr.dev](https://herdr.dev) + more. Built with [Crepuscularity](https://crepuscularity.tsc.hk) + GPUI."
     },
     {
       "name": "hunk",
@@ -532,7 +532,7 @@
       "category": "Tooling",
       "url": "https://github.com/tschk/crepuscularity",
       "image": "https://raw.githubusercontent.com/tschk/crepuscularity/master/docs-site/static/favicon.svg",
-      "description": "One UI codebase for desktop, web, mobile, terminal, browser extensions, and embedded devices. Write React JSX or our lightweight DSL, get GPUI, Ratatui, SwiftUI, LVGL, and more. Batteries included."
+      "description": "One UI codebase for desktop, web, mobile, terminal, browser extensions, and embedded devices. Write React JSX or our lightweight DSL, get GPUI, Ratatui, SwiftUI, LVGL, and more. Batteries included. [Official site](https://crepuscularity.tsc.hk)"
     },
     {
       "name": "Pulsar-Native",
