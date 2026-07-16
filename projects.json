@@ -10,6 +10,13 @@
       "description": "Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs."
     },
     {
+      "name": "arc",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/Muhammad-Owais-Warsi/arc",
+      "description": "Fast and lightweight api client."
+    },
+    {
       "name": "based",
       "category": "Apps",
       "subcategory": "Developer Tools",
