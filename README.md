@@ -21,17 +21,17 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 
 | Image | Project | Description | Stars | Status |
 | --- | --- | --- | ---: | :---: |
-| <img src="https://raw.githubusercontent.com/penso/arbor/main/assets/screenshot.png" alt="" height="64"> | [Arbor](https://github.com/penso/arbor) | Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs. | 785 | 🟡 |
+| <img src="https://raw.githubusercontent.com/penso/arbor/main/assets/screenshot.png" alt="" height="64"> | [Arbor](https://github.com/penso/arbor) | Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs. | 786 | 🟡 |
 |  | [arc](https://github.com/Muhammad-Owais-Warsi/arc) | Fast and lightweight api client. | 0 | 🟢 |
 |  | [based](https://github.com/pavi2410/based) | A native database client built for teams and AI agents — connections and queries live in your repo, git-friendly and version-controlled. | 32 | 🟢 |
 | <img src="https://raw.githubusercontent.com/packetThrower/Baudrun/main/build/appicon.png" alt="" height="64"> | [Baudrun](https://github.com/packetThrower/Baudrun) | A cross-platform serial terminal for network engineers, with saved profiles, multi-window, auto-reconnect, and XMODEM/YMODEM file transfer. | 23 | 🟢 |
-| <img src="https://raw.githubusercontent.com/duxweb/codux/main/docs/images/icon.png" alt="" height="64"> | [Codux](https://github.com/duxweb/codux) | A native AI coding terminal built with Rust and GPUI, spanning desktop, mobile, and headless hosts. | 260 | 🟢 |
+| <img src="https://raw.githubusercontent.com/duxweb/codux/main/docs/images/icon.png" alt="" height="64"> | [Codux](https://github.com/duxweb/codux) | A native AI coding terminal built with Rust and GPUI, spanning desktop, mobile, and headless hosts. | 263 | 🟢 |
 | <img src="https://raw.githubusercontent.com/0xErwin1/dbflux/main/resources/dbflux.png" alt="" height="64"> | [DBFlux](https://github.com/0xErwin1/dbflux) | A keyboard-first, multi-engine database client for SQLite, PostgreSQL, MySQL, MongoDB, Redis, and DynamoDB with integrated MCP governance for AI agents. | 111 | 🟢 |
 | <img src="https://raw.githubusercontent.com/fulgur-app/Fulgur/main/assets/icon_square.webp" alt="" height="64"> | [Fulgur](https://github.com/fulgur-app/Fulgur) | A lightning-fast, multiplatform, fully themed text & code editor with secured file sync between devices. | 33 | 🟢 |
-| <img src="https://raw.githubusercontent.com/Auto-Explore/GitComet/main/assets/gitcomet_logo.svg" alt="" height="64"> | [GitComet](https://github.com/Auto-Explore/GitComet) | GitComet is fastest open source user interface for GIT workflows. | 603 | 🟢 |
+| <img src="https://raw.githubusercontent.com/Auto-Explore/GitComet/main/assets/gitcomet_logo.svg" alt="" height="64"> | [GitComet](https://github.com/Auto-Explore/GitComet) | GitComet is fastest open source user interface for GIT workflows. | 605 | 🟢 |
 | <img src="https://github.com/polachok/helix-gpui/assets/94035/0d5dbed5-77d9-4da0-88e0-6a0632cb6070" alt="" height="64"> | [helix-gpui](https://github.com/polachok/helix-gpui) | Helix gpui frontend. | 540 | ⚪ |
 |  | [Herdr GUI](https://github.com/undivisible/herdr-gui) | A GUI surface for [herdr.dev](https://herdr.dev) + more. Built with [Crepuscularity](https://crepuscularity.tsc.hk) + GPUI. | 3 | 🟢 |
-| <img src="https://github.com/user-attachments/assets/7d7284e1-3f2f-4bae-ae6b-bb51eea9e06b" alt="" height="64"> | [hunk](https://github.com/smolcars/hunk) | A cross platform and super fast diff viewer and Codex orchestrator. | 60 | 🟡 |
+| <img src="https://github.com/user-attachments/assets/7d7284e1-3f2f-4bae-ae6b-bb51eea9e06b" alt="" height="64"> | [hunk](https://github.com/smolcars/hunk) | A cross platform and super fast diff viewer and Codex orchestrator. | 61 | 🟡 |
 | <img src="https://raw.githubusercontent.com/ellie/lgtm/main/screenies/lgtm.jpeg" alt="" height="64"> | [lgtm](https://github.com/ellie/lgtm) | A fast, native code review app built with Rust and GPUI. | 85 | 🟢 |
 | <img src="https://raw.githubusercontent.com/CES-Ltd/Lumi/main/apps/lumi-gpui/docs/media/01-chat.png" alt="" height="64"> | [Lumi](https://github.com/CES-Ltd/Lumi) | A Unified Cowork & Code Agent to control - Cursor, Claude, Crush/ OpenCode , Hermes, Codex | 25 | 🟡 |
 |  | [mobie-studio](https://github.com/bayazidsustami/mobie-studio) | AI-powered desktop application for automated mobile testing, built with Rust and GPUI. | 7 | 🟡 |
@@ -40,12 +40,12 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | <img src="https://raw.githubusercontent.com/847850277/postman-gpui/main/image.png" alt="" height="64"> | [postman-gpui](https://github.com/847850277/postman-gpui) | A simple graphical user interface application for making HTTP requests, inspired by Postman. | 50 | ⚪ |
 | <img src="https://rabbitty.app/assets/logo.png" alt="" height="64"> | [Rabbitty](https://rabbitty.app) | A keyboard-driven terminal that runs the AI CLIs you already use, tracking each agent across git worktrees and telling you which one needs you. | N/A | N/A |
 | <img src="https://raw.githubusercontent.com/bajrangCoder/setu/main/assets/demo.png" alt="" height="64"> | [setu](https://github.com/bajrangCoder/setu) | A minimal, native API testing application built with GPUI. | 46 | 🟡 |
-| <img src="https://raw.githubusercontent.com/lassejlv/termy/main/assets/termy-landing.png" alt="" height="64"> | [termy](https://github.com/lassejlv/termy) | A Lightweight & GPU-rendered terminal emulator, written in Rust. | 332 | 🟢 |
-| <img src="https://raw.githubusercontent.com/l0ng-ai/tty7/main/assets/app-icon.svg" alt="" height="64"> | [tty7](https://github.com/l0ng-ai/tty7) | A GPU-rendered, daemon-backed terminal in pure Rust — a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux needed), with an enhanced prompt, tabs, splits, a command palette, and native builds for macOS, Windows, and Linux. | 73 | 🟢 |
+| <img src="https://raw.githubusercontent.com/lassejlv/termy/main/assets/termy-landing.png" alt="" height="64"> | [termy](https://github.com/lassejlv/termy) | A Lightweight & GPU-rendered terminal emulator, written in Rust. | 333 | 🟢 |
+| <img src="https://raw.githubusercontent.com/l0ng-ai/tty7/main/assets/app-icon.svg" alt="" height="64"> | [tty7](https://github.com/l0ng-ai/tty7) | A GPU-rendered, daemon-backed terminal in pure Rust — a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux needed), with an enhanced prompt, tabs, splits, a command palette, and native builds for macOS, Windows, and Linux. | 74 | 🟢 |
 | <img src="https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.png" alt="" height="64"> | [zed](https://github.com/zed-industries/zed) | A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | 87.1k 🔥 | 🟢 |
 |  | [zedis](https://github.com/vicanso/zedis) | A blazing-fast, native Redis GUI built with Rust and GPUI. | 1.9k 🔥 | 🟢 |
 |  | [zlyph](https://github.com/douglance/zlyph) | A minimal text editor built with GPUI. | 13 | ⚪ |
-| <img src="https://raw.githubusercontent.com/samurmaykrr/zqlz/main/ss.png" alt="" height="64"> | [zqlz](https://github.com/samurmaykrr/zqlz) | A database IDE built with Rust and GPUI, supporting SQLite, PostgreSQL, MySQL, and Redis. | 180 | 🟡 |
+| <img src="https://raw.githubusercontent.com/samurmaykrr/zqlz/main/ss.png" alt="" height="64"> | [zqlz](https://github.com/samurmaykrr/zqlz) | A database IDE built with Rust and GPUI, supporting SQLite, PostgreSQL, MySQL, and Redis. | 181 | 🟡 |
 
 ### Productivity
 
@@ -56,7 +56,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | <img src="https://raw.githubusercontent.com/gaauwe/fast-forward/develop/assets/app_icon.png" alt="" height="64"> | [Fast Forward](https://github.com/gaauwe/fast-forward) | A window switcher for macOS. | 376 | ⚪ |
 | <img src="https://raw.githubusercontent.com/duanebester/gpui-todos/main/screengrab.png" alt="" height="64"> | [gpui-todos](https://github.com/duanebester/gpui-todos) | A todo app written in gpui. | 71 | ⚪ |
 | <img src="https://raw.githubusercontent.com/MatthiasGrandl/Loungy/main/icons/icon_512x512@2x@2x.png" alt="" height="64"> | [Loungy](https://github.com/MatthiasGrandl/Loungy) | App launcher in the vein of Spotlight, Alfred, Raycast. | 1.7k 🔥 | ⚪ |
-| <img src="https://raw.githubusercontent.com/noh-rs/nohrs/develop/assets/doc/icon.png" alt="" height="64"> | [nohrs](https://github.com/noh-rs/nohrs) | A fast, flexible, and extensible file explorer for macOS, built with Rust and gpui as a modern alternative to Finder. | 137 | 🟢 |
+| <img src="https://raw.githubusercontent.com/noh-rs/nohrs/develop/assets/doc/icon.png" alt="" height="64"> | [nohrs](https://github.com/noh-rs/nohrs) | A fast, flexible, and extensible file explorer for macOS, built with Rust and gpui as a modern alternative to Finder. | 138 | 🟢 |
 | <img src="https://raw.githubusercontent.com/niklabh/oxide/main/screens/oxide.png" alt="" height="64"> | [Oxide](https://github.com/niklabh/oxide) | A binary-first browser that runs WebAssembly modules instead of HTML/CSS/JS, built with GPUI. | 26 | 🟡 |
 | <img src="https://github.com/user-attachments/assets/457064ea-9f84-4099-b20c-8be5f2dfe9d6" alt="" height="64"> | [reminder](https://github.com/LeadcodeDev/remindr) | An open-source and self-hostable alternative to Notion. | 28 | ⚪ |
 | <img src="https://raw.githubusercontent.com/wzzc-dev/vellum/master/docs/vellum-screenshot.png" alt="" height="64"> | [Vellum](https://github.com/wzzc-dev/vellum) | A WYSIWYG desktop Markdown editor built with Rust and GPUI. | 12 | 🟡 |
@@ -80,7 +80,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | <img src="https://raw.githubusercontent.com/emamoah/bandmeter/main/doc/images/bandmeter-gui.png" alt="" height="64"> | [bandmeter](https://github.com/emamoah/bandmeter) | Per-program network usage monitor for Linux. | 18 | ⚪ |
 |  | [clp](https://github.com/lostf1sh/clp) | A minimal, GPU-accelerated Wayland clipboard manager with image support and pinned entries. | 9 | ⚪ |
 | <img src="https://raw.githubusercontent.com/tahayvr/omarchist/main/assets/logo/omarchist.png" alt="" height="64"> | [omarchist](https://github.com/tahayvr/omarchist) | A full Rust rewrite of the Omarchy control center. | 708 | 🟡 |
-| <img src="https://assets.openlogi.org/brand/openlogi-icon.png" alt="" height="64"> | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | A native, local-first alternative to Logitech Options+ — remap buttons, DPI, and SmartShift over HID++ with no account or telemetry. | 6.8k 🔥 | 🟢 |
+| <img src="https://assets.openlogi.org/brand/openlogi-icon.png" alt="" height="64"> | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | A native, local-first alternative to Logitech Options+ — remap buttons, DPI, and SmartShift over HID++ with no account or telemetry. | 6.9k 🔥 | 🟢 |
 | <img src="https://raw.githubusercontent.com/librekeys/picoforge/main/static/appIcons/in.suyogtandel.picoforge.svg" alt="" height="64"> | [picoforge](https://github.com/librekeys/picoforge) | A commissioning tool for pico-fido firmware based hardware keys. | 289 | 🟢 |
 | <img src="https://raw.githubusercontent.com/StudentWeis/ropy/main/assets/logo.png" alt="" height="64"> | [ropy](https://github.com/StudentWeis/ropy) | A cross-platform native clipboard manager in pure Rust. | 159 | 🟢 |
 | <img src="https://raw.githubusercontent.com/ssut/WSL2-HyperV-Firewall-Manager/main/assets/icon.png" alt="" height="64"> | [WSL2-HyperV-Firewall-Manager](https://github.com/ssut/WSL2-HyperV-Firewall-Manager) | A WSL2 Hyper-V Firewall Management GUI for mirrored WSL2 networking built with Rust and GPUI. | 20 | ⚪ |
@@ -97,7 +97,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 
 | Image | Project | Description | Stars | Status |
 | --- | --- | --- | ---: | :---: |
-| <img src="https://raw.githubusercontent.com/Augani/adabraka-ui/main/docs/assets/images/music-player.png" alt="" height="64"> | [adabraka-ui](https://github.com/Augani/adabraka-ui) | UI components for building beautiful desktop applications. | 442 | ⚪ |
+| <img src="https://raw.githubusercontent.com/Augani/adabraka-ui/main/docs/assets/images/music-player.png" alt="" height="64"> | [adabraka-ui](https://github.com/Augani/adabraka-ui) | UI components for building beautiful desktop applications. | 443 | ⚪ |
 | <img src="https://raw.githubusercontent.com/DevPlus31/declarative-gpui/main/examples/screenshots/card.png" alt="" height="64"> | [declarative-gpui](https://github.com/DevPlus31/declarative-gpui) | A declarative ui! macro with Tailwind-style tokens, real Rust control flow, and zero runtime overhead. | 6 | 🟢 |
 | <img src="https://github.com/user-attachments/assets/99063140-6b80-4a3d-913e-2b14f424cfb7" alt="" height="64"> | [ferrum-flow](https://github.com/tu6ge/ferrum-flow) | A high-performance, extensible node-based editor framework. | 65 | 🟡 |
 | <img src="https://github.com/user-attachments/assets/e1ecb9c3-2dd3-431e-bd97-5a819c30e551" alt="" height="64"> | [gpui-component](https://github.com/longbridge/gpui-component) | UI components for building fantastic desktop applications using gpui. | 12.1k 🔥 | 🟢 |
@@ -122,7 +122,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 
 | Image | Project | Description | Stars | Status |
 | --- | --- | --- | ---: | :---: |
-|  | [create-gpui-app](https://github.com/zed-industries/create-gpui-app) | Create a new gpui app in a single command. | 374 | ⚪ |
+|  | [create-gpui-app](https://github.com/zed-industries/create-gpui-app) | Create a new gpui app in a single command. | 373 | ⚪ |
 | <img src="https://raw.githubusercontent.com/tschk/crepuscularity/master/docs-site/static/favicon.svg" alt="" height="64"> | [Crepuscularity](https://github.com/tschk/crepuscularity) | One UI codebase for desktop, web, mobile, terminal, browser extensions, and embedded devices. Write React JSX or our lightweight DSL, get GPUI, Ratatui, SwiftUI, LVGL, and more. Batteries included. [Official site](https://crepuscularity.tsc.hk). | 25 | 🟢 |
 | <img src="https://github.com/user-attachments/assets/e36bfc3b-f5e8-437e-a50a-967ee254a0eb" alt="" height="64"> | [Pulsar-Native](https://github.com/Far-Beyond-Pulsar/Pulsar-Native) | The next-generation game engine that you deserve implemented in rust on top of GPUI. | 357 | 🟢 |
 |  | [React Native GPUI](https://github.com/nucleus-os/nucleus) | An out-of-tree platform for React Native desktop applications, implementing RN Fabric architecture with Rust and GPUI. | 51 | 🟢 |
