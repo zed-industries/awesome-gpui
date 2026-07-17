@@ -280,7 +280,7 @@
       "category": "Apps",
       "subcategory": "Media",
       "url": "https://github.com/futureboard/Futureboard",
-      "image": "https://raw.githubusercontent.com/futureboard/Futureboard/main/packages/assets/banner.png",
+      "image": "https://raw.githubusercontent.com/futureboard/futureboard/main/packages/shared/app/icons/app.png",
       "description": "An open-source digital audio workstation with Native GPUI, React WebUI, Rust DSP, and native plugin hosting."
     },
     {
