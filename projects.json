@@ -212,6 +212,14 @@
       "description": "A simple, fast, and reliable nostr client for secure messaging across all platforms."
     },
     {
+      "name": "dicto",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/logi-camp/dicto",
+      "description": "Fast offline desktop dictionary built with GPUI. Reads MDX/MDD dictionary files, the same format used by GoldenDict and MDict.",
+      "image": "https://raw.githubusercontent.com/logi-camp/dicto/main/assets/icon.svg"
+    },
+    {
       "name": "Fast Forward",
       "category": "Apps",
       "subcategory": "Productivity",
