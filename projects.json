@@ -409,6 +409,13 @@
       "description": "UI components for building beautiful desktop applications."
     },
     {
+      "name": "Base GPUI",
+      "category": "Libraries",
+      "url": "https://github.com/LukeTandjung/base-gpui",
+      "image": "https://raw.githubusercontent.com/LukeTandjung/base-gpui/main/assets/logo.png",
+      "description": "A GPUI-native port of Base UI's rich, headless component APIs."
+    },
+    {
       "name": "declarative-gpui",
       "category": "Libraries",
       "url": "https://github.com/DevPlus31/declarative-gpui",
