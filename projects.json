@@ -308,6 +308,14 @@
       "description": "A cross-platform music player with bit-perfect/exclusive output and a customizable UI."
     },
     {
+      "name": "rox",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://github.com/zealsprince/rox",
+      "image": "https://raw.githubusercontent.com/zealsprince/rox/main/crates/rox/assets/app/rox.png",
+      "description": "A Foobar2000-style music player for large local libraries: composable panels, shareable themes, and tagging that holds up at tens of thousands of tracks."
+    },
+    {
       "name": "sukusho",
       "category": "Apps",
       "subcategory": "Media",
