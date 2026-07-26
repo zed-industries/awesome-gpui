@@ -292,6 +292,14 @@
       "description": "Modern music player written in Rust using gpui with a focus on design and performance."
     },
     {
+      "name": "Lumia",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://github.com/iFence/Lumia",
+      "image": "https://raw.githubusercontent.com/iFence/Lumia/master/crates/lumia-app/resources/icon.png",
+      "description": "A small, polished, high-performance, cross-platform image viewer built with Rust, GPUI, and gpui-component."
+    },
+    {
       "name": "Monocurl",
       "category": "Apps",
       "subcategory": "Media",
