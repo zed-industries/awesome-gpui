@@ -142,6 +142,14 @@
       "description": "A keyboard-driven terminal that runs the AI CLIs you already use, tracking each agent across git worktrees and telling you which one needs you."
     },
     {
+      "name": "RED",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/vojir-mikulas/red",
+      "image": "https://raw.githubusercontent.com/vojir-mikulas/red/main/assets/red.svg",
+      "description": "A fast, native database explorer, featuring an AI assistant that understands your schema, drafts queries for approval, and turns results into charts."
+    },
+    {
       "name": "setu",
       "category": "Apps",
       "subcategory": "Developer Tools",
