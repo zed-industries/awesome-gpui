@@ -64,6 +64,14 @@
       "description": "GitComet is fastest open source user interface for GIT workflows."
     },
     {
+      "name": "Hadron",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/s0lda/hadron",
+      "image": "https://raw.githubusercontent.com/s0lda/hadron/main/assets/hadron_app_icon.png",
+      "description": "Run a swarm of AI coding agents side by side — each in its own git worktree, with a shared event bus, live token telemetry, and an automatic merge gate."
+    },
+    {
       "name": "helix-gpui",
       "category": "Apps",
       "subcategory": "Developer Tools",
