@@ -324,6 +324,13 @@
       "description": "An environment for programmatically animating images, videos, and slideshows in the Monocurl language."
     },
     {
+      "name": "opencut",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://github.com/waterblower/opencut",
+      "description": "An open source video editor built with Rust and GPUI, with a GStreamer-backed player and timeline editor."
+    },
+    {
       "name": "Pawse",
       "category": "Apps",
       "subcategory": "Media",
