@@ -284,6 +284,14 @@
       "description": "A WYSIWYG desktop Markdown editor built with Rust and GPUI."
     },
     {
+      "name": "zex",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/shdwmtr/zex",
+      "image": "https://raw.githubusercontent.com/shdwmtr/zex/main/assets/icon.png",
+      "description": "An extremely fast file explorer and disk usage analyzer companion for Linux, built for the Zed ecosystem. Config, themes, icons inherited from Zed OOTB."
+    },
+    {
       "name": "Zorite",
       "category": "Apps",
       "subcategory": "Productivity",
