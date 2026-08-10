@@ -126,6 +126,14 @@
       "description": "A GPU-accelerated, cross-platform desktop client for PostgreSQL, MySQL, SQLite, SQL Server, Oracle, ClickHouse, DuckDB, Redis, MongoDB, SSH, SFTP, serial, terminals, and AI in one place."
     },
     {
+      "name": "OpenMango",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/ggagosh/openmango",
+      "image": "https://raw.githubusercontent.com/ggagosh/openmango/main/assets/logo/openmango.iconset/icon_256x256.png",
+      "description": "A native, GPU-accelerated MongoDB workbench for macOS, built with Rust and GPUI."
+    },
+    {
       "name": "pgui",
       "category": "Apps",
       "subcategory": "Developer Tools",
