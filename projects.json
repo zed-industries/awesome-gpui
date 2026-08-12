@@ -153,7 +153,7 @@
       "name": "Rabbitty",
       "category": "Apps",
       "subcategory": "Developer Tools",
-      "url": "https://rabbitty.app",
+      "url": "https://github.com/mauscoelho/rabbitty-app",
       "image": "https://rabbitty.app/assets/logo.png",
       "description": "A keyboard-driven terminal that runs the AI CLIs you already use, tracking each agent across git worktrees and telling you which one needs you."
     },
