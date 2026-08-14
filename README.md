@@ -48,6 +48,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 |  | [Waku](https://github.com/egoist/waku) | A fast, native desktop app for working with local coding agents. | 769 | 🟢 |
 | <img src="https://raw.githubusercontent.com/zed-industries/zed/main/crates/zed/resources/app-icon.png" alt="" height="64"> | [zed](https://github.com/zed-industries/zed) | A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | 88.6k 🔥 | 🟢 |
 |  | [zedis](https://github.com/vicanso/zedis) | A blazing-fast, native Redis GUI built with Rust and GPUI. | 2k 🔥 | 🟢 |
+| <img src="https://raw.githubusercontent.com/zeronsh/comet/main/dist/macos/icon-1024.png" alt="" height="64"> | [Zeron](https://github.com/zeronsh/comet) | A native app that controls coding agents, for example Claude Code, Codex, and Cursor. It keeps all sessions on your device. If you connect more devices, you can start an agent on one device and control it from a different device. | 364 | 🟢 |
 |  | [zlyph](https://github.com/douglance/zlyph) | A minimal text editor built with GPUI. | 13 | ⚪ |
 | <img src="https://raw.githubusercontent.com/samurmaykrr/zqlz/main/ss.png" alt="" height="64"> | [zqlz](https://github.com/samurmaykrr/zqlz) | A database IDE built with Rust and GPUI, supporting SQLite, PostgreSQL, MySQL, and Redis. | 183 | 🟢 |
 
