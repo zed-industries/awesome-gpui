@@ -190,6 +190,13 @@
       "description": "A GPU-rendered, daemon-backed terminal in pure Rust — a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux needed), with an enhanced prompt, tabs, splits, a command palette, and native builds for macOS, Windows, and Linux."
     },
     {
+      "name": "Waku",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/egoist/waku",
+      "description": "A fast, native desktop app for working with local coding agents."
+    },
+    {
       "name": "zed",
       "category": "Apps",
       "subcategory": "Developer Tools",
