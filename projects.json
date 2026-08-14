@@ -212,6 +212,14 @@
       "description": "A blazing-fast, native Redis GUI built with Rust and GPUI."
     },
     {
+      "name": "Zeron",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/zeronsh/comet",
+      "image": "https://raw.githubusercontent.com/zeronsh/comet/main/dist/macos/icon-1024.png",
+      "description": "A native app that controls coding agents, for example Claude Code, Codex, and Cursor. It keeps all sessions on your device. If you connect more devices, you can start an agent on one device and control it from a different device."
+    },
+    {
       "name": "zlyph",
       "category": "Apps",
       "subcategory": "Developer Tools",
