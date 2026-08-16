@@ -95,6 +95,13 @@
       "description": "A cross platform and super fast diff viewer and Codex orchestrator."
     },
     {
+      "name": "JayJay",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/hewigovens/jayjay",
+      "description": "A native, keyboard-driven GUI for Jujutsu with DAG navigation, side-by-side diffs, conflict resolution, and a GPUI shell targeting Linux."
+    },
+    {
       "name": "lgtm",
       "category": "Apps",
       "subcategory": "Developer Tools",
