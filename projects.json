@@ -621,6 +621,12 @@
       "description": "A LaTeX math renderer and a structural, MathQuill-style formula editor for GPUI, built on the RaTeX engine."
     },
     {
+      "name": "rhythm-gpui",
+      "category": "Libraries",
+      "url": "https://github.com/P233/rhythm-gpui",
+      "description": "Print-inspired vertical rhythm for GPUI, with baseline offsets computed from real font metrics."
+    },
+    {
       "name": "create-gpui-app",
       "category": "Tooling",
       "url": "https://github.com/zed-industries/create-gpui-app",
