@@ -129,6 +129,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 |  | [guise](https://github.com/wess/guise) | A Mantine-inspired component library with theming, sizing tokens, and a large set of ready-made components. | 98 | 🟢 |
 | <img src="https://github.com/user-attachments/assets/58104fbd-35e7-40a1-be8d-ad18945acacb" alt="" height="64"> | [plotters-gpui](https://github.com/JakkuSakura/plotters-gpui) | gpui backend for plotters. | 52 | ⚪ |
 |  | [ratex-gpui](https://github.com/packetThrower/zorite/tree/main/crates/ratex-gpui) | A LaTeX math renderer and a structural, MathQuill-style formula editor for GPUI, built on the RaTeX engine. | 30 | 🟡 |
+|  | [rhythm-gpui](https://github.com/P233/rhythm-gpui) | Print-inspired vertical rhythm for GPUI, with baseline offsets computed from real font metrics. | 6 | 🟢 |
 
 ## Tooling
 
