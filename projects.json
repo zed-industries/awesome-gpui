@@ -290,6 +290,14 @@
       "description": "App launcher in the vein of Spotlight, Alfred, Raycast."
     },
     {
+      "name": "Moeka",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://moeka.app/",
+      "image": "https://github.com/MoekaProject/community/blob/main/icon.png?raw=true",
+      "description": "A high-performance, all-in-one WYSIWYG Markdown editing engine with workspaces, live diff and integrated Agent terminal."
+    },
+    {
       "name": "nohrs",
       "category": "Apps",
       "subcategory": "Productivity",
