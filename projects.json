@@ -48,6 +48,14 @@
       "description": "A keyboard-first, multi-engine database client for SQLite, PostgreSQL, MySQL, MongoDB, Redis, and DynamoDB with integrated MCP governance for AI agents."
     },
     {
+      "name": "dbui",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/JosueRhea/dbui",
+      "image": "https://raw.githubusercontent.com/JosueRhea/dbui/main/packaging/icon-master.png",
+      "description": "A TablePlus-shaped database editor for PostgreSQL, MySQL, and SQLite — browse the schema tree, page through rows, and run queries."
+    },
+    {
       "name": "Fulgur",
       "category": "Apps",
       "subcategory": "Developer Tools",
