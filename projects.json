@@ -149,6 +149,14 @@
       "description": "A native, GPU-accelerated MongoDB workbench for macOS, built with Rust and GPUI."
     },
     {
+      "name": "OxiMux",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/nhtera/OxiMux",
+      "image": "https://raw.githubusercontent.com/nhtera/OxiMux/main/apps/landing/public/apple-touch-icon.png",
+      "description": "A multi-agent development cockpit for macOS. Open a repo, spawn isolated Git worktrees, run CLI coding agents such as Claude Code, Codex, and Aider side by side, and review every change through a built-in Git UI."
+    },
+    {
       "name": "pgui",
       "category": "Apps",
       "subcategory": "Developer Tools",
