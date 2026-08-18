@@ -40,6 +40,13 @@
       "description": "A native AI coding terminal built with Rust and GPUI, spanning desktop, mobile, and headless hosts."
     },
     {
+      "name": "Conduish",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://conduish.com",
+      "description": "A native SSH client built with Rust and GPUI, with saved hosts, key management, shell autocomplete, and zero-knowledge cross-device sync."
+    },
+    {
       "name": "DBFlux",
       "category": "Apps",
       "subcategory": "Developer Tools",
