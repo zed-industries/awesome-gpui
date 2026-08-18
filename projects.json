@@ -330,6 +330,14 @@
       "description": "An open-source and self-hostable alternative to Notion."
     },
     {
+      "name": "Scratchpad",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/the-inconvenience-store/scratchpad",
+      "image": "https://raw.githubusercontent.com/the-inconvenience-store/scratchpad/main/resources/icons/icon.png",
+      "description": "A keyboard-first, multi-document scratchpad for Rust code and text blocks on macOS, built with GPUI, GPUI Component, and SQLite."
+    },
+    {
       "name": "Vellum",
       "category": "Apps",
       "subcategory": "Productivity",
