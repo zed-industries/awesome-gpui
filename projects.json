@@ -488,6 +488,13 @@
       "description": "A cross-platform native clipboard manager in pure Rust."
     },
     {
+      "name": "rustat",
+      "category": "Apps",
+      "subcategory": "System Utilities",
+      "url": "https://github.com/salman0ansari/rustat",
+      "description": "A fast native Linux system monitor with live CPU, memory, network, disk, GPU, sensors, and process management."
+    },
+    {
       "name": "WSL2-HyperV-Firewall-Manager",
       "category": "Apps",
       "subcategory": "System Utilities",
