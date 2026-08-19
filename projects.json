@@ -370,6 +370,14 @@
       "description": "A Markdown daily journal with WYSIWYG and raw-Markdown editing — wiki-linked pages, embedded PDFs, Mermaid diagrams, whiteboards, and LaTeX math, on macOS, Windows, and Linux."
     },
     {
+      "name": "Cadence",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://github.com/infomiho/cadence",
+      "image": "https://raw.githubusercontent.com/infomiho/cadence/main/assets/AppIcon.svg",
+      "description": "A minimal native Spotify player for macOS built with Rust and GPUI, using librespot and rspotify."
+    },
+    {
       "name": "Futureboard Studio",
       "category": "Apps",
       "subcategory": "Media",
