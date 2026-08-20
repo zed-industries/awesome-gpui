@@ -78,6 +78,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 
 | Image | Project | Description | Stars | Status |
 | --- | --- | --- | ---: | :---: |
+| <img src="https://raw.githubusercontent.com/infomiho/cadence/main/assets/AppIcon.svg" alt="" height="64"> | [Cadence](https://github.com/infomiho/cadence) | A minimal native Spotify player for macOS built with Rust and GPUI, using librespot and rspotify. | 5 | 🟢 |
 | <img src="https://raw.githubusercontent.com/futureboard/futureboard/main/packages/shared/app/icons/app.png" alt="" height="64"> | [Futureboard Studio](https://github.com/futureboard/Futureboard) | An open-source digital audio workstation with Native GPUI, React WebUI, Rust DSP, and native plugin hosting. | 65 | 🟢 |
 | <img src="https://raw.githubusercontent.com/hummingbird-player/hummingbird/master/docs/screenshot.png" alt="" height="64"> | [hummingbird](https://github.com/hummingbird-player/hummingbird) | Modern music player written in Rust using gpui with a focus on design and performance. | 591 | 🟢 |
 | <img src="https://raw.githubusercontent.com/iFence/Lumia/master/crates/lumia-app/resources/icon.png" alt="" height="64"> | [Lumia](https://github.com/iFence/Lumia) | A small, polished, high-performance, cross-platform image viewer built with Rust, GPUI, and gpui-component. | 10 | 🟢 |
