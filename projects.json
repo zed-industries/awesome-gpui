@@ -44,7 +44,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "url": "https://github.com/0xErwin1/dbflux",
-      "image": "https://raw.githubusercontent.com/0xErwin1/dbflux/main/resources/dbflux.png",
+      "image": "https://raw.githubusercontent.com/0xErwin1/dbflux/main/resources/icon.png",
       "description": "A keyboard-first, multi-engine database client for SQLite, PostgreSQL, MySQL, MongoDB, Redis, and DynamoDB with integrated MCP governance for AI agents."
     },
     {
