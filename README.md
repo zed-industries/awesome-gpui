@@ -95,9 +95,10 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | <img src="https://raw.githubusercontent.com/emamoah/bandmeter/main/doc/images/bandmeter-gui.png" alt="" height="64"> | [bandmeter](https://github.com/emamoah/bandmeter) | Per-program network usage monitor for Linux. | 18 | ⚪ |
 |  | [clp](https://github.com/lostf1sh/clp) | A minimal, GPU-accelerated Wayland clipboard manager with image support and pinned entries. | 9 | ⚪ |
 | <img src="https://raw.githubusercontent.com/tahayvr/omarchist/main/assets/logo/omarchist.png" alt="" height="64"> | [omarchist](https://github.com/tahayvr/omarchist) | A full Rust rewrite of the Omarchy control center. | 710 | ⚪ |
-| <img src="https://assets.openlogi.org/brand/openlogi-icon.png" alt="" height="64"> | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | A native, local-first alternative to Logitech Options+ — remap buttons, DPI, and SmartShift over HID++ with no account or telemetry. | 11.5k 🔥 | 🟢 |
+| <img src="https://assets.openlogi.org/brand/openlogi-icon.png" alt="" height="64"> | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | A native, local-first alternative to Logitech Options+ — remap buttons, DPI, and SmartShift over HID++ with no account or telemetry. | 11.6k 🔥 | 🟢 |
 | <img src="https://raw.githubusercontent.com/librekeys/picoforge/main/static/appIcons/in.suyogtandel.picoforge.svg" alt="" height="64"> | [picoforge](https://github.com/librekeys/picoforge) | A commissioning tool for pico-fido firmware based hardware keys. | 333 | 🟢 |
 | <img src="https://raw.githubusercontent.com/StudentWeis/ropy/main/assets/logo.png" alt="" height="64"> | [ropy](https://github.com/StudentWeis/ropy) | A cross-platform native clipboard manager in pure Rust. | 166 | 🟢 |
+|  | [rustat](https://github.com/salman0ansari/rustat) | A fast native Linux system monitor with live CPU, memory, network, disk, GPU, sensors, and process management. | 0 | 🟢 |
 | <img src="https://raw.githubusercontent.com/ssut/WSL2-HyperV-Firewall-Manager/main/assets/icon.png" alt="" height="64"> | [WSL2-HyperV-Firewall-Manager](https://github.com/ssut/WSL2-HyperV-Firewall-Manager) | A WSL2 Hyper-V Firewall Management GUI for mirrored WSL2 networking built with Rust and GPUI. | 24 | ⚪ |
 
 ### Demos & Examples
