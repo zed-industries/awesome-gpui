@@ -552,6 +552,13 @@
       "description": "A GPUI-native port of Base UI's rich, headless component APIs."
     },
     {
+      "name": "Bezel",
+      "category": "Libraries",
+      "url": "https://github.com/crabtalk/bezel",
+      "image": "https://github.com/user-attachments/assets/64ba944e-73db-479d-b137-0ba78c886575",
+      "description": "A SwiftUI-lean GPUI component library, style flows through the environment, never through parameters."
+    },
+    {
       "name": "declarative-gpui",
       "category": "Libraries",
       "url": "https://github.com/DevPlus31/declarative-gpui",
