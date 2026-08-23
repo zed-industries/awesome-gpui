@@ -207,6 +207,14 @@
       "description": "A Lightweight & GPU-rendered terminal emulator, written in Rust."
     },
     {
+      "name": "TokenMonitor",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/iFence/TokenMonitor",
+      "image": "https://raw.githubusercontent.com/iFence/TokenMonitor/main/resources/tokenmonitor.png",
+      "description": "A native Windows desktop app for tracking token usage across AI coding tools (Claude Code, Codex, and more), built with Rust and GPUI."
+    },
+    {
       "name": "tty7",
       "category": "Apps",
       "subcategory": "Developer Tools",
