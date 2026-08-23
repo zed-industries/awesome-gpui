@@ -358,6 +358,14 @@
       "description": "A keyboard-first, multi-document scratchpad for Rust code and text blocks on macOS, built with GPUI, GPUI Component, and SQLite."
     },
     {
+      "name": "Steward",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/iFence/steward",
+      "image": "https://raw.githubusercontent.com/iFence/steward/master/assets/steward.png",
+      "description": "A small, polished launcher and plugin platform for Windows, built with Rust, GPUI, and gpui-component."
+    },
+    {
       "name": "Vellum",
       "category": "Apps",
       "subcategory": "Productivity",
