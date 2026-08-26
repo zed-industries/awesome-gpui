@@ -65,6 +65,14 @@
       "description": "A lightning-fast, multiplatform, fully themed text & code editor with secured file sync between devices."
     },
     {
+      "name": "GetCat",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/finch-xu/GetCat",
+      "image": "https://raw.githubusercontent.com/finch-xu/GetCat/main/crates/getcat-app/assets/logo/getcat.png",
+      "description": "No Postman, Just GetCat! A native, cross-platform HTTP API client built with Rust and GPUI — send requests, browse huge responses smoothly, import cURL commands, and generate code snippets."
+    },
+    {
       "name": "GitComet",
       "category": "Apps",
       "subcategory": "Developer Tools",
