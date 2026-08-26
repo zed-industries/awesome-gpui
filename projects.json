@@ -96,6 +96,14 @@
       "description": "A GUI surface for [herdr.dev](https://herdr.dev) + more. Built with [Crepuscularity](https://crepuscularity.tsc.hk) + GPUI."
     },
     {
+      "name": "hi5",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/jondot/hi5",
+      "image": "https://raw.githubusercontent.com/jondot/hi5/main/docs/screenshots/inbox.png",
+      "description": "A macOS menu-bar app for approving pull requests with zero friction, built with Rust and GPUI."
+    },
+    {
       "name": "hunk",
       "category": "Apps",
       "subcategory": "Developer Tools",
@@ -268,14 +276,6 @@
       "url": "https://github.com/samurmaykrr/zqlz",
       "image": "https://raw.githubusercontent.com/samurmaykrr/zqlz/main/crates/zqlz-app/resources/app-icon.png",
       "description": "A database IDE built with Rust and GPUI, supporting SQLite, PostgreSQL, MySQL, and Redis."
-    },
-    {
-      "name": "hi5",
-      "category": "Apps",
-      "subcategory": "Developer Tools",
-      "url": "https://github.com/jondot/hi5",
-      "image": "https://raw.githubusercontent.com/jondot/hi5/main/docs/screenshots/inbox.png",
-      "description": "A macOS menu-bar app for approving pull requests with zero friction, built with Rust and GPUI."
     },
     {
       "name": "bmo",
