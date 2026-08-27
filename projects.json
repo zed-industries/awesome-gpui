@@ -151,12 +151,12 @@
       "description": "AI-powered desktop application for automated mobile testing, built with Rust and GPUI."
     },
     {
-      "name": "onetcli",
+      "name": "Navop",
       "category": "Apps",
       "subcategory": "Developer Tools",
-      "url": "https://github.com/feigeCode/onetcli",
-      "image": "https://raw.githubusercontent.com/feigeCode/onetcli/dev/logo.svg",
-      "description": "A GPU-accelerated, cross-platform desktop client for PostgreSQL, MySQL, SQLite, SQL Server, Oracle, ClickHouse, DuckDB, Redis, MongoDB, SSH, SFTP, serial, terminals, and AI in one place."
+      "url": "https://github.com/feigeCode/navop",
+      "image": "https://raw.githubusercontent.com/feigeCode/navop/dev/resources/navop-icon.png",
+      "description": "A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI."
     },
     {
       "name": "OpenMango",
