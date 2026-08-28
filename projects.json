@@ -692,6 +692,12 @@
       "description": "An infinite, pan-and-zoom whiteboard canvas with shapes, arrows, freehand ink, text, and images, plus a built-in toolbar, templates, and undo/redo."
     },
     {
+      "name": "GPUIX",
+      "category": "Libraries",
+      "url": "https://github.com/remorses/gpuix",
+      "description": "React bindings for building native GPU-accelerated GPUI desktop applications without Electron."
+    },
+    {
       "name": "guise",
       "category": "Libraries",
       "url": "https://github.com/wess/guise",
