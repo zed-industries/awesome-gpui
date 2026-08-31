@@ -493,6 +493,14 @@
       "description": "Per-program network usage monitor for Linux."
     },
     {
+      "name": "CLV3000-Plus",
+      "category": "Apps",
+      "subcategory": "System Utilities",
+      "url": "https://github.com/sopaco/CLV3000-Plus",
+      "image": "https://raw.githubusercontent.com/sopaco/CLV3000-Plus/main/assets/icons/icon_app.png",
+      "description": "The only disk cleaner that understands agent works. Blazing-fast, safe by GPUI."
+    },
+    {
       "name": "clp",
       "category": "Apps",
       "subcategory": "System Utilities",
