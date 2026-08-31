@@ -98,6 +98,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | Image | Project | Description | Stars | Status |
 | --- | --- | --- | ---: | :---: |
 | <img src="https://raw.githubusercontent.com/emamoah/bandmeter/main/doc/images/bandmeter-gui.png" alt="" height="64"> | [bandmeter](https://github.com/emamoah/bandmeter) | Per-program network usage monitor for Linux. | 19 | ⚪ |
+| <img src="https://raw.githubusercontent.com/sopaco/CLV3000-Plus/main/assets/icons/icon_app.png" alt="" height="64"> | [CLV3000-Plus](https://github.com/sopaco/CLV3000-Plus) | The only disk cleaner that understands agent works. Blazing-fast, safe by GPUI. | 1 | 🟢 |
 |  | [clp](https://github.com/lostf1sh/clp) | A minimal, GPU-accelerated Wayland clipboard manager with image support and pinned entries. | 9 | ⚪ |
 | <img src="https://raw.githubusercontent.com/tahayvr/omarchist/main/assets/logo/omarchist.png" alt="" height="64"> | [omarchist](https://github.com/tahayvr/omarchist) | A full Rust rewrite of the Omarchy control center. | 718 | ⚪ |
 | <img src="https://assets.openlogi.org/brand/openlogi-icon.png" alt="" height="64"> | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | A native, local-first alternative to Logitech Options+ — remap buttons, DPI, and SmartShift over HID++ with no account or telemetry. | 18k 🔥 | 🟢 |
