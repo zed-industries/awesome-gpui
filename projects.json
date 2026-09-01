@@ -505,7 +505,7 @@
       "subcategory": "System Utilities",
       "url": "https://github.com/sopaco/CLV3000-Plus",
       "image": "https://raw.githubusercontent.com/sopaco/CLV3000-Plus/main/assets/icons/icon_app.png",
-      "description": "The only disk cleaner that understands agent works. Blazing-fast, safe by GPUI."
+      "description": "A disk cleaner that understands agent work. Blazing-fast and safe, built with GPUI."
     },
     {
       "name": "omarchist",
