@@ -500,6 +500,14 @@
       "description": "A minimal, GPU-accelerated Wayland clipboard manager with image support and pinned entries."
     },
     {
+      "name": "CLV3000-Plus",
+      "category": "Apps",
+      "subcategory": "System Utilities",
+      "url": "https://github.com/sopaco/CLV3000-Plus",
+      "image": "https://raw.githubusercontent.com/sopaco/CLV3000-Plus/main/assets/icons/icon_app.png",
+      "description": "A disk cleaner that understands agent work. Blazing-fast and safe, built with GPUI."
+    },
+    {
       "name": "omarchist",
       "category": "Apps",
       "subcategory": "System Utilities",
