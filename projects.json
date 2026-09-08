@@ -207,6 +207,14 @@
       "description": "A fast, native database explorer, featuring an AI assistant that understands your schema, drafts queries for approval, and turns results into charts."
     },
     {
+      "name": "Resolved",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/zkillua00/resolved",
+      "image": "https://raw.githubusercontent.com/zkillua00/resolved/master/assets/brand/resolved-icon.png",
+      "description": "A native, programmable API workspace for exploring HTTP and WebSocket APIs, scripting and chaining requests into reusable workflows, and collaborating through a self-hosted server."
+    },
+    {
       "name": "setu",
       "category": "Apps",
       "subcategory": "Developer Tools",
