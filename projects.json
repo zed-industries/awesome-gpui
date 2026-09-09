@@ -239,6 +239,14 @@
       "description": "A GPU-rendered, daemon-backed terminal in pure Rust — a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux needed), with an enhanced prompt, tabs, splits, a command palette, and native builds for macOS, Windows, and Linux."
     },
     {
+      "name": "Vibex",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/vibex-ai/vibex",
+      "image": "https://raw.githubusercontent.com/vibex-ai/vibex/main/apps/desktop/assets/app-icons/icon-256.png",
+      "description": "A native, local-first AI coding workbench supporting Claude Code, Codex, ZCode, OpenCode, Cursor, Gemini CLI, GitHub Copilot, and any ACP-compatible agent, with a mobile client to monitor and steer sessions remotely."
+    },
+    {
       "name": "Waku",
       "category": "Apps",
       "subcategory": "Developer Tools",
