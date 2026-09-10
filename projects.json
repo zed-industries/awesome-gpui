@@ -61,6 +61,7 @@
       "category": "Apps",
       "subcategory": "Developer Tools",
       "url": "https://github.com/behzade/farcaster",
+      "image": "https://raw.githubusercontent.com/behzade/farcaster/main/assets/icons/app/icon_128x128.png",
       "description": "A native desktop app for working with multiple AI coding agents, with keyboard controls, an embedded terminal, and Neovim."
     },
     {
