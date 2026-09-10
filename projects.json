@@ -57,6 +57,13 @@
       "description": "A TablePlus-shaped database editor for PostgreSQL, MySQL, and SQLite — browse the schema tree, page through rows, and run queries."
     },
     {
+      "name": "Farcaster",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/behzade/farcaster",
+      "description": "A native desktop app for working with multiple AI coding agents, with keyboard controls, an embedded terminal, and Neovim."
+    },
+    {
       "name": "Fulgur",
       "category": "Apps",
       "subcategory": "Developer Tools",
