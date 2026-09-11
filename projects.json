@@ -493,6 +493,14 @@
       "description": "A Foobar2000-style music player for large local libraries: composable panels, shareable themes, and tagging that holds up at tens of thousands of tracks."
     },
     {
+      "name": "Sonora",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://github.com/sonorahq/sonora",
+      "image": "https://raw.githubusercontent.com/sonorahq/sonora/main/assets/linux/icons/hicolor/256x256/apps/sonora.png",
+      "description": "A native music streaming client, built with Rust and GPUI."
+    },
+    {
       "name": "sukusho",
       "category": "Apps",
       "subcategory": "Media",
