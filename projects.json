@@ -768,6 +768,12 @@
       "description": "One UI codebase for desktop, web, mobile, terminal, browser extensions, and embedded devices. Write React JSX or our lightweight DSL, get GPUI, Ratatui, SwiftUI, LVGL, and more. Batteries included. [Official site](https://crepuscularity.tsc.hk)."
     },
     {
+      "name": "GPUI Kit Canvas",
+      "category": "Tooling",
+      "url": "https://github.com/JetSquirrel/gpui-kit-canvas",
+      "description": "A browser-based visual canvas for designing gpui-kit desktop windows and generating implementation prompts."
+    },
+    {
       "name": "Pulsar-Native",
       "category": "Tooling",
       "url": "https://github.com/Far-Beyond-Pulsar/Pulsar-Native",
