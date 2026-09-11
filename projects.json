@@ -669,6 +669,12 @@
       "description": "React-style hooks for GPUI framework."
     },
     {
+      "name": "gpui-mobile",
+      "category": "Libraries",
+      "url": "https://github.com/itsbalamurali/gpui-mobile",
+      "description": "A mobile platform layer for running GPUI applications natively on iOS and Android with wgpu."
+    },
+    {
       "name": "gpui-nav",
       "category": "Libraries",
       "url": "https://github.com/benodiwal/gpui-nav",
