@@ -223,6 +223,14 @@
       "description": "A native, programmable API workspace for exploring HTTP and WebSocket APIs, scripting and chaining requests into reusable workflows, and collaborating through a self-hosted server."
     },
     {
+      "name": "Reviu",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/reviu-dev/reviu",
+      "image": "https://raw.githubusercontent.com/reviu-dev/reviu/main/.github/assets/icon.png",
+      "description": "A native Rust and GPUI desktop app for reviewing agent-written code, with local Git workflows, inline diff feedback, and pull request review."
+    },
+    {
       "name": "setu",
       "category": "Apps",
       "subcategory": "Developer Tools",
