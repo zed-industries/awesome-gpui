@@ -65,6 +65,14 @@
       "description": "A native desktop app for working with multiple AI coding agents, with keyboard controls, an embedded terminal, and Neovim."
     },
     {
+      "name": "FluxDB",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/fluxdb-alt/fluxDB",
+      "image": "https://raw.githubusercontent.com/fluxdb-alt/fluxDB/main/apps/fluxdb-desktop/assets/app-icon.svg",
+      "description": "A beautiful, intuitive native database client built with Rust and GPUI, featuring smart SQL editing, schema and data management, support for MySQL, PostgreSQL, SQLite, and Redis, and an extensible connector architecture designed for more databases."
+    },
+    {
       "name": "Fulgur",
       "category": "Apps",
       "subcategory": "Developer Tools",
