@@ -144,6 +144,14 @@
       "description": "A native, keyboard-driven GUI for Jujutsu with DAG navigation, side-by-side diffs, conflict resolution, and a GPUI shell targeting Linux."
     },
     {
+      "name": "Kitten",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://mittai.app/kitten/beta",
+      "image": "https://raw.githubusercontent.com/abishek77s/kitten-community/main/icon.png",
+      "description": "Fast and lightweight API client."
+    },
+    {
       "name": "lgtm",
       "category": "Apps",
       "subcategory": "Developer Tools",
