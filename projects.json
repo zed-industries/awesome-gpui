@@ -46,7 +46,7 @@
       "subcategory": "Developer Tools",
       "url": "https://github.com/ShayanAbbas1/dbdelve",
       "image": "https://raw.githubusercontent.com/ShayanAbbas1/dbdelve/main/assets/screenshot.png",
-      "description": "Fast and lightweight DB Client made in Rust and GPUI."
+      "description": "Multi-engine fast, modern and lightweight DB Client with a focus on beautiful transparent UI and staying snappy on large amounts of data."
     },
     {
       "name": "DBFlux",
