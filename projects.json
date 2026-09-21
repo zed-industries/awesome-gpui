@@ -41,6 +41,14 @@
       "description": "A native AI coding terminal built with Rust and GPUI, spanning desktop, mobile, and headless hosts."
     },
     {
+      "name": "DBDelve",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/ShayanAbbas1/dbdelve",
+      "image": "https://raw.githubusercontent.com/ShayanAbbas1/dbdelve/main/assets/screenshot.png",
+      "description": "Fast and lightweight DB Client made in Rust and GPUI."
+    },
+    {
       "name": "DBFlux",
       "category": "Apps",
       "subcategory": "Developer Tools",
