@@ -66,6 +66,14 @@
       "description": "A TablePlus-shaped database editor for PostgreSQL, MySQL, and SQLite — browse the schema tree, page through rows, and run queries."
     },
     {
+      "name": "Delta",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://delta.dev/",
+      "image": "https://delta.dev/favicon.svg",
+      "description": "A multiplayer environment for coding with agents, built by the creators of Zed."
+    },
+    {
       "name": "Farcaster",
       "category": "Apps",
       "subcategory": "Developer Tools",
