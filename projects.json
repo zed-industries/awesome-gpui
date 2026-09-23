@@ -256,6 +256,14 @@
       "description": "A native Rust and GPUI desktop app for reviewing agent-written code, with local Git workflows, inline diff feedback, and pull request review."
     },
     {
+      "name": "Runner",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/yicheng47/runner",
+      "image": "https://raw.githubusercontent.com/yicheng47/runner/main/assets/icon.png",
+      "description": "A native desktop app where Claude Code, Codex, Copilot CLI, and pi work one task together as a crew, each keeping its own TUI in a real terminal, on macOS and Windows."
+    },
+    {
       "name": "setu",
       "category": "Apps",
       "subcategory": "Developer Tools",
