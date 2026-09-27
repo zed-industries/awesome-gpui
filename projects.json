@@ -589,6 +589,14 @@
       "description": "A disk cleaner that understands agent work. Blazing-fast and safe, built with GPUI."
     },
     {
+      "name": "disktree",
+      "category": "Apps",
+      "subcategory": "System Utilities",
+      "url": "https://github.com/tobi/disktree",
+      "image": "https://raw.githubusercontent.com/tobi/disktree/main/assets/disktree.svg",
+      "description": "A treemap for finding and removing what fills your disk, for Omarchy."
+    },
+    {
       "name": "omarchist",
       "category": "Apps",
       "subcategory": "System Utilities",
