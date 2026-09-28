@@ -629,6 +629,14 @@
       "description": "A commissioning tool for pico-fido firmware based hardware keys."
     },
     {
+      "name": "PoE2 Oracle",
+      "category": "Apps",
+      "subcategory": "System Utilities",
+      "url": "https://github.com/mttzzz/poe2-oracle",
+      "image": "https://raw.githubusercontent.com/mttzzz/poe2-oracle/main/crates/poe2-oracle/assets/icon/poe2-oracle-256.png",
+      "description": "A price checker and XP overlay for Path of Exile 2 on Windows: a panel next to the game's inventory and plates on its HUD, drawn with GPUI over Direct3D 11."
+    },
+    {
       "name": "ropy",
       "category": "Apps",
       "subcategory": "System Utilities",
