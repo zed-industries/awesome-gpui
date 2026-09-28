@@ -837,7 +837,7 @@
       "name": "Zopra",
       "category": "Libraries",
       "url": "https://github.com/ppmpreetham/zopra",
-      "image": "https://github.com/ppmpreetham/zopra/blob/main/readme/Zopra.svg",
+      "image": "https://github.com/ppmpreetham/zopra/blob/main/readme/Zopra.svg?raw=true",
       "description": "A practical app framework for GPUI providing React style macros for rust aiming for high DX speed, low boilerplate."
     },
     {
