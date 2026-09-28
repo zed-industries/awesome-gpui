@@ -826,6 +826,14 @@
       "description": "Print-inspired vertical rhythm for GPUI, with baseline offsets computed from real font metrics."
     },
     {
+      "name": "Zopra",
+      "category": "Libraries",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/ppmpreetham/zopra",
+      "image": "https://github.com/ppmpreetham/zopra/blob/main/readme/Zopra.svg",
+      "description": "A practical app framework for GPUI providing React style macros for rust aiming for high DX speed, low boilerplate."
+    },
+    {
       "name": "create-gpui-app",
       "category": "Tooling",
       "url": "https://github.com/zed-industries/create-gpui-app",
