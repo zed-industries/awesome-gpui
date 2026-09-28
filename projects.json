@@ -801,6 +801,13 @@
       "description": "React bindings for building native GPU-accelerated GPUI desktop applications without Electron."
     },
     {
+      "name": "Zopra",
+      "category": "Libraries",
+      "url": "https://github.com/ppmpreetham/zopra",
+      "image": "https://github.com/ppmpreetham/zopra/blob/main/readme/Zopra.svg",
+      "description": "A practical app framework for GPUI providing React style macros for rust aiming for high DX speed, low boilerplate."
+    },
+    {
       "name": "guise",
       "category": "Libraries",
       "url": "https://github.com/wess/guise",
