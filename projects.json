@@ -415,6 +415,14 @@
       "description": "A high-performance, all-in-one WYSIWYG Markdown editing engine with workspaces, live diff and integrated Agent terminal."
     },
     {
+      "name": "NearWord",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://nearword.app/",
+      "image": "https://nearword.app/brand-icon.png",
+      "description": "Look up words anywhere on screen, with on-device OCR, offline dictionaries, and AI-powered context."
+    },
+    {
       "name": "nohrs",
       "category": "Apps",
       "subcategory": "Productivity",
