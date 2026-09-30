@@ -869,6 +869,13 @@
       "description": "A browser-based visual canvas for designing gpui-kit desktop windows and generating implementation prompts."
     },
     {
+      "name": "gpui-devtools",
+      "category": "Tooling",
+      "url": "https://github.com/joris-gallot/gpui-devtools",
+      "image": "https://raw.githubusercontent.com/joris-gallot/gpui-devtools/main/.github/assets/icon.svg",
+      "description": "Inspect and debug GPUI applications with an element picker, layout information, source locations, computed values, and style details."
+    },
+    {
       "name": "Pulsar-Native",
       "category": "Tooling",
       "url": "https://github.com/Far-Beyond-Pulsar/Pulsar-Native",
