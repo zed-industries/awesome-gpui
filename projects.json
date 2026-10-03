@@ -447,6 +447,14 @@
       "description": "An open-source and self-hostable alternative to Notion."
     },
     {
+      "name": "Rovar",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/cradiy/rovar",
+      "image": "https://raw.githubusercontent.com/cradiy/rovar/main/assets/rovar-icon.png",
+      "description": "A Figma-like design editor for desktop and the web, built with Rust and GPUI, with vector editing, auto layout, reusable components, and PNG/SVG export."
+    },
+    {
       "name": "Scratchpad",
       "category": "Apps",
       "subcategory": "Productivity",
