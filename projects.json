@@ -719,6 +719,13 @@
       "description": "A declarative ui! macro with Tailwind-style tokens, real Rust control flow, and zero runtime overhead."
     },
     {
+      "name": "Ely GPUI Component",
+      "category": "Libraries",
+      "url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components",
+      "image": "https://raw.githubusercontent.com/ZacharyZhang-NY/Ely-GPUI-Components/main/logo.png",
+      "description": "A GPUI component library with light and dark themes and a live WebAssembly gallery."
+    },
+    {
       "name": "ferrum-flow",
       "category": "Libraries",
       "url": "https://github.com/tu6ge/ferrum-flow",
