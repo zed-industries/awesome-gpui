@@ -320,6 +320,14 @@
       "description": "A fast, native desktop app for working with local coding agents."
     },
     {
+      "name": "Zaku",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/buildzaku/zaku",
+      "image": "https://raw.githubusercontent.com/buildzaku/zaku/main/crates/zaku/resources/app-icon-no-padding.png",
+      "description": "A native Rust, local-first, open-source API client engineered for speed and productivity."
+    },
+    {
       "name": "zed",
       "category": "Apps",
       "subcategory": "Developer Tools",
