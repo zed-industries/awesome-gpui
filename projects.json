@@ -280,6 +280,14 @@
       "description": "A minimal, native API testing application built with GPUI."
     },
     {
+      "name": "SyZyGy",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/ppmpreetham/syzygy",
+      "image": "https://raw.githubusercontent.com/ppmpreetham/syzygy/main/assets/syzygy.png",
+      "description": "A HTTP toolkit for security research, written in [Zopra](https://github.com/ppmpreetham/zopra) & Rust."
+    },
+    {
       "name": "termy",
       "category": "Apps",
       "subcategory": "Developer Tools",
