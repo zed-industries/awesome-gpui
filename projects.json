@@ -471,6 +471,14 @@
       "description": "A keyboard-first, multi-document scratchpad for Rust code and text blocks on macOS, built with GPUI, GPUI Component, and SQLite."
     },
     {
+      "name": "Seesvee",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/dctanner/seesvee",
+      "image": "https://raw.githubusercontent.com/dctanner/seesvee/main/assets/icon.png",
+      "description": "A minimalist, fast CSV viewer and editor for macOS, with sorting, filtering, drag-to-reorder rows and columns, and precise diagnostics for malformed files."
+    },
+    {
       "name": "Steward",
       "category": "Apps",
       "subcategory": "Productivity",
