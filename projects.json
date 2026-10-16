@@ -399,6 +399,14 @@
       "description": "A window switcher for macOS."
     },
     {
+      "name": "Glim",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/NeoPanic/Glim",
+      "image": "https://raw.githubusercontent.com/NeoPanic/Glim/main/assets/branding/glim.png",
+      "description": "A free, open-source macOS file viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace."
+    },
+    {
       "name": "gpui-todos",
       "category": "Apps",
       "subcategory": "Productivity",
