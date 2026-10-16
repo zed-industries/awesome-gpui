@@ -232,6 +232,14 @@
       "description": "A simple graphical user interface application for making HTTP requests, inspired by Postman."
     },
     {
+      "name": "Probe",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/crizant/probe",
+      "image": "https://raw.githubusercontent.com/crizant/probe/refs/heads/main/docs/assets/probe-app-icon.png",
+      "description": "A native, local-first HTTP, GraphQL, and WebSocket client for macOS, Windows, and Linux, built with Rust and GPUI, with a CLI for automation and Git-friendly OpenCollection files."
+    },
+    {
       "name": "Rabbitty",
       "category": "Apps",
       "subcategory": "Developer Tools",
