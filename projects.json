@@ -438,6 +438,14 @@
       "description": "App launcher in the vein of Spotlight, Alfred, Raycast."
     },
     {
+      "name": "mdoc",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/lawkitt/mdoc",
+      "image": "https://raw.githubusercontent.com/lawkitt/mdoc/main/build/appicon.svg",
+      "description": "Turns PDFs, scans and office documents into Markdown and replaces client names with aliases before you paste the text into ChatGPT or Claude, then restores the real names in the reply. Runs locally; nothing is uploaded."
+    },
+    {
       "name": "Moeka",
       "category": "Apps",
       "subcategory": "Productivity",
