@@ -296,6 +296,13 @@
       "description": "A Lightweight & GPU-rendered terminal emulator, written in Rust."
     },
     {
+      "name": "tern",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/your-moon/tern",
+      "description": "Native SSH client for macOS with an encrypted vault, password-manager logins and sync to your own Git repo."
+    },
+    {
       "name": "TokenMonitor",
       "category": "Apps",
       "subcategory": "Developer Tools",
