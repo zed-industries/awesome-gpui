@@ -723,6 +723,14 @@
       "description": "A fast native Linux system monitor with live CPU, memory, network, disk, GPU, sensors, and process management."
     },
     {
+      "name": "sysman",
+      "category": "Apps",
+      "subcategory": "System Utilities",
+      "url": "https://github.com/mah3uz/sysman",
+      "image": "https://raw.githubusercontent.com/mah3uz/sysman/main/assets/logo.svg",
+      "description": "A system monitor for Linux desktops: a small collector daemon that records what your machine is doing, and a native app that shows it live and as history."
+    },
+    {
       "name": "WSL2-HyperV-Firewall-Manager",
       "category": "Apps",
       "subcategory": "System Utilities",
