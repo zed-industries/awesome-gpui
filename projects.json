@@ -74,6 +74,14 @@
       "description": "A multiplayer environment for coding with agents, built by the creators of Zed."
     },
     {
+      "name": "Eleven",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/Zfinix/eleven",
+      "image": "https://raw.githubusercontent.com/Zfinix/eleven/main/docs/images/home.png",
+      "description": "Agent-first reverse-engineering app for macOS, Windows and Linux. Any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you."
+    },
+    {
       "name": "Farcaster",
       "category": "Apps",
       "subcategory": "Developer Tools",
