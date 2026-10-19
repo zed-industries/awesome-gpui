@@ -288,6 +288,14 @@
       "description": "A minimal, native API testing application built with GPUI."
     },
     {
+      "name": "Shepherd",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/freethinkel/shepherd",
+      "image": "https://raw.githubusercontent.com/freethinkel/shepherd/main/docs/icon.png",
+      "description": "A GPU-rendered herdr client for running many Claude Code and Codex agents side by side, with a libghostty-vt terminal and custom glyph rendering."
+    },
+    {
       "name": "SyZyGy",
       "category": "Apps",
       "subcategory": "Developer Tools",
