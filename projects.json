@@ -486,6 +486,14 @@
       "description": "A binary-first browser that runs WebAssembly modules instead of HTML/CSS/JS, built with GPUI."
     },
     {
+      "name": "Panoply",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/anzal1/panoply",
+      "image": "https://raw.githubusercontent.com/anzal1/panoply/main/apps/desktop/packaging/linux/icons/hicolor/256x256/apps/panoply.png",
+      "description": "Free, open-source file tools for macOS, Windows and Linux: PDF, image, video and audio, OCR, ID photos, file search and a disk map, all on your device, with community plugins that run as sandboxed WebAssembly."
+    },
+    {
       "name": "reminder",
       "category": "Apps",
       "subcategory": "Productivity",
