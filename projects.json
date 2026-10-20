@@ -518,6 +518,14 @@
       "description": "A minimalist, fast CSV viewer and editor for macOS, with sorting, filtering, drag-to-reorder rows and columns, and precise diagnostics for malformed files."
     },
     {
+      "name": "Skwir",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/skwir-org/skwir",
+      "image": "https://raw.githubusercontent.com/skwir-org/skwir/main/crates/ui/assets/org.skwir.skwir.svg",
+      "description": "A fast, cross-platform (Linux, macOS, Windows) file manager, with built-in previews for documents, photos, videos, music, archives and 3D models, tags and saved searches, and an MCP server so agents can drive it too. It will soon support AI to organise your files."
+    },
+    {
       "name": "Steward",
       "category": "Apps",
       "subcategory": "Productivity",
