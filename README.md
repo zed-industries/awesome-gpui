@@ -131,6 +131,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | <img src="https://raw.githubusercontent.com/mttzzz/poe2-oracle/main/crates/poe2-oracle/assets/icon/poe2-oracle-256.png" alt="" height="64"> | [PoE2 Oracle](https://github.com/mttzzz/poe2-oracle) | A price checker and XP overlay for Path of Exile 2 on Windows: a panel next to the game's inventory and plates on its HUD, drawn with GPUI over Direct3D 11. | 3 | 🟢 |
 | <img src="https://raw.githubusercontent.com/StudentWeis/ropy/main/assets/logo.png" alt="" height="64"> | [ropy](https://github.com/StudentWeis/ropy) | A cross-platform native clipboard manager in pure Rust. | 197 | 🟢 |
 |  | [rustat](https://github.com/salman0ansari/rustat) | A fast native Linux system monitor with live CPU, memory, network, disk, GPU, sensors, and process management. | 3 | 🟡 |
+| <img src="https://raw.githubusercontent.com/mah3uz/sysman/main/assets/logo.svg" alt="" height="64"> | [sysman](https://github.com/mah3uz/sysman) | A system monitor for Linux desktops: a small collector daemon that records what your machine is doing, and a native app that shows it live and as history. | 1 | 🟢 |
 | <img src="https://raw.githubusercontent.com/ssut/WSL2-HyperV-Firewall-Manager/main/assets/icon.png" alt="" height="64"> | [WSL2-HyperV-Firewall-Manager](https://github.com/ssut/WSL2-HyperV-Firewall-Manager) | A WSL2 Hyper-V Firewall Management GUI for mirrored WSL2 networking built with Rust and GPUI. | 31 | ⚪ |
 
 ### Demos & Examples
