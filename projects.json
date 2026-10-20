@@ -470,6 +470,14 @@
       "description": "A todo app written in gpui."
     },
     {
+      "name": "LokalBot",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/stevyhacker/LokalBot/tree/master/LinuxWindows",
+      "image": "https://raw.githubusercontent.com/stevyhacker/LokalBot/master/LinuxWindows/packaging/icons/lokalbot-256.png",
+      "description": "Your personal context engine: private, on-device meeting transcription, screen recall, dictation and autocomplete, with an MCP server for AI agents. The Windows and Linux app (alpha) is built with GPUI."
+    },
+    {
       "name": "Loungy",
       "category": "Apps",
       "subcategory": "Productivity",
