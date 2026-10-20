@@ -161,6 +161,14 @@
       "description": "A cross platform and super fast diff viewer and Codex orchestrator."
     },
     {
+      "name": "insensical",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://insensical.com",
+      "image": "https://insensical.com/logo.svg",
+      "description": "A terminal multiplexer with its own native window. Every pane shows whether it's working, waiting on you, done or failed, and one shortcut jumps you to whichever needs you most."
+    },
+    {
       "name": "JayJay",
       "category": "Apps",
       "subcategory": "Developer Tools",
