@@ -312,6 +312,14 @@
       "description": "A minimal, native API testing application built with GPUI."
     },
     {
+      "name": "shellwing",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/hivepaas/shellwing",
+      "image": "https://raw.githubusercontent.com/hivepaas/shellwing/main/packaging/icons/shellwing.svg",
+      "description": "A fast, native SSH client with tabs, split panes, SFTP, port forwarding and an encrypted vault that syncs between devices, on libghostty-vt."
+    },
+    {
       "name": "Shepherd",
       "category": "Apps",
       "subcategory": "Developer Tools",
