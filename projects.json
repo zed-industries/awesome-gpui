@@ -422,6 +422,14 @@
       "description": "A database IDE built with Rust and GPUI, supporting SQLite, PostgreSQL, MySQL, and Redis."
     },
     {
+      "name": "Bible Reader",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/bryaneaton13/bible-reader-desktop",
+      "image": "https://raw.githubusercontent.com/bryaneaton13/bible-reader-desktop/main/assets/AppIcon-256.png",
+      "description": "An offline Bible reader for macOS, built with Rust and GPUI Kit, featuring topical search, tabs, split view, verse highlights, and notes."
+    },
+    {
       "name": "bmo",
       "category": "Apps",
       "subcategory": "Productivity",
