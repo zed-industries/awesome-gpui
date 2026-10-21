@@ -832,8 +832,8 @@
     {
       "name": "Ely GPUI Component",
       "category": "Libraries",
-      "url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components",
-      "image": "https://raw.githubusercontent.com/ZacharyZhang-NY/Ely-GPUI-Components/main/logo.png",
+      "url": "https://github.com/ELY-Open-Source/Ely-GPUI-Components",
+      "image": "https://raw.githubusercontent.com/ELY-Open-Source/Ely-GPUI-Components/main/logo.png",
       "description": "A GPUI component library with light and dark themes and a live WebAssembly gallery."
     },
     {
