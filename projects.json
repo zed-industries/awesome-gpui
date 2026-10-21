@@ -949,6 +949,12 @@
       "description": "A Mantine-inspired component library with theming, sizing tokens, and a large set of ready-made components."
     },
     {
+      "name": "HIG for GPUI",
+      "category": "Libraries",
+      "url": "https://github.com/lavs9/hig-gpui",
+      "description": "A comprehensive implementation of Apple Human Interface Guidelines for GPUI desktop applications."
+    },
+    {
       "name": "plotters-gpui",
       "category": "Libraries",
       "url": "https://github.com/JakkuSakura/plotters-gpui",
