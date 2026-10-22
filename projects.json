@@ -713,8 +713,8 @@
       "category": "Apps",
       "subcategory": "Media",
       "url": "https://github.com/vleerapp/vleer",
-      "image": "https://raw.githubusercontent.com/vleerapp/vleer/main/assets/images/icon.png",
-      "description": "Music, but without the subscription. Built on top of the OpenMusic API for a new streaming standard."
+      "image": "https://raw.githubusercontent.com/vleerapp/vleer/main/assets/images/icon-512.png",
+      "description": "Music, but without the subscription."
     },
     {
       "name": "bandmeter",
