@@ -19,32 +19,56 @@ on:
 permissions:
   contents: write
 
+# A newer trigger supersedes older generation, including the debounce delay.
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      - name: Wait for more merges
+        if: github.event_name == 'push'
+        run: sleep 60
+
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Install uv
         uses: astral-sh/setup-uv@v6
 
-      - name: Validate project data
-        run: uv run check-jsonschema --schemafile projects.schema.json projects.json
-
-      - name: Generate README
+      - name: Generate and publish README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: uv run scripts/generate_readme.py
-
-      - name: Commit updated README
         run: |
-          if git diff --quiet -- README.md; then
-            echo "README.md is already current."
-            exit 0
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Update README.md"
-          git push
+          for attempt in 1 2 3; do
+            git fetch origin main
+            # This disposable runner owns its checkout. Discard any stale generated
+            # commit and regenerate instead of rebasing generated Markdown.
+            git reset --hard origin/main
+            base=$(git rev-parse HEAD)
+            uv run check-jsonschema --schemafile projects.schema.json projects.json
+            uv run scripts/generate_readme.py
+            if git diff --quiet -- README.md; then
+              echo "README.md is already current."
+              exit 0
+            fi
+            git add README.md
+            git commit -m "Update README.md"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            git fetch origin main
+            if [ "$(git rev-parse origin/main)" = "$base" ]; then
+              echo "::error::Push failed without main advancing; not retrying."
+              exit 1
+            fi
+            echo "main advanced during generation (attempt $attempt of 3)."
+          done
+          echo "::error::main kept advancing; README update exhausted three attempts."
+          exit 1
