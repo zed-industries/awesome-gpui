@@ -201,6 +201,14 @@
       "description": "A Unified Cowork & Code Agent to control - Cursor, Claude, Crush/ OpenCode , Hermes, Codex"
     },
     {
+      "name": "Matcha",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/kakilangit/matcha",
+      "image": "https://raw.githubusercontent.com/kakilangit/matcha/main/assets/icons/matcha-256.png",
+      "description": "A native regex workbench for macOS and Linux, with live match highlighting, numbered and named capture groups, replace preview, pattern library, and two regex engines."
+    },
+    {
       "name": "mobie-studio",
       "category": "Apps",
       "subcategory": "Developer Tools",
