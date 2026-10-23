@@ -26,6 +26,8 @@ concurrency:
 
 jobs:
   update-readme:
+    # Forks maintain project data only; README publication belongs to upstream.
+    if: github.repository == 'zed-industries/awesome-gpui'
     runs-on: ubuntu-latest
     steps:
       - name: Wait for more merges
