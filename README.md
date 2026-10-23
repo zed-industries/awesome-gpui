@@ -120,7 +120,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | <img src="https://raw.githubusercontent.com/zealsprince/rox/main/crates/rox/assets/app/rox.png" alt="" height="64"> | [rox](https://github.com/zealsprince/rox) | A Foobar2000-style music player for large local libraries: composable panels, shareable themes, and tagging that holds up at tens of thousands of tracks. | 91 | 🟢 |
 | <img src="https://raw.githubusercontent.com/sonorahq/sonora/main/assets/linux/icons/hicolor/256x256/apps/sonora.png" alt="" height="64"> | [Sonora](https://github.com/sonorahq/sonora) | A native music streaming client, built with Rust and GPUI. | 2.2k 🔥 | 🟢 |
 | <img src="https://raw.githubusercontent.com/ssut/sukusho/main/docs/screenshot.webp" alt="" height="64"> | [sukusho](https://github.com/ssut/sukusho) | A powerful screenshot manager for Windows. | 14 | ⚪ |
-| <img src="https://raw.githubusercontent.com/vleerapp/vleer/main/assets/images/icon.png" alt="" height="64"> | [vleer](https://github.com/vleerapp/vleer) | Music, but without the subscription. Built on top of the OpenMusic API for a new streaming standard. | 220 | 🟢 |
+| <img src="https://raw.githubusercontent.com/vleerapp/vleer/main/assets/images/icon-512.png" alt="" height="64"> | [vleer](https://github.com/vleerapp/vleer) | Music, but without the subscription. | 220 | 🟢 |
 
 ### System Utilities
 
@@ -162,7 +162,7 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 | <img src="https://raw.githubusercontent.com/pacifio/gpui-flow/main/media/mindmap.png" alt="" height="64"> | [gpui-flow](https://github.com/pacifio/gpui-flow) | Visual node editor react flow for GPUI. | 43 | ⚪ |
 |  | [gpui-form](https://github.com/stayhydated/gpui-form) | A struct derive macro for deriving gpui-component... components on fields. | 26 | 🟢 |
 |  | [gpui-hooks](https://github.com/leset0ng/gpui-hooks) | React-style hooks for GPUI framework. | 17 | ⚪ |
-|  | [gpui-mobile](https://github.com/itsbalamurali/gpui-mobile) | A mobile platform layer for running GPUI applications natively on iOS and Android with wgpu. | 432 | 🟢 |
+|  | [gpui-mobile](https://github.com/itsbalamurali/gpui-mobile) | A mobile platform layer for running GPUI applications natively on iOS and Android with wgpu. | 433 | 🟢 |
 |  | [gpui-nav](https://github.com/benodiwal/gpui-nav) | Easy navigation library for GPUI applications. | 29 | ⚪ |
 |  | [gpui-pdf](https://github.com/packetThrower/zorite/tree/main/crates/gpui-pdf) | Page-virtualized PDF viewing built on the pure-Rust hayro rasterizer — zoom, navigation, full-text search, and bounded memory, with no native dependencies. | 71 | 🟢 |
 |  | [gpui-px](https://github.com/pierreaubert/sotf/tree/master/gpui-px) | a high level plotting library 100% in rust inspired by [plotly express](https://plotly.com/python/plotly-express/) and using d3rs. | 60 | ⚪ |
