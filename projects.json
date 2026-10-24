@@ -638,6 +638,14 @@
       "description": "A minimal native Spotify player for macOS built with Rust and GPUI, using librespot and rspotify."
     },
     {
+      "name": "Cap",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://github.com/CapSoftware/Cap",
+      "image": "https://raw.githubusercontent.com/CapSoftware/Cap/main/apps/desktop-gpui/assets/dock-icon.png",
+      "description": "An open-source screen recorder and Loom alternative with a GPUI desktop app, built-in video editor, and instant sharing."
+    },
+    {
       "name": "Futureboard Studio",
       "category": "Apps",
       "subcategory": "Media",
