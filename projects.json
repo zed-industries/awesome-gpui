@@ -280,6 +280,14 @@
       "description": "A fast, native database explorer, featuring an AI assistant that understands your schema, drafts queries for approval, and turns results into charts."
     },
     {
+      "name": "Request Eagle",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/gregor-tokarev/request-eagle",
+      "image": "https://raw.githubusercontent.com/gregor-tokarev/request-eagle/main/.github/icon-eagle-v2.png",
+      "description": "A native API client for HTTP, gRPC and WebSocket that keeps requests as Git-friendly TOML files, with scripts, flows, Vim mode and an agent panel for Claude Code, Codex and OpenCode."
+    },
+    {
       "name": "Resolved",
       "category": "Apps",
       "subcategory": "Developer Tools",
