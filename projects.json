@@ -344,6 +344,13 @@
       "description": "A GPU-rendered herdr client for running many Claude Code and Codex agents side by side, with a libghostty-vt terminal and custom glyph rendering."
     },
     {
+      "name": "SQLly",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://sqlly.app/",
+      "description": "A cross-platform SQL client with IntelliSense and schema intelligence for PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, DuckDB, Redis and more."
+    },
+    {
       "name": "SyZyGy",
       "category": "Apps",
       "subcategory": "Developer Tools",
