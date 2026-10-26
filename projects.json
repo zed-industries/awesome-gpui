@@ -438,6 +438,14 @@
       "description": "A database IDE built with Rust and GPUI, supporting SQLite, PostgreSQL, MySQL, and Redis."
     },
     {
+      "name": "Aviary",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/Catvert/aviary",
+      "image": "https://raw.githubusercontent.com/Catvert/aviary/main/packaging/aviary.svg",
+      "description": "A desktop email, calendar, and kanban client for Microsoft 365, Gmail, and IMAP/SMTP, built with Rust and GPUI Kit."
+    },
+    {
       "name": "Bible Reader",
       "category": "Apps",
       "subcategory": "Productivity",
