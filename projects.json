@@ -582,6 +582,14 @@
       "description": "A Figma-like design editor for desktop and the web, built with Rust and GPUI, with vector editing, auto layout, reusable components, and PNG/SVG export."
     },
     {
+      "name": "Scoria",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/ragtux/Scoria",
+      "image": "https://raw.githubusercontent.com/ragtux/Scoria/main/docs/img/scoria_v3_fixed.svg",
+      "description": "A native knowledge base in Rust and GPUI that opens Obsidian vaults unchanged — same folder, .obsidian config, Markdown dialect, canvas and base files, with no import step."
+    },
+    {
       "name": "Scratchpad",
       "category": "Apps",
       "subcategory": "Productivity",
