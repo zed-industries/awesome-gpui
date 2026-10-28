@@ -201,6 +201,14 @@
       "description": "A Unified Cowork & Code Agent to control - Cursor, Claude, Crush/ OpenCode , Hermes, Codex"
     },
     {
+      "name": "MAO",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://trymao.dev/",
+      "image": "https://trymao.dev/icon-512.png",
+      "description": "A native, GPU-rendered canvas for running Claude Code, Codex, Gemini CLI, Grok, OpenCode and shell agents as connected terminal nodes that hand tasks to each other, with git worktree layers for parallel work."
+    },
+    {
       "name": "Matcha",
       "category": "Apps",
       "subcategory": "Developer Tools",
