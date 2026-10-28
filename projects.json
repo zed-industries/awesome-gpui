@@ -637,6 +637,14 @@
       "description": "A small, polished launcher and plugin platform for Windows, built with Rust, GPUI, and gpui-component."
     },
     {
+      "name": "Traydex",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/ipavlin98/traydex",
+      "image": "https://raw.githubusercontent.com/ipavlin98/traydex/main/assets/traydex.png",
+      "description": "A native drag-and-drop shelf for Windows: keep files, images, text and links at hand, or drop them on tiles to zip, convert, compress, OCR and upload."
+    },
+    {
       "name": "Vellum",
       "category": "Apps",
       "subcategory": "Productivity",
