@@ -430,6 +430,14 @@
       "description": "A fast, native desktop app for working with local coding agents."
     },
     {
+      "name": "WSP",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/wsp-labs/wsp",
+      "image": "https://raw.githubusercontent.com/wsp-labs/wsp/main/apps/www/public/logo.png",
+      "description": "A GPUI-native environment for orchestrating Claude Code, Codex, OpenCode, and Cursor across machines and cloud workspaces. It syncs agent memory, skills, MCP servers, plugins, and tools across environments, with the same orchestration core available through its CLI and MCP."
+    },
+    {
       "name": "Zaku",
       "category": "Apps",
       "subcategory": "Developer Tools",
