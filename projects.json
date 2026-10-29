@@ -1072,6 +1072,12 @@
       "description": "A browser-based visual canvas for designing gpui-kit desktop windows and generating implementation prompts."
     },
     {
+      "name": "gpui-agent",
+      "category": "Tooling",
+      "url": "https://github.com/wsp-labs/gpui-agent",
+      "description": "CLI, MCP server and Rust crate for coding agents to inspect and drive instrumented GPUI apps using semantic snapshots, input, waits and screenshots."
+    },
+    {
       "name": "gpui-devtools",
       "category": "Tooling",
       "url": "https://github.com/joris-gallot/gpui-devtools",
