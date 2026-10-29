@@ -288,6 +288,14 @@
       "description": "A native, local-first HTTP, GraphQL, and WebSocket client for macOS, Windows, and Linux, built with Rust and GPUI, with a CLI for automation and Git-friendly OpenCollection files."
     },
     {
+      "name": "Pulsar-Native",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/Far-Beyond-Pulsar/Pulsar-Native",
+      "image": "https://github.com/user-attachments/assets/e36bfc3b-f5e8-437e-a50a-967ee254a0eb",
+      "description": "The next-generation game engine that you deserve implemented in rust on top of GPUI."
+    },
+    {
       "name": "Rabbitty",
       "category": "Apps",
       "subcategory": "Developer Tools",
@@ -1131,13 +1139,6 @@
       "url": "https://github.com/joris-gallot/gpui-devtools",
       "image": "https://raw.githubusercontent.com/joris-gallot/gpui-devtools/main/.github/assets/icon.svg",
       "description": "Inspect and debug GPUI applications with an element picker, layout information, source locations, computed values, and style details."
-    },
-    {
-      "name": "Pulsar-Native",
-      "category": "Tooling",
-      "url": "https://github.com/Far-Beyond-Pulsar/Pulsar-Native",
-      "image": "https://github.com/user-attachments/assets/e36bfc3b-f5e8-437e-a50a-967ee254a0eb",
-      "description": "The next-generation game engine that you deserve implemented in rust on top of GPUI."
     },
     {
       "name": "React Native GPUI",
