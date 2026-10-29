@@ -748,6 +748,14 @@
       "description": "A Foobar2000-style music player for large local libraries: composable panels, shareable themes, and tagging that holds up at tens of thousands of tracks."
     },
     {
+      "name": "Shokirei",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://github.com/kakilangit/shokirei",
+      "image": "https://raw.githubusercontent.com/kakilangit/shokirei/main/assets/icons/shokirei-256.png",
+      "description": "A native macOS app that makes screenshots beautiful: put a capture, an image, or a code snippet on a gradient backdrop with padding, rounded corners, and a shadow, then mark it up with arrows, boxes, text, and blur."
+    },
+    {
       "name": "Sonora",
       "category": "Apps",
       "subcategory": "Media",
