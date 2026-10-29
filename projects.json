@@ -42,6 +42,14 @@
       "description": "A native AI coding terminal built with Rust and GPUI, spanning desktop, mobile, and headless hosts. Archived; succeeded by [Sailry](https://github.com/sailry/sailry-harness)."
     },
     {
+      "name": "DbCat",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://dbcat.forzens.com/",
+      "image": "https://dbcat.forzens.com/apple-touch-icon.png",
+      "description": "A free, native database client for macOS and Windows covering MySQL, PostgreSQL, SQL Server, SQLite, DuckDB, ClickHouse, Redis, MongoDB and more, with ER diagrams, query plan graphs and a built-in MCP server."
+    },
+    {
       "name": "DBDelve",
       "category": "Apps",
       "subcategory": "Developer Tools",
