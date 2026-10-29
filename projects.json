@@ -185,6 +185,14 @@
       "description": "Fast and lightweight API client."
     },
     {
+      "name": "Krill",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/craftowen/krill",
+      "image": "https://krill.page/icon-192.png",
+      "description": "A native Rust workspace for running parallel AI coding agents in Git worktrees, with terminal sessions that survive app restarts."
+    },
+    {
       "name": "lgtm",
       "category": "Apps",
       "subcategory": "Developer Tools",
