@@ -741,6 +741,14 @@
       "description": "Modern music player written in Rust using gpui with a focus on design and performance."
     },
     {
+      "name": "Irori",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://github.com/irori-app/irori",
+      "image": "https://raw.githubusercontent.com/irori-app/irori/main/assets/brand/irori-mark.svg",
+      "description": "A fast, native game launcher for Linux, macOS, and Windows that gathers your Epic Games, GOG, Amazon, itch.io, Steam, and emulated games into one library."
+    },
+    {
       "name": "Lumia",
       "category": "Apps",
       "subcategory": "Media",
