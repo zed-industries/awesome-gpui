@@ -573,6 +573,14 @@
       "description": "App launcher in the vein of Spotlight, Alfred, Raycast."
     },
     {
+      "name": "Markraft",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/ahonn/markraft",
+      "image": "https://raw.githubusercontent.com/ahonn/markraft/master/assets/icon/Markraft.png",
+      "description": "A floating Markdown notepad for macOS. It formats as you type and keeps each note as a plain .md file that Obsidian can open."
+    },
+    {
       "name": "mdoc",
       "category": "Apps",
       "subcategory": "Productivity",
