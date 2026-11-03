@@ -1015,6 +1015,12 @@
       "description": "Easy navigation library for GPUI applications."
     },
     {
+      "name": "gpui-ohos",
+      "category": "Libraries",
+      "url": "https://github.com/ohos-rs/gpui-ohos",
+      "description": "An OpenHarmony platform backend for GPUI with GPU rendering, native windows, touch input, and IME support."
+    },
+    {
       "name": "gpui-pdf",
       "category": "Libraries",
       "url": "https://github.com/packetThrower/zorite/tree/main/crates/gpui-pdf",
