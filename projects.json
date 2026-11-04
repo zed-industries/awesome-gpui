@@ -573,6 +573,14 @@
       "description": "App launcher in the vein of Spotlight, Alfred, Raycast."
     },
     {
+      "name": "Markdown Viewer",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/bryaneaton13/markdown-viewer",
+      "image": "https://raw.githubusercontent.com/bryaneaton13/markdown-viewer/main/assets/logo.png",
+      "description": "A fast, native, read-only Markdown reader for macOS, built with Rust and GPUI Kit, with workspaces, tabs, split view, find, and a Finder Quick Look extension."
+    },
+    {
       "name": "Markraft",
       "category": "Apps",
       "subcategory": "Productivity",
