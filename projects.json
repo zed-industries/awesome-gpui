@@ -581,6 +581,14 @@
       "description": "A fast, native, read-only Markdown reader for macOS, built with Rust and GPUI Kit, with workspaces, tabs, split view, find, and a Finder Quick Look extension."
     },
     {
+      "name": "Markraft",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/ahonn/markraft",
+      "image": "https://raw.githubusercontent.com/ahonn/markraft/master/assets/icon/Markraft.png",
+      "description": "A floating Markdown notepad for macOS. It formats as you type and keeps each note as a plain .md file that Obsidian can open."
+    },
+    {
       "name": "mdoc",
       "category": "Apps",
       "subcategory": "Productivity",
@@ -741,12 +749,28 @@
       "description": "An open-source digital audio workstation with Native GPUI, React WebUI, Rust DSP, and native plugin hosting."
     },
     {
+      "name": "Heronite",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://github.com/RafaelGoulartB/Heronite",
+      "image": "https://raw.githubusercontent.com/RafaelGoulartB/Heronite/main/packaging/linux/app.heronite.Heronite.png",
+      "description": "A native game launcher for Linux and Windows: Steam, Epic Games, GOG, Amazon Games, emulated and native games in one library, with play time stats and a controller-first console mode."
+    },
+    {
       "name": "hummingbird",
       "category": "Apps",
       "subcategory": "Media",
       "url": "https://github.com/hummingbird-player/hummingbird",
       "image": "https://raw.githubusercontent.com/hummingbird-player/hummingbird/master/res/macos-icon.svg",
       "description": "Modern music player written in Rust using gpui with a focus on design and performance."
+    },
+    {
+      "name": "Irori",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://github.com/irori-app/irori",
+      "image": "https://raw.githubusercontent.com/irori-app/irori/main/assets/brand/irori-mark.svg",
+      "description": "A fast, native game launcher for Linux, macOS, and Windows that gathers your Epic Games, GOG, Amazon, itch.io, Steam, and emulated games into one library."
     },
     {
       "name": "Lumia",
