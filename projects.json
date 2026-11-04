@@ -541,6 +541,14 @@
       "description": "A window switcher for macOS."
     },
     {
+      "name": "GDS Files",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/GanDesktop/gds/tree/main/bin/files",
+      "image": "https://raw.githubusercontent.com/GanDesktop/gds/main/assets/files/icon-desktop.svg",
+      "description": "A beautiful, easy-to-use, full-featured file manager for Wayland, with an integrated terminal and system theme synchronization."
+    },
+    {
       "name": "Glim",
       "category": "Apps",
       "subcategory": "Productivity",
