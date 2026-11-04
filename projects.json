@@ -430,6 +430,14 @@
       "description": "A native, local-first AI coding workbench supporting Claude Code, Codex, ZCode, OpenCode, Cursor, Gemini CLI, GitHub Copilot, and any ACP-compatible agent, with a mobile client to monitor and steer sessions remotely."
     },
     {
+      "name": "VT Code",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/vinhnx/VTCode",
+      "image": "https://raw.githubusercontent.com/vinhnx/VTCode/main/resources/screenshots/vtcode-desktop-light.png",
+      "description": "A native macOS GPUI client for the open-source VT Code terminal coding agent: the GUI drives a local service process while the shared runloop keeps providers, sandboxing, and sessions, so desktop and CLI reuse the same config and credentials."
+    },
+    {
       "name": "Waku",
       "category": "Apps",
       "subcategory": "Developer Tools",
