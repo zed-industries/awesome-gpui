@@ -446,6 +446,14 @@
       "description": "A fast, native desktop app for working with local coding agents."
     },
     {
+      "name": "WEEP",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/ragtux/WEEP",
+      "image": "https://raw.githubusercontent.com/ragtux/WEEP/main/crates/weep/assets/icons/weep/weep.png",
+      "description": "A native code editor in the shape of JetBrains Fleet, with Files, Search, Git, Terminal and Run tools, a rust-analyzer Smart Mode, and Fleet's own theme, keymap and settings files loaded unchanged."
+    },
+    {
       "name": "WSP",
       "category": "Apps",
       "subcategory": "Developer Tools",
