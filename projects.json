@@ -541,6 +541,14 @@
       "image": "https://raw.githubusercontent.com/logi-camp/dicto/main/assets/icon.svg"
     },
     {
+      "name": "Downmark",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "description": "A Markdown editor and previewer with synchronized split scrolling, zoomable Mermaid diagrams, LaTeX math, and CLI commands for terminal and AI agent use.",
+      "image": "https://raw.githubusercontent.com/Vidhan31/downmark/main/packaging/icon/png/downmark-256.png",
+      "url": "https://github.com/Vidhan31/downmark"
+    },
+    {
       "name": "Fast Forward",
       "category": "Apps",
       "subcategory": "Productivity",
