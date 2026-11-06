@@ -193,6 +193,14 @@
       "description": "Fast and lightweight API client."
     },
     {
+      "name": "Krad ADE",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/joordih/krad-ade",
+      "image": "https://raw.githubusercontent.com/joordih/krad-ade/main/packaging/icon/png/krad-ade-256.png",
+      "description": "An agentic development environment for running Claude Code, opencode and Codex side by side, with a lead that directs worker agents, an Editor mode, libghostty-vt terminals and remote hosts over SSH."
+    },
+    {
       "name": "Krill",
       "category": "Apps",
       "subcategory": "Developer Tools",
