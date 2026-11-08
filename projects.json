@@ -272,6 +272,14 @@
       "description": "A GUI to query & manage postgres databases."
     },
     {
+      "name": "Pi GPUI",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/bytesbay/pi-gpui",
+      "image": "https://raw.githubusercontent.com/bytesbay/pi-gpui/main/site/img/icon-512.png",
+      "description": "A native desktop app for the pi coding agent (macOS for now): projects and sessions in a sidebar, session tree, a changes panel, inline extension questions, and plugins in any language."
+    },
+    {
       "name": "postman-gpui",
       "category": "Apps",
       "subcategory": "Developer Tools",
