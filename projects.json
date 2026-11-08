@@ -876,6 +876,14 @@
       "description": "Per-program network usage monitor for Linux."
     },
     {
+      "name": "Bing Wallpaper Manager",
+      "category": "Apps",
+      "subcategory": "System Utilities",
+      "url": "https://github.com/TomoyukiNakama/bing-wallpaper-manager",
+      "image": "https://raw.githubusercontent.com/TomoyukiNakama/bing-wallpaper-manager/main/assets/icons/hicolor/256x256/apps/bing-wallpaper-manager.png",
+      "description": "Browse Bing's daily photos across regions, search them by words or colors, and set them as your GNOME wallpaper."
+    },
+    {
       "name": "clp",
       "category": "Apps",
       "subcategory": "System Utilities",
