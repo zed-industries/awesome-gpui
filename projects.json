@@ -931,6 +931,14 @@
       "description": "A price checker and XP overlay for Path of Exile 2 on Windows: a panel next to the game's inventory and plates on its HUD, drawn with GPUI over Direct3D 11."
     },
     {
+      "name": "Rind",
+      "category": "Apps",
+      "subcategory": "System Utilities",
+      "url": "https://github.com/ahjdzx/rind",
+      "image": "https://raw.githubusercontent.com/ahjdzx/rind/main/docs/images/icon-256.png",
+      "description": "An explainable, undoable macOS uninstaller and cleaner: every leftover comes with its evidence, and everything moves to the Trash with one-click restore."
+    },
+    {
       "name": "ropy",
       "category": "Apps",
       "subcategory": "System Utilities",
