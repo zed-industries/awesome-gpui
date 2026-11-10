@@ -18,6 +18,14 @@
       "description": "Fast and lightweight api client."
     },
     {
+      "name": "BarSQL",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/Bare7a/BarSQL",
+      "image": "https://raw.githubusercontent.com/Bare7a/BarSQL/master/docs/icon.svg",
+      "description": "Local-first desktop SQL client for PostgreSQL, MySQL/MariaDB, SQL Server, ClickHouse, Turso and SQLite."
+    },
+    {
       "name": "based",
       "category": "Apps",
       "subcategory": "Developer Tools",
