@@ -1211,6 +1211,12 @@
       "description": "Inspect and debug GPUI applications with an element picker, layout information, source locations, computed values, and style details."
     },
     {
+      "name": "Rake",
+      "category": "Tooling",
+      "url": "https://github.com/1bye/rake",
+      "description": "A framework for building native and browser GPUI apps from one Rust codebase, with typed routes, managed async work, packaging and updates, plus a CLI and DevTools integration that let AI agents inspect and control the running app."
+    },
+    {
       "name": "React Native GPUI",
       "category": "Tooling",
       "url": "https://github.com/nucleus-os/nucleus",
