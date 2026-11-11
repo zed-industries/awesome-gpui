@@ -829,6 +829,14 @@
       "description": "A fast, native game launcher for Linux, macOS, and Windows that gathers your Epic Games, GOG, Amazon, itch.io, Steam, and emulated games into one library."
     },
     {
+      "name": "Kiri",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://github.com/Moltenship/kiri",
+      "image": "https://raw.githubusercontent.com/Moltenship/kiri/main/src/icon.png",
+      "description": "A lightweight open-source screenshot tool for macOS and Windows: capture an area, a window, or a scrolling page, then annotate it with arrows, text, blur, and measurements."
+    },
+    {
       "name": "Lumia",
       "category": "Apps",
       "subcategory": "Media",
