@@ -971,6 +971,14 @@
       "description": "A native, local-first alternative to Logitech Options+ — remap buttons, DPI, and SmartShift over HID++ with no account or telemetry."
     },
     {
+      "name": "packwing",
+      "category": "Apps",
+      "subcategory": "System Utilities",
+      "url": "https://github.com/hivepaas/packwing",
+      "image": "https://raw.githubusercontent.com/hivepaas/packwing/main/packaging/icons/packwing.svg",
+      "description": "A fast, native file archiver that compresses and extracts on every core and opens archives safely: ZIP, 7z, RAR, tar, ISO, Debian packages, snaps and more, with a pkw command line."
+    },
+    {
       "name": "picoforge",
       "category": "Apps",
       "subcategory": "System Utilities",
