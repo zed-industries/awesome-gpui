@@ -1243,6 +1243,12 @@
       "description": "Inspect and debug GPUI applications with an element picker, layout information, source locations, computed values, and style details."
     },
     {
+      "name": "gpui-scan",
+      "category": "Tooling",
+      "url": "https://github.com/encryptedbusiness/gpui-scan",
+      "description": "React Scan-style overlay for GPUI: re-render outlines, a live FPS readout, and a gpui-devtools element inspector in one floating widget."
+    },
+    {
       "name": "Rake",
       "category": "Tooling",
       "url": "https://github.com/1bye/rake",
