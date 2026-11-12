@@ -264,6 +264,14 @@
       "description": "A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI."
     },
     {
+      "name": "o8",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/o8-run/o8",
+      "image": "https://raw.githubusercontent.com/o8-run/o8/main/assets/o8-icon.png",
+      "description": "The review and merge layer for coding agents: agents write the code, o8 reviews it, sends it back until it's right, and merges it."
+    },
+    {
       "name": "OpenMango",
       "category": "Apps",
       "subcategory": "Developer Tools",
