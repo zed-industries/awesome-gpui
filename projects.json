@@ -256,6 +256,14 @@
       "description": "AI-powered desktop application for automated mobile testing, built with Rust and GPUI."
     },
     {
+      "name": "Monoprint",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/ozanvos/monoprint",
+      "image": "https://raw.githubusercontent.com/ozanvos/monoprint/main/website/assets/icon.png",
+      "description": "Turn source code into PNG, SVG or HTML images locally, with live preview, line highlights and bundled themes and fonts. Also ships a CLI and Rust and Node.js libraries."
+    },
+    {
       "name": "Navop",
       "category": "Apps",
       "subcategory": "Developer Tools",
