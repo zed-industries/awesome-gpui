@@ -892,6 +892,14 @@
       "description": "A powerful screenshot manager for Windows."
     },
     {
+      "name": "Vartex",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://vartex.app/",
+      "image": "https://vartex.app/apple-touch-icon.png",
+      "description": "Free telemetry overlays for the EA SPORTS F1 games on Windows, drawn over the game: throttle, brake and steering traces, tyre wear, live lap delta and a proximity radar."
+    },
+    {
       "name": "vleer",
       "category": "Apps",
       "subcategory": "Media",
