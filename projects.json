@@ -423,6 +423,14 @@
       "description": "A cross-platform SQL client with IntelliSense and schema intelligence for PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, DuckDB, Redis and more."
     },
     {
+      "name": "SSHL",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/qfdk/sshl",
+      "image": "https://raw.githubusercontent.com/qfdk/sshl/main/assets/icons/icon.png",
+      "description": "A native SSH client for macOS: a terminal, a two-pane SFTP file manager that follows the terminal's directory, and a server monitor in one window, on libghostty-vt."
+    },
+    {
       "name": "SyZyGy",
       "category": "Apps",
       "subcategory": "Developer Tools",
