@@ -288,6 +288,14 @@
       "description": "A native, GPU-accelerated MongoDB workbench for macOS, built with Rust and GPUI."
     },
     {
+      "name": "OxideTerm",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/AnalyseDeCircuit/oxideterm",
+      "image": "https://raw.githubusercontent.com/AnalyseDeCircuit/oxideterm/main/crates/oxideterm-gpui-app/resources/icons/icon.png",
+      "description": "A native SSH client and remote workspace for macOS, Windows, and Linux built with Rust and GPUI — featuring terminals (SSH, Mosh, Telnet, Serial), SFTP, port forwarding, a built-in code editor, and RDP/VNC."
+    },
+    {
       "name": "OxiMux",
       "category": "Apps",
       "subcategory": "Developer Tools",
