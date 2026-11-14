@@ -1139,6 +1139,13 @@
       "description": "React-style hooks for GPUI framework."
     },
     {
+      "name": "gpui-maps",
+      "category": "Libraries",
+      "url": "https://github.com/swatmobility/gpui-maps",
+      "image": "https://raw.githubusercontent.com/swatmobility/gpui-maps/master/site/favicon.svg",
+      "description": "A native vector-map engine for GPUI: MapLibre styles, PMTiles, a globe, 3D buildings and data overlays, drawn on the GPU."
+    },
+    {
       "name": "gpui-mobile",
       "category": "Libraries",
       "url": "https://github.com/itsbalamurali/gpui-mobile",
