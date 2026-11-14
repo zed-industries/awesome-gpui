@@ -416,6 +416,14 @@
       "description": "A GPU-rendered herdr client for running many Claude Code and Codex agents side by side, with a libghostty-vt terminal and custom glyph rendering."
     },
     {
+      "name": "Sikemux",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/nodelike/sikemux",
+      "image": "https://raw.githubusercontent.com/nodelike/sikemux/main/brand/icon/icon-dark-rounded-256.png",
+      "description": "A native workspace for Claude Code, Codex, OpenCode and other coding agents, with terminals, an editor, Git and browser tabs beside each chat."
+    },
+    {
       "name": "SQLly",
       "category": "Apps",
       "subcategory": "Developer Tools",
