@@ -940,6 +940,14 @@
       "description": "Per-program network usage monitor for Linux."
     },
     {
+      "name": "Bluet",
+      "category": "Apps",
+      "subcategory": "System Utilities",
+      "url": "https://github.com/suryavamsi6/bluet",
+      "image": "https://raw.githubusercontent.com/suryavamsi6/bluet/main/packaging/linux/dev.bluet.manager.svg",
+      "description": "A Bluetooth manager for Linux that talks to BlueZ over D-Bus: pairing, connections, battery, and volume and audio profiles for headphones."
+    },
+    {
       "name": "clp",
       "category": "Apps",
       "subcategory": "System Utilities",
