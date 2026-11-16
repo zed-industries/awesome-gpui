@@ -566,6 +566,14 @@
       "description": "A native app that controls coding agents, for example Claude Code, Codex, and Cursor. It keeps all sessions on your device. If you connect more devices, you can start an agent on one device and control it from a different device."
     },
     {
+      "name": "Zest",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/dungmv/zest",
+      "image": "https://raw.githubusercontent.com/dungmv/zest/main/crates/app/resources/app_icon_256.png",
+      "description": "A native, Git-friendly REST API client with YAML-based workspaces, built-in Git tools, WebSocket and gRPC support, and request scripting."
+    },
+    {
       "name": "zlyph",
       "category": "Apps",
       "subcategory": "Developer Tools",
