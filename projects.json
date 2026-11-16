@@ -916,6 +916,14 @@
       "description": "A cross-platform music player with bit-perfect/exclusive output and a customizable UI."
     },
     {
+      "name": "reveal",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://github.com/knst0/reveal",
+      "image": "https://raw.githubusercontent.com/knst0/reveal/main/resource/reveal.svg",
+      "description": "A fast, native image viewer built with Rust and GPUI, with RAW support, zoom and pan."
+    },
+    {
       "name": "rox",
       "category": "Apps",
       "subcategory": "Media",
