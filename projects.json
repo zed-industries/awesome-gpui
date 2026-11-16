@@ -2,6 +2,14 @@
   "$schema": "./projects.schema.json",
   "projects": [
     {
+      "name": "Anywhere",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/mingo023/anywhere",
+      "image": "https://raw.githubusercontent.com/mingo023/anywhere/main/packages/desktop/assets/AppIcon.png",
+      "description": "A native macOS app (Rust/GPUI, Go daemon) for running Claude Code, Codex, and other coding agents in real terminals grouped by project and git worktree, with working/needs-you/done status, diff review beside the terminal, and a native iOS app over Tailscale."
+    },
+    {
       "name": "Arbor",
       "category": "Apps",
       "subcategory": "Developer Tools",
