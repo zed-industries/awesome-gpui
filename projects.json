@@ -494,6 +494,14 @@
       "description": "A GPU-rendered, daemon-backed terminal in pure Rust — a persistent daemon holds the PTYs so sessions survive quitting the app (no tmux needed), with an enhanced prompt, tabs, splits, a command palette, and native builds for macOS, Windows, and Linux."
     },
     {
+      "name": "Unreal Hub",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/Mossworm/unreal-hub",
+      "image": "https://raw.githubusercontent.com/Mossworm/unreal-hub/main/assets/app-icon.svg",
+      "description": "A fast, lightweight launcher for Unreal Engine that finds your projects and installed engines and opens each project with the right engine."
+    },
+    {
       "name": "Vibex",
       "category": "Apps",
       "subcategory": "Developer Tools",
