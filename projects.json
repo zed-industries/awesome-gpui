@@ -972,6 +972,14 @@
       "description": "A native music streaming client, built with Rust and GPUI."
     },
     {
+      "name": "Still",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://github.com/alex-hjkl/still",
+      "image": "https://raw.githubusercontent.com/alex-hjkl/still/main/assets/app-icon/still.png",
+      "description": "A keyboard-first Navidrome music player built with Rust and GPUI."
+    },
+    {
       "name": "sukusho",
       "category": "Apps",
       "subcategory": "Media",
