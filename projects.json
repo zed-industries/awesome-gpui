@@ -805,6 +805,14 @@
       "description": "A fast, cross-platform (Linux, macOS, Windows) file manager, with built-in previews for documents, photos, videos, music, archives and 3D models, tags and saved searches, and an MCP server so agents can drive it too. It will soon support AI to organise your files."
     },
     {
+      "name": "Spool",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/wes/spool",
+      "image": "https://raw.githubusercontent.com/wes/spool/master/crates/app/icons/spool.png",
+      "description": "An email client for macOS with a keyboard-driven three-pane UI, full-text search across hundreds of thousands of messages, Gmail and IMAP accounts, and WebAssembly extensions."
+    },
+    {
       "name": "Steward",
       "category": "Apps",
       "subcategory": "Productivity",
