@@ -280,6 +280,14 @@
       "description": "A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI."
     },
     {
+      "name": "Noverdbee",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/noverwork/noverdbee",
+      "image": "https://raw.githubusercontent.com/noverwork/noverdbee/main/packages/desktop/icons/128x128@2x.png",
+      "description": "A native PostgreSQL and SQLite client with a SQL editor, result grid, staged row edits and environment-coloured tabs, plus a built-in MCP server that lets AI agents query the connections you share."
+    },
+    {
       "name": "o8",
       "category": "Apps",
       "subcategory": "Developer Tools",
