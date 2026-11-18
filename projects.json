@@ -50,6 +50,14 @@
       "description": "A cross-platform serial terminal for network engineers, with saved profiles, multi-window, auto-reconnect, and XMODEM/YMODEM file transfer."
     },
     {
+      "name": "Blackholes",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/andygeek/blackholes",
+      "image": "https://raw.githubusercontent.com/andygeek/blackholes/main/assets/app-logo-transparent.png",
+      "description": "A native macOS workspace for running Claude Code, Codex, and Antigravity in parallel terminals. A project groups several repositories, and each task gets its own Git worktree and branch in every repository it touches."
+    },
+    {
       "name": "Codux",
       "category": "Apps",
       "subcategory": "Developer Tools",
