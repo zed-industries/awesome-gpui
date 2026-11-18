@@ -280,6 +280,14 @@
       "description": "A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI."
     },
     {
+      "name": "Noverterm",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/noverwork/noverterm",
+      "image": "https://raw.githubusercontent.com/noverwork/noverterm/main/packages/desktop/icons/128x128@2x.png",
+      "description": "A native SSH client for macOS, Windows, and Linux with tabs, SFTP, port forwarding, jump hosts and snippets, plus a built-in MCP server that lets AI agents work your hosts with your approval."
+    },
+    {
       "name": "o8",
       "category": "Apps",
       "subcategory": "Developer Tools",
