@@ -597,6 +597,14 @@
       "description": "A database IDE built with Rust and GPUI, supporting SQLite, PostgreSQL, MySQL, and Redis."
     },
     {
+      "name": "Arke",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/Koimsurai/Arke",
+      "image": "https://raw.githubusercontent.com/Koimsurai/Arke/main/crates/app/assets/brand/arke.svg",
+      "description": "A file explorer for Windows that never freezes: listing, thumbnails, folder sizes and file operations run off the UI thread, and whole-PC search reads the NTFS master file table."
+    },
+    {
       "name": "Aviary",
       "category": "Apps",
       "subcategory": "Productivity",
