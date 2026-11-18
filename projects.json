@@ -669,6 +669,14 @@
       "description": "A todo app written in gpui."
     },
     {
+      "name": "Kimün",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/nico2sh/kimun",
+      "image": "https://github.com/nico2sh/kimun/blob/main/assets/logo.svg",
+      "description": "Local-first Markdown note taking app, compatible with Obsidian vaults and with a powerful search syntax."
+    },
+    {
       "name": "LokalBot",
       "category": "Apps",
       "subcategory": "Productivity",
