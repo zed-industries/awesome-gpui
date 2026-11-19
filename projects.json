@@ -304,6 +304,14 @@
       "description": "The review and merge layer for coding agents: agents write the code, o8 reviews it, sends it back until it's right, and merges it."
     },
     {
+      "name": "Omnigraph Studio",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/modernrelay/omnigraph-studio",
+      "image": "https://avatars.githubusercontent.com/u/206314331",
+      "description": "[The Knowledge IDE](https://www.omnigraph.dev/studio), based on [Omnigraph](https://omnigraph.dev). A blazing fast, GPU-rendered desktop app to visualize your ontology and graph, inspect knowledge, and review changes before they merge."
+    },
+    {
       "name": "OpenMango",
       "category": "Apps",
       "subcategory": "Developer Tools",
