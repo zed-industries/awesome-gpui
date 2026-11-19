@@ -725,6 +725,14 @@
       "description": "A floating Markdown notepad for macOS. It formats as you type and keeps each note as a plain .md file that Obsidian can open."
     },
     {
+      "name": "Matty",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/karyalabs/matty",
+      "image": "https://raw.githubusercontent.com/karyalabs/matty/master/packaging/icons/matty-icon.svg",
+      "description": "An unofficial Mattermost client built with GPUI and gpuicn for macOS, Linux, Windows and the web, with threads, multiple servers and offline messaging."
+    },
+    {
       "name": "mdoc",
       "category": "Apps",
       "subcategory": "Productivity",
@@ -1315,6 +1323,13 @@
       "category": "Libraries",
       "url": "https://github.com/packetThrower/zorite/tree/main/crates/gpui-whiteboard",
       "description": "An infinite, pan-and-zoom whiteboard canvas with shapes, arrows, freehand ink, text, and images, plus a built-in toolbar, templates, and undo/redo."
+    },
+    {
+      "name": "gpuicn",
+      "category": "Libraries",
+      "url": "https://github.com/karyalabs/gpuicn",
+      "image": "https://raw.githubusercontent.com/karyalabs/gpuicn/main/web/public/brand/gpuicn-panels-transparent.png",
+      "description": "Shadcn-styled GPUI components with theming and a CLI to copy editable Rust source into your app or use components as a crate."
     },
     {
       "name": "GPUIX",
