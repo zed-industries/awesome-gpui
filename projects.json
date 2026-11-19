@@ -673,7 +673,7 @@
       "category": "Apps",
       "subcategory": "Productivity",
       "url": "https://github.com/nico2sh/kimun",
-      "image": "https://github.com/nico2sh/kimun/blob/main/assets/logo.svg",
+      "image": "https://raw.githubusercontent.com/nico2sh/kimun/main/assets/logo.png",
       "description": "Local-first Markdown note taking app, compatible with Obsidian vaults and with a powerful search syntax."
     },
     {
