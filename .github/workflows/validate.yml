@@ -11,6 +11,8 @@ on:
       - pyproject.toml
       - uv.lock
       - scripts/sort_projects.py
+      - scripts/generate_readme.py
+      - tests/**
       - .github/workflows/validate.yml
 
 permissions:
@@ -42,3 +44,6 @@ jobs:
 
       - name: Check project ordering
         run: uv run scripts/sort_projects.py --check
+
+      - name: Test README generation
+        run: uv run pytest
