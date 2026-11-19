@@ -661,6 +661,14 @@
       "description": "A window switcher for macOS."
     },
     {
+      "name": "Flowie",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/wesleyel/flowie",
+      "image": "https://raw.githubusercontent.com/wesleyel/flowie/main/assets/icon.png",
+      "description": "A fast, keyboard-first outliner for macOS — zoom into any bullet, link and mirror ideas, write natively rendered LaTeX math, and keep everything stored locally."
+    },
+    {
       "name": "GDS Files",
       "category": "Apps",
       "subcategory": "Productivity",
