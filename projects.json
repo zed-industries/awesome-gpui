@@ -1211,6 +1211,13 @@
       "description": "React-style hooks for GPUI framework."
     },
     {
+      "name": "gpui-kit-grid",
+      "category": "Libraries",
+      "url": "https://github.com/GigLaboCom/gpui-kit-grid",
+      "image": "https://raw.githubusercontent.com/GigLaboCom/gpui-kit-grid/main/site/public/favicon.svg",
+      "description": "A live data grid for gpui-kit: rows updated by key from any thread, change highlight, and background sorting, filtering, grouping and trees."
+    },
+    {
       "name": "gpui-maps",
       "category": "Libraries",
       "url": "https://github.com/swatmobility/gpui-maps",
