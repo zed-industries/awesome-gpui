@@ -1036,6 +1036,14 @@
       "description": "A powerful screenshot manager for Windows."
     },
     {
+      "name": "Tayf",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://github.com/amr3k/tayf",
+      "image": "https://raw.githubusercontent.com/amr3k/tayf/main/resources/icons/512x512.png",
+      "description": "A fast, native Lottie animation viewer built with Rust, GPUI, and ThorVG, with playback controls, metadata inspection, GIF/MP4 export, and English/Arabic RTL support."
+    },
+    {
       "name": "Vartex",
       "category": "Apps",
       "subcategory": "Media",
