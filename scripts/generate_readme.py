@@ -7,6 +7,7 @@ import argparse
 import json
 import os
 import sys
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from html import escape
 from pathlib import Path
@@ -23,6 +24,7 @@ TEMPLATE_PATH = ROOT / "README.template.md"
 README_PATH = ROOT / "README.md"
 PLACEHOLDER = "<!-- PROJECTS -->"
 API_ROOT = "https://api.github.com"
+METADATA_WORKERS = 8
 
 
 
@@ -165,17 +167,32 @@ def collect_metadata(projects: list[dict[str, Any]], token: str | None) -> dict[
     repositories: dict[str, dict[str, Any] | None] = {}
     errors: set[str] = set()
 
-    for target in targets.values():
-        if target is None:
-            continue
-        repository, _ = target
-        if repository in repositories:
-            continue
-        try:
-            repositories[repository] = github_get(f"/repos/{repository}", token)
-        except (HTTPError, URLError, TimeoutError, OSError, ValueError) as error:
-            repositories[repository] = None
-            errors.add(f"{repository}: {error}")
+    with ThreadPoolExecutor(max_workers=METADATA_WORKERS) as executor:
+        repository_requests = {
+            repository: executor.submit(github_get, f"/repos/{repository}", token)
+            for repository in dict.fromkeys(target[0] for target in targets.values() if target)
+        }
+        for repository, future in repository_requests.items():
+            try:
+                repositories[repository] = future.result()
+            except (HTTPError, URLError, TimeoutError, OSError, ValueError) as error:
+                repositories[repository] = None
+                errors.add(f"{repository}: {error}")
+
+        # Only fetch path activity for repositories whose metadata was available.
+        # Workers perform requests; all result handling and rendering stays ordered.
+        path_requests = {
+            (repository, path): executor.submit(
+                github_get,
+                f"/repos/{repository}/commits",
+                token,
+                {"path": path, "per_page": "1"},
+            )
+            for repository, path in dict.fromkeys(
+                target for target in targets.values() if target and target[1]
+            )
+            if repositories[repository] is not None
+        }
 
     results: dict[int, dict[str, Any]] = {}
     for project in projects:
@@ -201,11 +218,7 @@ def collect_metadata(projects: list[dict[str, Any]], token: str | None) -> dict[
         date = parse_date(metadata.get("pushed_at"))
         if path:
             try:
-                commits = github_get(
-                    f"/repos/{repository}/commits",
-                    token,
-                    {"path": path, "per_page": "1"},
-                )
+                commits = path_requests[repository, path].result()
                 if commits:
                     commit = commits[0].get("commit", {})
                     date = parse_date(commit.get("committer", {}).get("date")) or parse_date(
