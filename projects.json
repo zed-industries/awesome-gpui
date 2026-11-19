@@ -487,6 +487,14 @@
       "description": "A HTTP toolkit for security research, written in [Zopra](https://github.com/ppmpreetham/zopra) & Rust."
     },
     {
+      "name": "Tellal",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/cengizhankose/tellal",
+      "image": "https://raw.githubusercontent.com/cengizhankose/tellal/main/docs/media/icon.png",
+      "description": "A floating macOS panel that reads your T3 Code agent threads aloud with a local voice, built with Rust and GPUI."
+    },
+    {
       "name": "termy",
       "category": "Apps",
       "subcategory": "Developer Tools",
