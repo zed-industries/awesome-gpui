@@ -717,6 +717,14 @@
       "description": "A todo app written in gpui."
     },
     {
+      "name": "Kantor",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/dzulfikar08/kantor",
+      "image": "https://raw.githubusercontent.com/dzulfikar08/kantor/main/assets/icons/kantor.svg",
+      "description": "Small, fast office suite (Sheets, Docs, Slides) that opens and saves Excel, Word and PowerPoint files."
+    },
+    {
       "name": "Kimün",
       "category": "Apps",
       "subcategory": "Productivity",
