@@ -685,6 +685,14 @@
       "description": "A window switcher for macOS."
     },
     {
+      "name": "Filetree",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/Graham-04/filetree.app",
+      "image": "https://raw.githubusercontent.com/Graham-04/filetree.app/main/packaging/Filetree.icon/Assets/Filetree.png",
+      "description": "A fast, open-source file browser for macOS built with Rust and GPUI."
+    },
+    {
       "name": "Flowie",
       "category": "Apps",
       "subcategory": "Productivity",
