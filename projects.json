@@ -725,6 +725,14 @@
       "description": "Local-first Markdown note taking app, compatible with Obsidian vaults and with a powerful search syntax."
     },
     {
+      "name": "Latte Books",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/bloomsynth/latte-books",
+      "image": "https://raw.githubusercontent.com/bloomsynth/latte-books/main/crates/latte-app/icons/icon.png",
+      "description": "Fast, free and open-source desktop accounting for Windows, macOS and Linux: sales, purchases, inventory, point of sale, India GST and reports, with an MCP server for AI assistants."
+    },
+    {
       "name": "LokalBot",
       "category": "Apps",
       "subcategory": "Productivity",
