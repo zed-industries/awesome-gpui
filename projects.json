@@ -566,6 +566,14 @@
       "description": "A native code editor in the shape of JetBrains Fleet, with Files, Search, Git, Terminal and Run tools, a rust-analyzer Smart Mode, and Fleet's own theme, keymap and settings files loaded unchanged."
     },
     {
+      "name": "Windissect",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/razecrs/windissect",
+      "image": "https://raw.githubusercontent.com/razecrs/windissect/main/gui/assets/brand/windissect-256.png",
+      "description": "A desktop workbench for Windows binaries: open a DLL or EXE, fetch its PDB, and browse the classes, vtables, functions and evidence Windissect can prove, with C, C++ and Rust bindings generated from them. Runs on Windows and Linux."
+    },
+    {
       "name": "WSP",
       "category": "Apps",
       "subcategory": "Developer Tools",
