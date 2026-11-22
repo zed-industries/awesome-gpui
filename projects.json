@@ -296,6 +296,14 @@
       "description": "A native SSH client with SFTP, port forwarding and jump hosts, ngrok-style public tunnels through a self-hosted relay, and a built-in MCP server for AI agents with per-step approval."
     },
     {
+      "name": "NyaTerm",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/nyakang/nyaterm",
+      "image": "https://raw.githubusercontent.com/nyakang/nyaterm/main/docs-site/static/img/nyaterm.svg",
+      "description": "A cross-platform native remote terminal workspace built with Rust and GPUI, combining SSH, local shells, SFTP, RDP/VNC, port forwarding, AI assistance, and encrypted sync."
+    },
+    {
       "name": "o8",
       "category": "Apps",
       "subcategory": "Developer Tools",
