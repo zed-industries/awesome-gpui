@@ -487,6 +487,14 @@
       "description": "A HTTP toolkit for security research, written in [Zopra](https://github.com/ppmpreetham/zopra) & Rust."
     },
     {
+      "name": "tablex",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/tablex-org/tablex",
+      "image": "https://tablex-org.github.io/assets/apple-touch-icon.png",
+      "description": "A native database client for macOS covering PostgreSQL, MySQL, MariaDB, SQLite, MongoDB, Redis and ClickHouse, with schema-aware SQL completion, results streamed as Apache Arrow into a virtualized grid, an AI assistant and an MCP server."
+    },
+    {
       "name": "Tellal",
       "category": "Apps",
       "subcategory": "Developer Tools",
