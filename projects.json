@@ -973,6 +973,14 @@
       "description": "A lightweight open-source screenshot tool for macOS and Windows: capture an area, a window, or a scrolling page, then annotate it with arrows, text, blur, and measurements."
     },
     {
+      "name": "kōan",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://github.com/radiosilence/koan",
+      "image": "https://raw.githubusercontent.com/radiosilence/koan/main/crates/koan-gui/packaging/AppIcon.svg",
+      "description": "A bit-perfect music player for macOS, Linux and iOS, for local libraries and Subsonic/Navidrome servers, with gapless playback, per-device EQ and convolution, and synced lyrics."
+    },
+    {
       "name": "Lumia",
       "category": "Apps",
       "subcategory": "Media",
