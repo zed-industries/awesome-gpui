@@ -26,6 +26,14 @@
       "description": "Fast and lightweight api client."
     },
     {
+      "name": "Bare Compare",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://barecompare.app",
+      "image": "https://barecompare.app/icon.png",
+      "description": "A folder and file comparison tool with aligned side-by-side diffs, in-place editing, git branches and commits as folders, and image, hex and zip views."
+    },
+    {
       "name": "BarSQL",
       "category": "Apps",
       "subcategory": "Developer Tools",
