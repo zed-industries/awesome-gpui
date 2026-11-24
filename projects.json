@@ -885,6 +885,14 @@
       "description": "A Figma-like design editor for desktop and the web, built with Rust and GPUI, with vector editing, auto layout, reusable components, and PNG/SVG export."
     },
     {
+      "name": "rustyfiles",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/gelenmedya/rustyfiles",
+      "image": "https://raw.githubusercontent.com/gelenmedya/rustyfiles/main/crates/rf-app/assets/rustyfiles.png",
+      "description": "A file manager for Windows that never freezes: tabs and dual panes, Explorer's own context menus, fast copying, a built-in archive engine, quick previews, and an optional dock, Start menu and desktop that can stand in for Explorer's shell."
+    },
+    {
       "name": "Scoria",
       "category": "Apps",
       "subcategory": "Productivity",
