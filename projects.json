@@ -978,7 +978,7 @@
       "subcategory": "Media",
       "url": "https://github.com/radiosilence/koan",
       "image": "https://raw.githubusercontent.com/radiosilence/koan/main/crates/koan-gui/packaging/AppIcon.svg",
-      "description": "A bit-perfect music player for macOS, Linux and iOS, for local libraries and Subsonic/Navidrome servers, with gapless playback, remote control between devices, per-device EQ and convolution, and synced lyrics."
+      "description": "A bit-perfect music player and OpenSubsonic server in Rust: desktop, iPhone, iPad and Apple TV apps, plus Android, a terminal UI and the web; play on or control any of your devices, UPnP output, per-device EQ and convolution, and an MCP server so assistants can drive your music."
     },
     {
       "name": "Lumia",
