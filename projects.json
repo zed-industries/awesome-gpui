@@ -1202,6 +1202,14 @@
       "description": "A WSL2 Hyper-V Firewall Management GUI for mirrored WSL2 networking built with Rust and GPUI."
     },
     {
+      "name": "Xrose",
+      "category": "Apps",
+      "subcategory": "System Utilities",
+      "url": "https://github.com/zuoxinyu/xrose",
+      "image": "https://raw.githubusercontent.com/zuoxinyu/xrose/main/crates/xrose-app/assets/app-icon.png",
+      "description": "A cross-platform desktop client for sing-box and Xray with built-in EasyTier and Tailscale mesh networking, featuring native vibrancy and Mica window effects, live connection and process traffic monitoring, routing rules, DNS, and diagnostics."
+    },
+    {
       "name": "gpui-base64",
       "category": "Apps",
       "subcategory": "Demos & Examples",
