@@ -254,7 +254,7 @@
       "subcategory": "Developer Tools",
       "url": "https://github.com/sao-coding/locus",
       "image": "https://raw.githubusercontent.com/sao-coding/locus/main/crates/app/assets/app-icon.svg",
-      "description": "A Windows database client for MySQL/MariaDB, PostgreSQL, SQLite, Redis, Oracle and SQL Server that stays smooth: million-row results stream into a virtualized grid, cancelling really stops the query on the server, and Production connections are read-only behind a timed unlock and audit log. Also has split panes, an in-place cell editor, SSH tunnels and an ER diagram."
+      "description": "A Windows database client for MySQL/MariaDB, PostgreSQL, SQLite, Redis, Oracle and SQL Server, organized like Arc: color-coded Spaces group connections and tabs, with vertical tabs and split panes. Million-row results stream into a virtualized grid, cancelling really stops the query on the server, and Production connections are read-only behind a timed unlock and audit log."
     },
     {
       "name": "Lumi",
