@@ -249,6 +249,14 @@
       "description": "A fast, native code review app built with Rust and GPUI."
     },
     {
+      "name": "Locus",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/sao-coding/locus",
+      "image": "https://raw.githubusercontent.com/sao-coding/locus/main/crates/app/assets/app-icon.svg",
+      "description": "A fast, smooth database client for Windows, with streaming result grids and real query cancellation, supporting MySQL/MariaDB, PostgreSQL, SQLite, Redis, Oracle and SQL Server."
+    },
+    {
       "name": "Lumi",
       "category": "Apps",
       "subcategory": "Developer Tools",
