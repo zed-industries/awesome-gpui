@@ -869,6 +869,14 @@
       "description": "Free, open-source file tools for macOS, Windows and Linux: PDF, image, video and audio, OCR, ID photos, file search and a disk map, all on your device, with community plugins that run as sandboxed WebAssembly."
     },
     {
+      "name": "Quiet.md",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/s1dashu/quiet-md",
+      "image": "https://raw.githubusercontent.com/s1dashu/quiet-md/main/site/public/icon.png",
+      "description": "A local-first notes app for macOS, Windows, and Linux with as-you-type Markdown formatting, rich-text editing, and whiteboards embedded in notes."
+    },
+    {
       "name": "Quill",
       "category": "Apps",
       "subcategory": "Productivity",
