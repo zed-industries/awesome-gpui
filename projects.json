@@ -1496,6 +1496,13 @@
       "description": "Print-inspired vertical rhythm for GPUI, with baseline offsets computed from real font metrics."
     },
     {
+      "name": "Skathi",
+      "category": "Libraries",
+      "url": "https://github.com/argon-chat/skathi",
+      "image": "https://raw.githubusercontent.com/argon-chat/skathi/master/logos/logo_single.svg",
+      "description": "A desktop framework that renders Vue 3 and Svelte 5 components directly with GPUI on Windows, macOS, and Linux."
+    },
+    {
       "name": "Zopra",
       "category": "Libraries",
       "url": "https://github.com/ppmpreetham/zopra",
