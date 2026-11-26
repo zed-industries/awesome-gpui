@@ -519,6 +519,14 @@
       "description": "A floating macOS panel that reads your T3 Code agent threads aloud with a local voice, built with Rust and GPUI."
     },
     {
+      "name": "terminaste",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/Killusions/terminaste",
+      "image": "https://raw.githubusercontent.com/Killusions/terminaste/main/assets/icons/icon-256.png",
+      "description": "A native terminal built with Rust and GPUI, featuring an IDE-style input, structured command and output blocks, tabs, split panes, and session restoration."
+    },
+    {
       "name": "termy",
       "category": "Apps",
       "subcategory": "Developer Tools",
