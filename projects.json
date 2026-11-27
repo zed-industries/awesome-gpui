@@ -1227,6 +1227,14 @@
       "description": "A treemap for finding and removing what fills your disk, for Omarchy."
     },
     {
+      "name": "Ferrite",
+      "category": "Apps",
+      "subcategory": "System Utilities",
+      "description": "A fast, local-first, telemetry-free download manager and accelerator for macOS and Linux supporting segmented HTTP/FTP, BitTorrent, and HLS/DASH streams, with a scriptable CLI and SQLite state.",
+      "image": "https://raw.githubusercontent.com/itsarian/ferrite/main/resources/Ferrite-1024.png",
+      "url": "https://github.com/itsarian/ferrite"
+    },
+    {
       "name": "omarchist",
       "category": "Apps",
       "subcategory": "System Utilities",
