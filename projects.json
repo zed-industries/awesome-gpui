@@ -981,6 +981,14 @@
       "description": "A small, polished launcher and plugin platform for Windows, built with Rust, GPUI, and gpui-component."
     },
     {
+      "name": "Tallypad",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/aimen08/tallypad",
+      "image": "https://raw.githubusercontent.com/aimen08/tallypad/main/assets/tallypad-128.png",
+      "description": "A notepad calculator for Windows, built with Rust and GPUI: type maths in plain text with units, live currencies, percentages and variables, and see each answer as you type."
+    },
+    {
       "name": "Traydex",
       "category": "Apps",
       "subcategory": "Productivity",
