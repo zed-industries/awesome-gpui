@@ -936,8 +936,8 @@
       "name": "SnapIt",
       "category": "Apps",
       "subcategory": "Productivity",
-      "url": "https://github.com/gjfei/snapit",
-      "image": "https://raw.githubusercontent.com/gjfei/snapit/main/assets/snapit-icon.png",
+      "url": "https://github.com/jarven97/snapit",
+      "image": "https://raw.githubusercontent.com/jarven97/snapit/main/assets/snapit-icon.png",
       "description": "A native GPUI screenshot tool for macOS and Windows with scrolling capture, OCR, annotations, pinning, and GIF/APNG/MP4 recording."
     },
     {
