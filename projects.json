@@ -1140,6 +1140,14 @@
       "description": "A native macOS app that makes screenshots beautiful: put a capture, an image, or a code snippet on a gradient backdrop with padding, rounded corners, and a shadow, then mark it up with arrows, boxes, text, and blur."
     },
     {
+      "name": "SnapIt",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://github.com/jarven97/snapit",
+      "image": "https://raw.githubusercontent.com/jarven97/snapit/main/assets/snapit-icon.png",
+      "description": "A native GPUI screenshot tool for macOS and Windows with scrolling capture, OCR, annotations, pinning, and GIF/APNG/MP4 recording."
+    },
+    {
       "name": "Sonora",
       "category": "Apps",
       "subcategory": "Media",
