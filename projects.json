@@ -498,8 +498,8 @@
       "name": "SwitchHosts Lite",
       "category": "Apps",
       "subcategory": "Developer Tools",
-      "url": "https://github.com/gjfei/SwitchHostsLite",
-      "image": "https://raw.githubusercontent.com/gjfei/SwitchHostsLite/main/assets/icon.png",
+      "url": "https://github.com/jarven97/SwitchHostsLite",
+      "image": "https://raw.githubusercontent.com/jarven97/SwitchHostsLite/main/assets/icon.png",
       "description": "A lightweight native GPUI hosts switcher for macOS and Windows with local and remote entries, folders, groups, backups, and browser profiles."
     },
     {
