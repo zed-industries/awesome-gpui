@@ -933,14 +933,6 @@
       "description": "A fast, cross-platform (Linux, macOS, Windows) file manager, with built-in previews for documents, photos, videos, music, archives and 3D models, tags and saved searches, and an MCP server so agents can drive it too. It will soon support AI to organise your files."
     },
     {
-      "name": "SnapIt",
-      "category": "Apps",
-      "subcategory": "Productivity",
-      "url": "https://github.com/jarven97/snapit",
-      "image": "https://raw.githubusercontent.com/jarven97/snapit/main/assets/snapit-icon.png",
-      "description": "A native GPUI screenshot tool for macOS and Windows with scrolling capture, OCR, annotations, pinning, and GIF/APNG/MP4 recording."
-    },
-    {
       "name": "Spool",
       "category": "Apps",
       "subcategory": "Productivity",
@@ -1106,6 +1098,14 @@
       "url": "https://github.com/kakilangit/shokirei",
       "image": "https://raw.githubusercontent.com/kakilangit/shokirei/main/assets/icons/shokirei-256.png",
       "description": "A native macOS app that makes screenshots beautiful: put a capture, an image, or a code snippet on a gradient backdrop with padding, rounded corners, and a shadow, then mark it up with arrows, boxes, text, and blur."
+    },
+    {
+      "name": "SnapIt",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://github.com/jarven97/snapit",
+      "image": "https://raw.githubusercontent.com/jarven97/snapit/main/assets/snapit-icon.png",
+      "description": "A native GPUI screenshot tool for macOS and Windows with scrolling capture, OCR, annotations, pinning, and GIF/APNG/MP4 recording."
     },
     {
       "name": "Sonora",
