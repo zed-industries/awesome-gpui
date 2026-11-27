@@ -765,6 +765,14 @@
       "description": "A todo app written in gpui."
     },
     {
+      "name": "Jiyue",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/limitcool/jiyue",
+      "image": "https://raw.githubusercontent.com/limitcool/jiyue/main/docs/images/logo.png",
+      "description": "A local-first Markdown notes app for Windows, macOS, and Linux built with Rust and GPUI (with an Android companion sharing the Rust core), featuring live preview, Obsidian vault compatibility, LaTeX math, Mermaid diagrams, knowledge graph, CJK full-text search, and S3/WebDAV sync."
+    },
+    {
       "name": "Kantor",
       "category": "Apps",
       "subcategory": "Productivity",
