@@ -495,6 +495,14 @@
       "description": "A native SSH client for macOS: a terminal, a two-pane SFTP file manager that follows the terminal's directory, and a server monitor in one window, on libghostty-vt."
     },
     {
+      "name": "SwitchHosts Lite",
+      "category": "Apps",
+      "subcategory": "Developer Tools",
+      "url": "https://github.com/jarven97/SwitchHostsLite",
+      "image": "https://raw.githubusercontent.com/jarven97/SwitchHostsLite/main/assets/icon.png",
+      "description": "A lightweight native GPUI hosts switcher for macOS and Windows with local and remote entries, folders, groups, backups, and browser profiles."
+    },
+    {
       "name": "SyZyGy",
       "category": "Apps",
       "subcategory": "Developer Tools",
