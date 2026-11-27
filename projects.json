@@ -1124,6 +1124,14 @@
       "description": "A cross-platform music player with bit-perfect/exclusive output and a customizable UI."
     },
     {
+      "name": "Poratake",
+      "category": "Apps",
+      "subcategory": "Media",
+      "url": "https://github.com/Porabuild/Poratake",
+      "image": "https://raw.githubusercontent.com/Porabuild/Poratake/main/build/icon.png",
+      "description": "A native screenshot and screen recording studio for macOS, Windows, and Linux, with annotation, OCR, transcription, and editing."
+    },
+    {
       "name": "reveal",
       "category": "Apps",
       "subcategory": "Media",
@@ -1533,6 +1541,12 @@
       "category": "Libraries",
       "url": "https://github.com/wess/guise",
       "description": "A Mantine-inspired component library with theming, sizing tokens, and a large set of ready-made components."
+    },
+    {
+      "name": "HeroGPUI",
+      "category": "Libraries",
+      "url": "https://github.com/Porabuild/HeroGPUI",
+      "description": "A native port of the HeroUI v3 design system to GPUI, with every documented component plus desktop extensions like virtual lists, tree views, and command palettes."
     },
     {
       "name": "HIG for GPUI",
