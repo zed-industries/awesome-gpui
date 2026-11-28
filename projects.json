@@ -869,6 +869,14 @@
       "description": "A high-performance, all-in-one WYSIWYG Markdown editing engine with workspaces, live diff and integrated Agent terminal."
     },
     {
+      "name": "MOTAA Desktop",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/AungMyoKyaw/motaa-desktop",
+      "image": "https://raw.githubusercontent.com/AungMyoKyaw/motaa-desktop/master/assets/app-icon-256.png",
+      "description": "An offline-first Myanmar astrology workspace for macOS, Windows, and Linux built with Rust and GPUI, featuring natal and transit charts, traditional Burmese chart geometry, and SQLite birth profiles."
+    },
+    {
       "name": "NearWord",
       "category": "Apps",
       "subcategory": "Productivity",
