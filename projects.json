@@ -757,6 +757,14 @@
       "description": "A fast, keyboard-first outliner for macOS — zoom into any bullet, link and mirror ideas, write natively rendered LaTeX math, and keep everything stored locally."
     },
     {
+      "name": "Flowlist",
+      "category": "Apps",
+      "subcategory": "Productivity",
+      "url": "https://github.com/Vulkan1125/flowlist",
+      "image": "https://raw.githubusercontent.com/Vulkan1125/flowlist/main/assets/icons/Flowlist.png",
+      "description": "A fast, local-first task manager for macOS and Android, with a native GUI, CLI and MCP server."
+    },
+    {
       "name": "GDS Files",
       "category": "Apps",
       "subcategory": "Productivity",
